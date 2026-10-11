@@ -235,7 +235,7 @@ export const BANNERS = {
         5: 10,
         6: 80,
       },
-      isActive: false,
+      isActive: true,
       topResetPityForAll: true,
       ignorePityOnFreePull: true,
     },
