@@ -346,6 +346,44 @@ export const BANNERS = {
       showGlobalStats: true,
     },
     {
+      id: 'exclusive_rescreening',
+      pool_id: 12001,
+      name: 'Exclusive Rescreening',
+      currency: 'encypted_master_tape',
+      duration: 'limited',
+      icon: 'character',
+      rate: 0.6,
+      pityMaxByRarity: {
+        3: 10,
+        4: 90,
+      },
+      isActive: false,
+      topResetPityForAll: true,
+      rateUp: {
+        itemType: 'characters',
+        loseItems: [
+          {
+            name: 'Caesar',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          'Grace',
+          'Koleda',
+          'Lycaon',
+          'Nekomata',
+          'Rina',
+          'Soldier 11',
+          {
+            name: 'Yanagi',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          {
+            name: 'Zhu Yuan',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+        ],
+      },
+    },
+    {
       id: 'wengine',
       pool_id: 3001,
       name: 'W-Engine Channel',
@@ -384,6 +422,45 @@ export const BANNERS = {
         ],
       },
       showGlobalStats: true,
+    },
+    {
+      id: 'wengine_reverberation',
+      pool_id: 13001,
+      name: 'W-Engine Reverberation',
+      currency: 'encypted_master_tape',
+      duration: 'limited',
+      icon: 'weapon',
+      rate: 1,
+      pityMaxByRarity: {
+        3: 10,
+        4: 80,
+      },
+      isActive: false,
+      topResetPityForAll: true,
+      rateUp: {
+        itemType: 'weapons',
+        chance: 75,
+        loseItems: [
+          'Fusion Compiler',
+          'Hellfire Gears',
+          {
+            name: 'Riot Suppressor Mark VI',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          'Steel Cushion',
+          'The Brimstone',
+          'The Restrained',
+          {
+            name: 'Timeweaver',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          {
+            name: 'Tusks of Fury',
+            since: '2026-07-29T11:00:00+08:00',
+          },
+          'Weeping Cradle',
+        ],
+      },
     },
     {
       id: 'stable',
