@@ -418,4 +418,5 @@ export const BANNERS = {
       showGlobalStats: true,
     },
   ],
+  hsr: [],
 };
