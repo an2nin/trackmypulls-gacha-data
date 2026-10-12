@@ -437,7 +437,7 @@ export const GAMES = [
     description: 'Open World Gacha Game',
     gachaTerm: 'Warp',
     image: '',
-    website: '',
+    website: 'https://hsr.hoyoverse.com/en-us/',
     developer: 'miHoYo',
     status: 'draft',
     features: {
@@ -456,32 +456,79 @@ export const GAMES = [
           '5',
           '4',
         ],
-        attrs: [],
+        attrs: [
+          'elements',
+          'paths',
+        ],
         forceIds: true,
       },
       {
         name: 'weapons',
         label: 'Light Cones',
-        icon: 'light-cones',
+        icon: 'weapons',
         mappedTo: 'w',
         rarities: [
           '5',
           '4',
         ],
-        attrs: [],
+        attrs: [
+          'paths',
+        ],
         forceIds: true,
       },
     ],
     attrTypes: [
       {
-        name: 'attribute',
-        label: '',
-        icon: '',
-        values: [],
+        name: 'elements',
+        label: 'Elements',
+        icon: 'element',
+        values: [
+          'physical',
+          'fire',
+          'ice',
+          'lightning',
+          'wind',
+          'quantum',
+          'imaginary',
+        ],
+      },
+      {
+        name: 'paths',
+        label: 'Paths',
+        icon: 'class',
+        values: [
+          'destruction',
+          'the hunt',
+          'erudition',
+          'harmony',
+          'nihility',
+          'preservation',
+          'abundance',
+          'remembrance',
+          'elation',
+        ],
       },
     ],
-    collectionConfig: {},
-    mappings: {},
+    collectionConfig: {
+      characters: {
+        countOffset: -1,
+        countLabel: 'E',
+      },
+      weapons: {
+        countOffset: 0,
+        countLabel: 'S',
+      },
+    },
+    mappings: {
+      characters: {
+        matchedAs: 'Character',
+        storedAs: 'c',
+      },
+      weapons: {
+        matchedAs: 'Light Cone',
+        storedAs: 'w',
+      },
+    },
     rarities: [
       {
         name: '5',
