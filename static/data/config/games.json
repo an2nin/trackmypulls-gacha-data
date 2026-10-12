@@ -793,7 +793,7 @@
     "description": "Open World Gacha Game",
     "gachaTerm": "Warp",
     "image": "",
-    "website": "",
+    "website": "https://hsr.hoyoverse.com/en-us/",
     "developer": "miHoYo",
     "status": "draft",
     "features": {
@@ -812,32 +812,79 @@
           "5",
           "4"
         ],
-        "attrs": [],
+        "attrs": [
+          "elements",
+          "paths"
+        ],
         "forceIds": true
       },
       {
         "name": "weapons",
         "label": "Light Cones",
-        "icon": "light-cones",
+        "icon": "weapons",
         "mappedTo": "w",
         "rarities": [
           "5",
           "4"
         ],
-        "attrs": [],
+        "attrs": [
+          "paths"
+        ],
         "forceIds": true
       }
     ],
     "attrTypes": [
       {
-        "name": "attribute",
-        "label": "",
-        "icon": "",
-        "values": []
+        "name": "elements",
+        "label": "Elements",
+        "icon": "element",
+        "values": [
+          "physical",
+          "fire",
+          "ice",
+          "lightning",
+          "wind",
+          "quantum",
+          "imaginary"
+        ]
+      },
+      {
+        "name": "paths",
+        "label": "Paths",
+        "icon": "class",
+        "values": [
+          "destruction",
+          "the hunt",
+          "erudition",
+          "harmony",
+          "nihility",
+          "preservation",
+          "abundance",
+          "remembrance",
+          "elation"
+        ]
       }
     ],
-    "collectionConfig": {},
-    "mappings": {},
+    "collectionConfig": {
+      "characters": {
+        "countOffset": -1,
+        "countLabel": "E"
+      },
+      "weapons": {
+        "countOffset": 0,
+        "countLabel": "S"
+      }
+    },
+    "mappings": {
+      "characters": {
+        "matchedAs": "Character",
+        "storedAs": "c"
+      },
+      "weapons": {
+        "matchedAs": "Light Cone",
+        "storedAs": "w"
+      }
+    },
     "rarities": [
       {
         "name": "5",
@@ -855,6 +902,149 @@
         "styles": "blue"
       }
     ],
-    "banners": []
+    "banners": [
+      {
+        "id": "character_event",
+        "pool_id": 11,
+        "name": "Character Event Warp",
+        "currency": "star_rail_special_pass",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.6,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 90
+        },
+        "isActive": true,
+        "topResetPityForAll": true,
+        "rateUp": {
+          "itemType": "characters",
+          "loseItems": [
+            "Bailu",
+            "Bronya",
+            "Clara",
+            "Gepard",
+            "Himeko",
+            "Welt",
+            "Yanqing"
+          ]
+        },
+        "showGlobalStats": true
+      },
+      {
+        "id": "light_cone_event",
+        "pool_id": 12,
+        "name": "Light Cone Event Warp",
+        "currency": "star_rail_special_pass",
+        "duration": "limited",
+        "icon": "weapon",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "isActive": true,
+        "topResetPityForAll": true,
+        "rateUp": {
+          "itemType": "weapons",
+          "chance": 75,
+          "loseItems": [
+            "But the Battle Isn't Over",
+            "In the Name of the World",
+            "Moment of Victory",
+            "Night on the Milky Way",
+            "Sleep Like the Dead",
+            "Something Irreplaceable",
+            "Time Waits for No One"
+          ]
+        },
+        "showGlobalStats": true
+      },
+      {
+        "id": "stellar",
+        "pool_id": 1,
+        "name": "Stellar Warp",
+        "currency": "star_rail_pass",
+        "duration": "permanent",
+        "icon": "combined",
+        "rate": 0.6,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 90
+        },
+        "isActive": true,
+        "topResetPityForAll": true,
+        "showGlobalStats": true
+      },
+      {
+        "id": "departure",
+        "pool_id": 2,
+        "name": "Departure Warp",
+        "currency": "star_rail_pass",
+        "duration": "permanent",
+        "icon": "character",
+        "rate": 0.6,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 50
+        },
+        "topResetPityForAll": true
+      },
+      {
+        "id": "collab_character",
+        "pool_id": 21,
+        "name": "Collaboration Character Warp",
+        "currency": "star_rail_special_pass",
+        "duration": "limited",
+        "icon": "character",
+        "rate": 0.6,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 90
+        },
+        "isActive": false,
+        "topResetPityForAll": true,
+        "rateUp": {
+          "itemType": "characters",
+          "loseItems": [
+            "Bailu",
+            "Bronya",
+            "Clara",
+            "Gepard",
+            "Himeko",
+            "Welt",
+            "Yanqing"
+          ]
+        }
+      },
+      {
+        "id": "collab_light_cone",
+        "pool_id": 22,
+        "name": "Collaboration Light Cone Warp",
+        "currency": "star_rail_special_pass",
+        "duration": "limited",
+        "icon": "weapon",
+        "rate": 0.8,
+        "pityMaxByRarity": {
+          "4": 10,
+          "5": 80
+        },
+        "isActive": false,
+        "topResetPityForAll": true,
+        "rateUp": {
+          "itemType": "weapons",
+          "chance": 75,
+          "loseItems": [
+            "But the Battle Isn't Over",
+            "In the Name of the World",
+            "Moment of Victory",
+            "Night on the Milky Way",
+            "Sleep Like the Dead",
+            "Something Irreplaceable",
+            "Time Waits for No One"
+          ]
+        }
+      }
+    ]
   }
 ]
