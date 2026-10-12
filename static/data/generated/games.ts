@@ -285,6 +285,7 @@ export const GAMES = [
     developer: 'miHoYo',
     status: 'beta',
     features: {
+      globalStats: false,
       import: true,
       allowImportRefresh: true,
       manualEntry: false,
