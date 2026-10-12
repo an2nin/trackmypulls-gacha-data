@@ -785,5 +785,76 @@
         "showGlobalStats": true
       }
     ]
+  },
+  {
+    "slug": "hsr",
+    "name": "Honkai Star Rail",
+    "shortName": "HSR",
+    "description": "Open World Gacha Game",
+    "gachaTerm": "Warp",
+    "image": "",
+    "website": "",
+    "developer": "miHoYo",
+    "status": "draft",
+    "features": {
+      "globalStats": false,
+      "import": true,
+      "allowImportRefresh": false,
+      "manualEntry": false
+    },
+    "itemTypes": [
+      {
+        "name": "characters",
+        "label": "Characters",
+        "icon": "characters",
+        "mappedTo": "c",
+        "rarities": [
+          "5",
+          "4"
+        ],
+        "attrs": [],
+        "forceIds": true
+      },
+      {
+        "name": "weapons",
+        "label": "Light Cones",
+        "icon": "light-cones",
+        "mappedTo": "w",
+        "rarities": [
+          "5",
+          "4"
+        ],
+        "attrs": [],
+        "forceIds": true
+      }
+    ],
+    "attrTypes": [
+      {
+        "name": "attribute",
+        "label": "",
+        "icon": "",
+        "values": []
+      }
+    ],
+    "collectionConfig": {},
+    "mappings": {},
+    "rarities": [
+      {
+        "name": "5",
+        "label": "5✦",
+        "styles": "yellow"
+      },
+      {
+        "name": "4",
+        "label": "4✦",
+        "styles": "purple"
+      },
+      {
+        "name": "3",
+        "label": "3✦",
+        "styles": "blue"
+      }
+    ],
+    "banners": []
   }
 ]
