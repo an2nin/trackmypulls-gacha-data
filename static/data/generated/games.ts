@@ -8,6 +8,7 @@ export const GAMES = [
     image: '',
     website: 'https://wutheringwaves.kurogames.com/en/main',
     developer: 'Kuro Games',
+    status: 'live',
     features: {
       globalStats: true,
       import: true,
@@ -138,6 +139,7 @@ export const GAMES = [
     image: '',
     website: 'https://endfield.gryphline.com/en-us',
     developer: 'Gryphline',
+    status: 'live',
     features: {
       globalStats: true,
       import: true,
@@ -281,7 +283,7 @@ export const GAMES = [
     image: '',
     website: 'https://zenless.hoyoverse.com/en-us/',
     developer: 'miHoYo',
-    isBeta: true,
+    status: 'beta',
     features: {
       import: true,
       allowImportRefresh: true,
