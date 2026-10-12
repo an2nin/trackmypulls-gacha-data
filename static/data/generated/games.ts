@@ -9,6 +9,7 @@ export const GAMES = [
     website: 'https://wutheringwaves.kurogames.com/en/main',
     developer: 'Kuro Games',
     features: {
+      globalStats: true,
       import: true,
       allowImportRefresh: false,
       manualEntry: false,
@@ -138,6 +139,7 @@ export const GAMES = [
     website: 'https://endfield.gryphline.com/en-us',
     developer: 'Gryphline',
     features: {
+      globalStats: true,
       import: true,
       allowImportRefresh: true,
       manualEntry: false,
