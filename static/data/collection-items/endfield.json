@@ -274,6 +274,13 @@
       }
     },
     {
+      "name": "Blessing of Lustrous Carmine",
+      "quality": "6",
+      "attributes": {
+        "weapons": "polearm"
+      }
+    },
+    {
       "name": "Brigand's Calling",
       "quality": "6",
       "attributes": {
@@ -293,6 +300,14 @@
       "attributes": {
         "weapons": "handcannon"
       }
+    },
+    {
+      "name": "Complexed Industry",
+      "quality": "6",
+      "attributes": {
+        "weapons": "sword"
+      },
+      "isNonGacha": true
     },
     {
       "name": "Delivery Guaranteed",
@@ -337,6 +352,14 @@
       }
     },
     {
+      "name": "Flickers in the Mist",
+      "quality": "6",
+      "attributes": {
+        "weapons": "arts unit"
+      },
+      "isNonGacha": true
+    },
+    {
       "name": "Forgeborn Scathe",
       "quality": "6",
       "attributes": {
@@ -379,6 +402,13 @@
       }
     },
     {
+      "name": "Jade Vessel",
+      "quality": "6",
+      "attributes": {
+        "weapons": "greatsword"
+      }
+    },
+    {
       "name": "JET",
       "quality": "6",
       "attributes": {
@@ -405,6 +435,14 @@
       "attributes": {
         "weapons": "arts unit"
       }
+    },
+    {
+      "name": "Long Heritage",
+      "quality": "6",
+      "attributes": {
+        "weapons": "greatsword"
+      },
+      "isNonGacha": true
     },
     {
       "name": "Lupine Scarlet",
