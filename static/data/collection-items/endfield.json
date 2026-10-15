@@ -109,6 +109,15 @@
       }
     },
     {
+      "name": "Si",
+      "quality": "6",
+      "attributes": {
+        "elements": "cryo",
+        "weapons": "greatsword",
+        "classes": "supporter"
+      }
+    },
+    {
       "name": "Tangtang",
       "quality": "6",
       "attributes": {
