@@ -83,13 +83,6 @@
       "phase": 1,
       "start": "2026-10-15",
       "end": "2026-11-05"
-    },
-    {
-      "id": "1.6-2",
-      "version": "1.6",
-      "phase": 2,
-      "start": "2026-11-05",
-      "end": "2026-11-26"
     }
   ],
   "characters": [
@@ -266,12 +259,7 @@
     {
       "name": "Argent Flow",
       "quality": "6",
-      "runs": [
-        {
-          "phase": "1.6-2",
-          "banner": "The Hearth Fire Beckons the Starry Flow"
-        }
-      ]
+      "runs": []
     }
   ]
 }
