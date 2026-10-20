@@ -568,7 +568,7 @@
           "3"
         ],
         "attrs": [
-          "attributes",
+          "elements",
           "specialties"
         ],
         "forceIds": true
@@ -602,7 +602,7 @@
     ],
     "attrTypes": [
       {
-        "name": "attributes",
+        "name": "elements",
         "label": "Attributes",
         "icon": "elements",
         "values": [
