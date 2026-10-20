@@ -265,20 +265,6 @@
       "phase": 2,
       "start": "2026-09-30",
       "end": "2026-10-20"
-    },
-    {
-      "id": "3.3-1",
-      "version": "3.3",
-      "phase": 1,
-      "start": "2026-10-21",
-      "end": "2026-11-11"
-    },
-    {
-      "id": "3.3-2",
-      "version": "3.3",
-      "phase": 2,
-      "start": "2026-11-11",
-      "end": "2026-12-01"
     }
   ],
   "characters": [
@@ -784,10 +770,6 @@
         {
           "phase": "3.0-1",
           "banner": "Graceful Gale"
-        },
-        {
-          "phase": "3.3-1",
-          "banner": "Graceful Gale"
         }
       ]
     },
@@ -798,10 +780,6 @@
       "runs": [
         {
           "phase": "3.0-2",
-          "banner": "Outlier of Prodigies"
-        },
-        {
-          "phase": "3.3-2",
           "banner": "Outlier of Prodigies"
         }
       ]
@@ -853,22 +831,12 @@
     {
       "name": "Phoenix",
       "quality": "4",
-      "runs": [
-        {
-          "phase": "3.3-1",
-          "banner": "Into the Flames of Life"
-        }
-      ]
+      "runs": []
     },
     {
       "name": "Severian",
       "quality": "4",
-      "runs": [
-        {
-          "phase": "3.3-2",
-          "banner": "Answers in the Wind"
-        }
-      ]
+      "runs": []
     }
   ]
 }
