@@ -1,0 +1,868 @@
+{
+  "phases": [
+    {
+      "id": "1.0-1",
+      "version": "1.0",
+      "phase": 1,
+      "start": "2024-05-23",
+      "end": "2024-06-13"
+    },
+    {
+      "id": "1.0-2",
+      "version": "1.0",
+      "phase": 2,
+      "start": "2024-06-06",
+      "end": "2024-06-26"
+    },
+    {
+      "id": "1.1-1",
+      "version": "1.1",
+      "phase": 1,
+      "start": "2024-06-28",
+      "end": "2024-07-22"
+    },
+    {
+      "id": "1.1-2",
+      "version": "1.1",
+      "phase": 2,
+      "start": "2024-07-22",
+      "end": "2024-08-14"
+    },
+    {
+      "id": "1.2-1",
+      "version": "1.2",
+      "phase": 1,
+      "start": "2024-08-15",
+      "end": "2024-09-07"
+    },
+    {
+      "id": "1.2-2",
+      "version": "1.2",
+      "phase": 2,
+      "start": "2024-09-07",
+      "end": "2024-09-28"
+    },
+    {
+      "id": "1.3-1",
+      "version": "1.3",
+      "phase": 1,
+      "start": "2024-09-29",
+      "end": "2024-10-24"
+    },
+    {
+      "id": "1.3-2",
+      "version": "1.3",
+      "phase": 2,
+      "start": "2024-10-24",
+      "end": "2024-11-13"
+    },
+    {
+      "id": "1.4-1",
+      "version": "1.4",
+      "phase": 1,
+      "start": "2024-11-14",
+      "end": "2024-12-12"
+    },
+    {
+      "id": "1.4-2",
+      "version": "1.4",
+      "phase": 2,
+      "start": "2024-12-12",
+      "end": "2025-01-01"
+    },
+    {
+      "id": "2.0-1",
+      "version": "2.0",
+      "phase": 1,
+      "start": "2025-01-02",
+      "end": "2025-01-23"
+    },
+    {
+      "id": "2.0-2",
+      "version": "2.0",
+      "phase": 2,
+      "start": "2025-01-23",
+      "end": "2025-02-12"
+    },
+    {
+      "id": "2.1-1",
+      "version": "2.1",
+      "phase": 1,
+      "start": "2025-02-13",
+      "end": "2025-03-06"
+    },
+    {
+      "id": "2.1-2",
+      "version": "2.1",
+      "phase": 2,
+      "start": "2025-03-06",
+      "end": "2025-03-26"
+    },
+    {
+      "id": "2.2-1",
+      "version": "2.2",
+      "phase": 1,
+      "start": "2025-03-27",
+      "end": "2025-04-17"
+    },
+    {
+      "id": "2.2-2",
+      "version": "2.2",
+      "phase": 2,
+      "start": "2025-04-17",
+      "end": "2025-04-28"
+    },
+    {
+      "id": "2.3-1",
+      "version": "2.3",
+      "phase": 1,
+      "start": "2025-04-29",
+      "end": "2025-05-22"
+    },
+    {
+      "id": "2.3-2",
+      "version": "2.3",
+      "phase": 2,
+      "start": "2025-05-22",
+      "end": "2025-06-11"
+    },
+    {
+      "id": "2.4-1",
+      "version": "2.4",
+      "phase": 1,
+      "start": "2025-06-12",
+      "end": "2025-07-03"
+    },
+    {
+      "id": "2.4-2",
+      "version": "2.4",
+      "phase": 2,
+      "start": "2025-07-03",
+      "end": "2025-07-23"
+    },
+    {
+      "id": "2.5-1",
+      "version": "2.5",
+      "phase": 1,
+      "start": "2025-07-24",
+      "end": "2025-08-14"
+    },
+    {
+      "id": "2.5-2",
+      "version": "2.5",
+      "phase": 2,
+      "start": "2025-08-14",
+      "end": "2025-08-27"
+    },
+    {
+      "id": "2.6-1",
+      "version": "2.6",
+      "phase": 1,
+      "start": "2025-08-28",
+      "end": "2025-09-17"
+    },
+    {
+      "id": "2.6-2",
+      "version": "2.6",
+      "phase": 2,
+      "start": "2025-09-17",
+      "end": "2025-10-08"
+    },
+    {
+      "id": "2.7-1",
+      "version": "2.7",
+      "phase": 1,
+      "start": "2025-10-09",
+      "end": "2025-10-30"
+    },
+    {
+      "id": "2.7-2",
+      "version": "2.7",
+      "phase": 2,
+      "start": "2025-10-30",
+      "end": "2025-11-19"
+    },
+    {
+      "id": "2.8-1",
+      "version": "2.8",
+      "phase": 1,
+      "start": "2025-11-20",
+      "end": "2025-12-11"
+    },
+    {
+      "id": "2.8-2",
+      "version": "2.8",
+      "phase": 2,
+      "start": "2025-12-11",
+      "end": "2025-12-24"
+    },
+    {
+      "id": "3.0-1",
+      "version": "3.0",
+      "phase": 1,
+      "start": "2025-12-25",
+      "end": "2026-01-15"
+    },
+    {
+      "id": "3.0-2",
+      "version": "3.0",
+      "phase": 2,
+      "start": "2026-01-15",
+      "end": "2026-02-04"
+    },
+    {
+      "id": "3.1-1",
+      "version": "3.1",
+      "phase": 1,
+      "start": "2026-02-05",
+      "end": "2026-02-26"
+    },
+    {
+      "id": "3.1-2",
+      "version": "3.1",
+      "phase": 2,
+      "start": "2026-02-26",
+      "end": "2026-03-18"
+    },
+    {
+      "id": "3.2-1",
+      "version": "3.2",
+      "phase": 1,
+      "start": "2026-03-19",
+      "end": "2026-04-09"
+    },
+    {
+      "id": "3.2-2",
+      "version": "3.2",
+      "phase": 2,
+      "start": "2026-04-09",
+      "end": "2026-04-29"
+    },
+    {
+      "id": "3.3-1",
+      "version": "3.3",
+      "phase": 1,
+      "start": "2026-04-30",
+      "end": "2026-05-21"
+    },
+    {
+      "id": "3.3-2",
+      "version": "3.3",
+      "phase": 2,
+      "start": "2026-05-21",
+      "end": "2026-06-07"
+    },
+    {
+      "id": "3.4-1",
+      "version": "3.4",
+      "phase": 1,
+      "start": "2026-06-13",
+      "end": "2026-07-09"
+    },
+    {
+      "id": "3.5-1",
+      "version": "3.5",
+      "phase": 1,
+      "start": "2026-07-10",
+      "end": "2026-07-30"
+    },
+    {
+      "id": "3.5-2",
+      "version": "3.5",
+      "phase": 2,
+      "start": "2026-07-30",
+      "end": "2026-08-19"
+    },
+    {
+      "id": "3.6-1",
+      "version": "3.6",
+      "phase": 1,
+      "start": "2026-08-20",
+      "end": "2026-09-10"
+    },
+    {
+      "id": "3.6-2",
+      "version": "3.6",
+      "phase": 2,
+      "start": "2026-09-10",
+      "end": "2026-09-29"
+    },
+    {
+      "id": "3.7-1",
+      "version": "3.7",
+      "phase": 1,
+      "start": "2026-09-30",
+      "end": "2026-10-22"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Jiyan",
+      "quality": "5",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "1.0-1",
+          "banner": "Prevail the Lasting Night"
+        },
+        {
+          "phase": "1.3-2",
+          "banner": "Prevail the Lasting Night"
+        }
+      ]
+    },
+    {
+      "name": "Yinlin",
+      "quality": "5",
+      "element": "electro",
+      "runs": [
+        {
+          "phase": "1.0-2",
+          "banner": "When Thunder Pours"
+        },
+        {
+          "phase": "1.4-2",
+          "banner": "When Thunder Pours"
+        }
+      ]
+    },
+    {
+      "name": "Jinhsi",
+      "quality": "5",
+      "element": "spectro",
+      "runs": [
+        {
+          "phase": "1.1-1",
+          "banner": "Thawborn Renewal"
+        },
+        {
+          "phase": "2.0-2",
+          "banner": "Thawborn Renewal"
+        }
+      ]
+    },
+    {
+      "name": "Changli",
+      "quality": "5",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "1.1-2",
+          "banner": "Vermillion's Ploy"
+        },
+        {
+          "phase": "2.1-2",
+          "banner": "Vermillion's Ploy"
+        }
+      ]
+    },
+    {
+      "name": "Zhezhi",
+      "quality": "5",
+      "element": "glacio",
+      "runs": [
+        {
+          "phase": "1.2-1",
+          "banner": "Chromatic Prose"
+        },
+        {
+          "phase": "2.0-1",
+          "banner": "Chromatic Prose"
+        }
+      ]
+    },
+    {
+      "name": "Xiangli Yao",
+      "quality": "5",
+      "element": "electro",
+      "runs": [
+        {
+          "phase": "1.2-2",
+          "banner": "Celestial Revelation"
+        },
+        {
+          "phase": "1.4-2",
+          "banner": "Celestial Revelation"
+        }
+      ]
+    },
+    {
+      "name": "Shorekeeper",
+      "quality": "5",
+      "element": "spectro",
+      "runs": [
+        {
+          "phase": "1.3-1",
+          "banner": "Till the Sea Turns Clear"
+        },
+        {
+          "phase": "2.2-2",
+          "banner": "Till the Sea Turns Clear"
+        },
+        {
+          "phase": "2.6-1",
+          "banner": "Till the Sea Turns Clear"
+        }
+      ]
+    },
+    {
+      "name": "Camellya",
+      "quality": "5",
+      "element": "havoc",
+      "runs": [
+        {
+          "phase": "1.4-1",
+          "banner": "End of Lost Trail"
+        },
+        {
+          "phase": "2.2-1",
+          "banner": "End of Lost Trail"
+        }
+      ]
+    },
+    {
+      "name": "Carlotta",
+      "quality": "5",
+      "element": "glacio",
+      "runs": [
+        {
+          "phase": "2.0-1",
+          "banner": "When Silence Tolls"
+        },
+        {
+          "phase": "2.6-1",
+          "banner": "When Silence Tolls"
+        }
+      ]
+    },
+    {
+      "name": "Roccia",
+      "quality": "5",
+      "element": "havoc",
+      "runs": [
+        {
+          "phase": "2.0-2",
+          "banner": "Stage in the Box"
+        },
+        {
+          "phase": "2.5-1",
+          "banner": "Stage in the Box"
+        }
+      ]
+    },
+    {
+      "name": "Phoebe",
+      "quality": "5",
+      "element": "spectro",
+      "runs": [
+        {
+          "phase": "2.1-1",
+          "banner": "With Hushed Whispers"
+        },
+        {
+          "phase": "2.8-1",
+          "banner": "With Hushed Whispers"
+        },
+        {
+          "phase": "3.2-2",
+          "banner": "With Hushed Whispers"
+        }
+      ]
+    },
+    {
+      "name": "Brant",
+      "quality": "5",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "2.1-2",
+          "banner": "Blaze Across the Deep"
+        },
+        {
+          "phase": "2.5-2",
+          "banner": "Blaze Across the Deep"
+        }
+      ]
+    },
+    {
+      "name": "Cantarella",
+      "quality": "5",
+      "element": "havoc",
+      "runs": [
+        {
+          "phase": "2.2-1",
+          "banner": "Neptune's Lullaby"
+        },
+        {
+          "phase": "2.5-2",
+          "banner": "Neptune's Lullaby"
+        },
+        {
+          "phase": "2.8-2",
+          "banner": "Neptune's Lullaby"
+        }
+      ]
+    },
+    {
+      "name": "Zani",
+      "quality": "5",
+      "element": "spectro",
+      "runs": [
+        {
+          "phase": "2.3-1",
+          "banner": "Between Light and Shadow"
+        },
+        {
+          "phase": "2.7-2",
+          "banner": "Between Light and Shadow"
+        },
+        {
+          "phase": "3.2-2",
+          "banner": "Between Light and Shadow"
+        }
+      ]
+    },
+    {
+      "name": "Ciaccona",
+      "quality": "5",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "2.3-2",
+          "banner": "Through Verses and Rhythms"
+        },
+        {
+          "phase": "2.6-2",
+          "banner": "Through Verses and Rhythms"
+        },
+        {
+          "phase": "3.0-1",
+          "banner": "Through Verses and Rhythms"
+        }
+      ]
+    },
+    {
+      "name": "Cartethyia",
+      "quality": "5",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "2.4-1",
+          "banner": "Dance in the Storm's Wake"
+        },
+        {
+          "phase": "3.0-1",
+          "banner": "Dance in the Storm's Wake"
+        },
+        {
+          "phase": "3.4-1",
+          "banner": "Dance in the Storm's Wake"
+        }
+      ]
+    },
+    {
+      "name": "Lupa",
+      "quality": "5",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "2.4-2",
+          "banner": "Roar of Triumph"
+        },
+        {
+          "phase": "2.7-1",
+          "banner": "Roar of Triumph"
+        },
+        {
+          "phase": "3.1-1",
+          "banner": "Roar of Triumph"
+        }
+      ]
+    },
+    {
+      "name": "Phrolova",
+      "quality": "5",
+      "element": "havoc",
+      "runs": [
+        {
+          "phase": "2.5-1",
+          "banner": "Requiem Without End"
+        },
+        {
+          "phase": "2.8-2",
+          "banner": "Requiem Without End"
+        },
+        {
+          "phase": "3.3-2",
+          "banner": "Requiem Without End"
+        }
+      ]
+    },
+    {
+      "name": "Augusta",
+      "quality": "5",
+      "element": "electro",
+      "runs": [
+        {
+          "phase": "2.6-1",
+          "banner": "Eternal Radiance on the Crown"
+        },
+        {
+          "phase": "3.0-2",
+          "banner": "Eternal Radiance on the Crown"
+        }
+      ]
+    },
+    {
+      "name": "Iuno",
+      "quality": "5",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "2.6-2",
+          "banner": "Across Time's Waxes and Wanes"
+        },
+        {
+          "phase": "3.0-2",
+          "banner": "Across Time's Waxes and Wanes"
+        },
+        {
+          "phase": "3.3-1",
+          "banner": "Across Time's Waxes and Wanes"
+        },
+        {
+          "phase": "3.7-1",
+          "banner": "Across Time's Waxes and Wanes"
+        }
+      ]
+    },
+    {
+      "name": "Galbrena",
+      "quality": "5",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "2.7-1",
+          "banner": "From Ashes"
+        },
+        {
+          "phase": "3.1-2",
+          "banner": "From Ashes"
+        }
+      ]
+    },
+    {
+      "name": "Qiuyuan",
+      "quality": "5",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "2.7-2",
+          "banner": "Wanderer Knows No Far and Near"
+        },
+        {
+          "phase": "3.2-1",
+          "banner": "Wanderer Knows No Far and Near"
+        }
+      ]
+    },
+    {
+      "name": "Chisa",
+      "quality": "5",
+      "element": "havoc",
+      "runs": [
+        {
+          "phase": "2.8-1",
+          "banner": "Horizon of Dawnbreak"
+        },
+        {
+          "phase": "3.1-1",
+          "banner": "Horizon of Dawnbreak"
+        },
+        {
+          "phase": "3.3-2",
+          "banner": "Horizon of Dawnbreak"
+        },
+        {
+          "phase": "3.7-1",
+          "banner": "Horizon of Dawnbreak"
+        }
+      ]
+    },
+    {
+      "name": "Lynae",
+      "quality": "5",
+      "element": "spectro",
+      "runs": [
+        {
+          "phase": "3.0-1",
+          "banner": "Undefined Spectrum"
+        },
+        {
+          "phase": "3.2-2",
+          "banner": "Undefined Spectrum"
+        },
+        {
+          "phase": "3.5-1",
+          "banner": "Undefined Spectrum"
+        }
+      ]
+    },
+    {
+      "name": "Mornye",
+      "quality": "5",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "3.0-2",
+          "banner": "Distant May the Starlights Be"
+        },
+        {
+          "phase": "3.3-1",
+          "banner": "Distant May the Starlights Be"
+        },
+        {
+          "phase": "3.6-2",
+          "banner": "Distant May the Starlights Be"
+        }
+      ]
+    },
+    {
+      "name": "Aemeath",
+      "quality": "5",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "3.1-1",
+          "banner": "Take Flight in Spring"
+        },
+        {
+          "phase": "3.5-2",
+          "banner": "Take Flight in Spring"
+        }
+      ]
+    },
+    {
+      "name": "Luuk Herssen",
+      "quality": "5",
+      "element": "spectro",
+      "runs": [
+        {
+          "phase": "3.1-2",
+          "banner": "When Winter Thaws"
+        },
+        {
+          "phase": "3.5-1",
+          "banner": "When Winter Thaws"
+        }
+      ]
+    },
+    {
+      "name": "Sigrika",
+      "quality": "5",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "3.2-1",
+          "banner": "When the Runes Glitter"
+        }
+      ]
+    },
+    {
+      "name": "Hiyuki",
+      "quality": "5",
+      "element": "glacio",
+      "runs": [
+        {
+          "phase": "3.3-1",
+          "banner": "Thousand Futures Mirrored in Snow"
+        },
+        {
+          "phase": "3.6-2",
+          "banner": "Thousand Futures Mirrored in Snow"
+        }
+      ]
+    },
+    {
+      "name": "Denia",
+      "quality": "5",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "3.3-2",
+          "banner": "False Promise for Tomorrow"
+        },
+        {
+          "phase": "3.6-1",
+          "banner": "False Promise for Tomorrow"
+        }
+      ]
+    },
+    {
+      "name": "Lucilla",
+      "quality": "5",
+      "element": "glacio",
+      "runs": [
+        {
+          "phase": "3.4-1",
+          "banner": "Tomorrow in the Frame"
+        }
+      ]
+    },
+    {
+      "name": "Yangyang: Xuanling",
+      "quality": "5",
+      "element": "havoc",
+      "runs": [
+        {
+          "phase": "3.5-1",
+          "banner": "Voices on Azure Feathers"
+        }
+      ]
+    },
+    {
+      "name": "Suisui",
+      "quality": "5",
+      "element": "glacio",
+      "runs": [
+        {
+          "phase": "3.5-2",
+          "banner": "Blessings From Dewy Winds"
+        }
+      ]
+    },
+    {
+      "name": "Qingxiao",
+      "quality": "5",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "3.6-1",
+          "banner": "Wind of Transcendence"
+        }
+      ]
+    },
+    {
+      "name": "Jingran",
+      "quality": "5",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "3.6-2",
+          "banner": "Where Santu Beckons"
+        }
+      ]
+    },
+    {
+      "name": "Hsin",
+      "quality": "5",
+      "element": "electro",
+      "runs": [
+        {
+          "phase": "3.7-1",
+          "banner": "As Full as Tonight, Forever"
+        }
+      ]
+    }
+  ]
+}
