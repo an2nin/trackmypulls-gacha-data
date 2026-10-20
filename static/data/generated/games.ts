@@ -146,6 +146,7 @@ export const GAMES = [
       import: true,
       allowImportRefresh: true,
       manualEntry: false,
+      bannerHistory: true,
     },
     itemTypes: [
       {
@@ -290,6 +291,7 @@ export const GAMES = [
       import: true,
       allowImportRefresh: true,
       manualEntry: false,
+      bannerHistory: true,
     },
     itemTypes: [
       {
