@@ -340,7 +340,7 @@ export const GAMES = [
       {
         name: 'attributes',
         label: 'Attributes',
-        icon: 'attributes',
+        icon: 'elements',
         values: [
           'physical',
           'fire',
