@@ -14,6 +14,7 @@ export const GAMES = [
       import: true,
       allowImportRefresh: false,
       manualEntry: false,
+      bannerHistory: true,
     },
     itemTypes: [
       {
