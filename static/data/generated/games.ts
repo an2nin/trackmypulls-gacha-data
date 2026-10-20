@@ -304,7 +304,7 @@ export const GAMES = [
           '3',
         ],
         attrs: [
-          'attributes',
+          'elements',
           'specialties',
         ],
         forceIds: true,
@@ -338,7 +338,7 @@ export const GAMES = [
     ],
     attrTypes: [
       {
-        name: 'attributes',
+        name: 'elements',
         label: 'Attributes',
         icon: 'elements',
         values: [
