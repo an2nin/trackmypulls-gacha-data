@@ -1,0 +1,874 @@
+{
+  "phases": [
+    {
+      "id": "1.0-1",
+      "version": "1.0",
+      "phase": 1,
+      "start": "2024-07-04",
+      "end": "2024-07-24"
+    },
+    {
+      "id": "1.0-2",
+      "version": "1.0",
+      "phase": 2,
+      "start": "2024-07-24",
+      "end": "2024-08-13"
+    },
+    {
+      "id": "1.1-1",
+      "version": "1.1",
+      "phase": 1,
+      "start": "2024-08-14",
+      "end": "2024-09-04"
+    },
+    {
+      "id": "1.1-2",
+      "version": "1.1",
+      "phase": 2,
+      "start": "2024-09-04",
+      "end": "2024-09-24"
+    },
+    {
+      "id": "1.2-1",
+      "version": "1.2",
+      "phase": 1,
+      "start": "2024-09-25",
+      "end": "2024-10-16"
+    },
+    {
+      "id": "1.2-2",
+      "version": "1.2",
+      "phase": 2,
+      "start": "2024-10-16",
+      "end": "2024-11-05"
+    },
+    {
+      "id": "1.3-1",
+      "version": "1.3",
+      "phase": 1,
+      "start": "2024-11-06",
+      "end": "2024-11-27"
+    },
+    {
+      "id": "1.3-2",
+      "version": "1.3",
+      "phase": 2,
+      "start": "2024-11-27",
+      "end": "2024-12-17"
+    },
+    {
+      "id": "1.4-1",
+      "version": "1.4",
+      "phase": 1,
+      "start": "2024-12-18",
+      "end": "2025-01-21"
+    },
+    {
+      "id": "1.5-1",
+      "version": "1.5",
+      "phase": 1,
+      "start": "2025-01-22",
+      "end": "2025-02-12"
+    },
+    {
+      "id": "1.5-2",
+      "version": "1.5",
+      "phase": 2,
+      "start": "2025-02-12",
+      "end": "2025-03-11"
+    },
+    {
+      "id": "1.6-1",
+      "version": "1.6",
+      "phase": 1,
+      "start": "2025-03-12",
+      "end": "2025-04-02"
+    },
+    {
+      "id": "1.6-2",
+      "version": "1.6",
+      "phase": 2,
+      "start": "2025-04-02",
+      "end": "2025-04-22"
+    },
+    {
+      "id": "1.7-1",
+      "version": "1.7",
+      "phase": 1,
+      "start": "2025-04-23",
+      "end": "2025-05-14"
+    },
+    {
+      "id": "1.7-2",
+      "version": "1.7",
+      "phase": 2,
+      "start": "2025-05-14",
+      "end": "2025-06-05"
+    },
+    {
+      "id": "2.0-1",
+      "version": "2.0",
+      "phase": 1,
+      "start": "2025-06-06",
+      "end": "2025-06-25"
+    },
+    {
+      "id": "2.0-2",
+      "version": "2.0",
+      "phase": 2,
+      "start": "2025-06-25",
+      "end": "2025-07-15"
+    },
+    {
+      "id": "2.1-1",
+      "version": "2.1",
+      "phase": 1,
+      "start": "2025-07-16",
+      "end": "2025-08-06"
+    },
+    {
+      "id": "2.1-2",
+      "version": "2.1",
+      "phase": 2,
+      "start": "2025-08-06",
+      "end": "2025-09-03"
+    },
+    {
+      "id": "2.2-1",
+      "version": "2.2",
+      "phase": 1,
+      "start": "2025-09-04",
+      "end": "2025-09-24"
+    },
+    {
+      "id": "2.2-2",
+      "version": "2.2",
+      "phase": 2,
+      "start": "2025-09-24",
+      "end": "2025-10-14"
+    },
+    {
+      "id": "2.3-1",
+      "version": "2.3",
+      "phase": 1,
+      "start": "2025-10-15",
+      "end": "2025-11-05"
+    },
+    {
+      "id": "2.3-2",
+      "version": "2.3",
+      "phase": 2,
+      "start": "2025-11-05",
+      "end": "2025-11-25"
+    },
+    {
+      "id": "2.4-1",
+      "version": "2.4",
+      "phase": 1,
+      "start": "2025-11-26",
+      "end": "2025-12-17"
+    },
+    {
+      "id": "2.4-2",
+      "version": "2.4",
+      "phase": 2,
+      "start": "2025-12-17",
+      "end": "2025-12-29"
+    },
+    {
+      "id": "2.5-1",
+      "version": "2.5",
+      "phase": 1,
+      "start": "2025-12-30",
+      "end": "2026-02-05"
+    },
+    {
+      "id": "2.6-1",
+      "version": "2.6",
+      "phase": 1,
+      "start": "2026-02-06",
+      "end": "2026-03-04"
+    },
+    {
+      "id": "2.6-2",
+      "version": "2.6",
+      "phase": 2,
+      "start": "2026-03-04",
+      "end": "2026-03-23"
+    },
+    {
+      "id": "2.7-1",
+      "version": "2.7",
+      "phase": 1,
+      "start": "2026-03-24",
+      "end": "2026-04-15"
+    },
+    {
+      "id": "2.7-2",
+      "version": "2.7",
+      "phase": 2,
+      "start": "2026-04-15",
+      "end": "2026-05-05"
+    },
+    {
+      "id": "2.8-1",
+      "version": "2.8",
+      "phase": 1,
+      "start": "2026-05-06",
+      "end": "2026-05-27"
+    },
+    {
+      "id": "2.8-2",
+      "version": "2.8",
+      "phase": 2,
+      "start": "2026-05-27",
+      "end": "2026-06-16"
+    },
+    {
+      "id": "3.0-1",
+      "version": "3.0",
+      "phase": 1,
+      "start": "2026-06-17",
+      "end": "2026-07-08"
+    },
+    {
+      "id": "3.0-2",
+      "version": "3.0",
+      "phase": 2,
+      "start": "2026-07-08",
+      "end": "2026-07-28"
+    },
+    {
+      "id": "3.1-1",
+      "version": "3.1",
+      "phase": 1,
+      "start": "2026-07-29",
+      "end": "2026-08-19"
+    },
+    {
+      "id": "3.1-2",
+      "version": "3.1",
+      "phase": 2,
+      "start": "2026-08-19",
+      "end": "2026-09-08"
+    },
+    {
+      "id": "3.2-1",
+      "version": "3.2",
+      "phase": 1,
+      "start": "2026-09-09",
+      "end": "2026-09-30"
+    },
+    {
+      "id": "3.2-2",
+      "version": "3.2",
+      "phase": 2,
+      "start": "2026-09-30",
+      "end": "2026-10-20"
+    },
+    {
+      "id": "3.3-1",
+      "version": "3.3",
+      "phase": 1,
+      "start": "2026-10-21",
+      "end": "2026-11-11"
+    },
+    {
+      "id": "3.3-2",
+      "version": "3.3",
+      "phase": 2,
+      "start": "2026-11-11",
+      "end": "2026-12-01"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Ellen",
+      "quality": "4",
+      "element": "ice",
+      "runs": [
+        {
+          "phase": "1.0-1",
+          "banner": "Mellow Waveride"
+        },
+        {
+          "phase": "1.5-1",
+          "banner": "Mellow Waveride"
+        },
+        {
+          "phase": "2.4-2",
+          "banner": "Mellow Waveride"
+        }
+      ]
+    },
+    {
+      "name": "Zhu Yuan",
+      "quality": "4",
+      "element": "ether",
+      "runs": [
+        {
+          "phase": "1.0-2",
+          "banner": "Unswerving Bullet"
+        },
+        {
+          "phase": "1.6-2",
+          "banner": "Unswerving Bullet"
+        }
+      ]
+    },
+    {
+      "name": "Qingyi",
+      "quality": "4",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "1.1-1",
+          "banner": "Untainted Jade"
+        },
+        {
+          "phase": "1.5-2",
+          "banner": "Untainted Jade"
+        }
+      ]
+    },
+    {
+      "name": "Jane",
+      "quality": "4",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "1.1-2",
+          "banner": "(No Match Found)"
+        },
+        {
+          "phase": "1.7-1",
+          "banner": "(No Match Found)"
+        }
+      ]
+    },
+    {
+      "name": "Caesar",
+      "quality": "4",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "1.2-1",
+          "banner": "Ember-Crowned Overlord"
+        },
+        {
+          "phase": "2.0-2",
+          "banner": "Ember-Crowned Overlord"
+        }
+      ]
+    },
+    {
+      "name": "Burnice",
+      "quality": "4",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "1.2-2",
+          "banner": "Born to Burn"
+        },
+        {
+          "phase": "1.6-1",
+          "banner": "Born to Burn"
+        }
+      ]
+    },
+    {
+      "name": "Yanagi",
+      "quality": "4",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "1.3-1",
+          "banner": "Moonlit Serenity"
+        },
+        {
+          "phase": "2.1-2",
+          "banner": "Moonlit Serenity"
+        }
+      ]
+    },
+    {
+      "name": "Lighter",
+      "quality": "4",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "1.3-2",
+          "banner": "Champion of Embers"
+        },
+        {
+          "phase": "1.7-2",
+          "banner": "Champion of Embers"
+        }
+      ]
+    },
+    {
+      "name": "Harumasa",
+      "quality": "4",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "1.4-1",
+          "banner": "Per Aspera"
+        },
+        {
+          "phase": "3.1-2",
+          "banner": "Exclusive Rescreening"
+        }
+      ]
+    },
+    {
+      "name": "Miyabi",
+      "quality": "4",
+      "element": "ice",
+      "runs": [
+        {
+          "phase": "1.4-1",
+          "banner": "Honed Blade of Reflection"
+        },
+        {
+          "phase": "2.1-1",
+          "banner": "Honed Blade of Reflection"
+        }
+      ]
+    },
+    {
+      "name": "Astra Yao",
+      "quality": "4",
+      "element": "ether",
+      "runs": [
+        {
+          "phase": "1.5-1",
+          "banner": "Thousand Melodies"
+        },
+        {
+          "phase": "2.0-1",
+          "banner": "Thousand Melodies"
+        }
+      ]
+    },
+    {
+      "name": "Evelyn",
+      "quality": "4",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "1.5-2",
+          "banner": "Web of Light and Shadow"
+        },
+        {
+          "phase": "2.2-2",
+          "banner": "Web of Light and Shadow"
+        }
+      ]
+    },
+    {
+      "name": "Soldier 0 - Anby",
+      "quality": "4",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "1.6-1",
+          "banner": "Electric Reflection"
+        }
+      ]
+    },
+    {
+      "name": "Trigger",
+      "quality": "4",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "1.6-2",
+          "banner": "Sights of Asphodel"
+        },
+        {
+          "phase": "2.2-1",
+          "banner": "Sights of Asphodel"
+        }
+      ]
+    },
+    {
+      "name": "Vivian",
+      "quality": "4",
+      "element": "ether",
+      "runs": [
+        {
+          "phase": "1.7-1",
+          "banner": "Soar Into the Gentle Night"
+        },
+        {
+          "phase": "2.3-1",
+          "banner": "Soar Into the Gentle Night"
+        }
+      ]
+    },
+    {
+      "name": "Hugo",
+      "quality": "4",
+      "element": "ice",
+      "runs": [
+        {
+          "phase": "1.7-2",
+          "banner": "As Yesterday Dies"
+        },
+        {
+          "phase": "2.4-1",
+          "banner": "As Yesterday Dies"
+        }
+      ]
+    },
+    {
+      "name": "Yixuan",
+      "quality": "4",
+      "element": "ether",
+      "runs": [
+        {
+          "phase": "2.0-1",
+          "banner": "Lonely Wayfarer Beyond"
+        },
+        {
+          "phase": "2.6-1",
+          "banner": "Lonely Wayfarer Beyond"
+        }
+      ]
+    },
+    {
+      "name": "Ju Fufu",
+      "quality": "4",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "2.0-2",
+          "banner": "Fu-rocious Feline"
+        },
+        {
+          "phase": "2.3-2",
+          "banner": "Fu-rocious Feline"
+        }
+      ]
+    },
+    {
+      "name": "Yuzuha",
+      "quality": "4",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "2.1-1",
+          "banner": "Whispered Tales"
+        },
+        {
+          "phase": "2.6-2",
+          "banner": "Whispered Tales"
+        },
+        {
+          "phase": "3.1-2",
+          "banner": "Exclusive Rescreening"
+        }
+      ]
+    },
+    {
+      "name": "Alice",
+      "quality": "4",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "2.1-2",
+          "banner": "Sworn to Noble Courage"
+        }
+      ]
+    },
+    {
+      "name": "Seed",
+      "quality": "4",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "2.2-1",
+          "banner": "Tearforged Blossoms"
+        },
+        {
+          "phase": "2.7-2",
+          "banner": "Tearforged Blossoms"
+        }
+      ]
+    },
+    {
+      "name": "Orphie & Magus",
+      "quality": "4",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "2.2-2",
+          "banner": "Wrathborn Duo"
+        },
+        {
+          "phase": "2.8-2",
+          "banner": "Wrathborn Duo"
+        }
+      ]
+    },
+    {
+      "name": "Lucia",
+      "quality": "4",
+      "element": "ether",
+      "runs": [
+        {
+          "phase": "2.3-1",
+          "banner": "Wandering Night Lantern"
+        },
+        {
+          "phase": "2.8-1",
+          "banner": "Wandering Night Lantern"
+        }
+      ]
+    },
+    {
+      "name": "Yidhari",
+      "quality": "4",
+      "element": "ice",
+      "runs": [
+        {
+          "phase": "2.3-2",
+          "banner": "Alone in a Shared Dream"
+        },
+        {
+          "phase": "2.7-1",
+          "banner": "Alone in a Shared Dream"
+        }
+      ]
+    },
+    {
+      "name": "Dialyn",
+      "quality": "4",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "2.4-1",
+          "banner": "Voice of the Once-Spoken"
+        },
+        {
+          "phase": "3.1-2",
+          "banner": "Exclusive Rescreening"
+        }
+      ]
+    },
+    {
+      "name": "Banyue",
+      "quality": "4",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "2.4-2",
+          "banner": "Through Night's Inferno"
+        }
+      ]
+    },
+    {
+      "name": "Ye Shunguang",
+      "quality": "4",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "2.5-1",
+          "banner": "Light Upon Fingertips"
+        },
+        {
+          "phase": "3.0-1",
+          "banner": "Light Upon Fingertips"
+        }
+      ]
+    },
+    {
+      "name": "Zhao",
+      "quality": "4",
+      "element": "ice",
+      "runs": [
+        {
+          "phase": "2.5-1",
+          "banner": "Priceless Heart"
+        }
+      ]
+    },
+    {
+      "name": "Sunna",
+      "quality": "4",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "2.6-1",
+          "banner": "Whimsy in Triple Meter"
+        },
+        {
+          "phase": "3.0-2",
+          "banner": "Whimsy in Triple Meter"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "quality": "4",
+      "element": "ether",
+      "runs": [
+        {
+          "phase": "2.6-2",
+          "banner": "Neon Angel"
+        },
+        {
+          "phase": "3.1-1",
+          "banner": "Neon Angel"
+        }
+      ]
+    },
+    {
+      "name": "Nangong Yu",
+      "quality": "4",
+      "element": "ether",
+      "runs": [
+        {
+          "phase": "2.7-1",
+          "banner": "Axiom of Captivation"
+        },
+        {
+          "phase": "3.2-1",
+          "banner": "Axiom of Captivation"
+        }
+      ]
+    },
+    {
+      "name": "Cissia",
+      "quality": "4",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "2.7-2",
+          "banner": "Evolution of Gluttony"
+        }
+      ]
+    },
+    {
+      "name": "Promeia",
+      "quality": "4",
+      "element": "ice",
+      "runs": [
+        {
+          "phase": "2.8-1",
+          "banner": "Cold Rain Wanes in the Night"
+        },
+        {
+          "phase": "3.2-2",
+          "banner": "Cold Rain Wanes in the Night"
+        }
+      ]
+    },
+    {
+      "name": "Starlight - Billy",
+      "quality": "4",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "2.8-2",
+          "banner": "Starlight, Shine Bright!"
+        }
+      ]
+    },
+    {
+      "name": "Velina",
+      "quality": "4",
+      "element": "wind",
+      "runs": [
+        {
+          "phase": "3.0-1",
+          "banner": "Graceful Gale"
+        },
+        {
+          "phase": "3.3-1",
+          "banner": "Graceful Gale"
+        }
+      ]
+    },
+    {
+      "name": "Norma",
+      "quality": "4",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "3.0-2",
+          "banner": "Outlier of Prodigies"
+        },
+        {
+          "phase": "3.3-2",
+          "banner": "Outlier of Prodigies"
+        }
+      ]
+    },
+    {
+      "name": "Remielle",
+      "quality": "4",
+      "element": "lumiflux",
+      "runs": [
+        {
+          "phase": "3.1-1",
+          "banner": "Paradise Regained"
+        }
+      ]
+    },
+    {
+      "name": "Sigrid",
+      "quality": "4",
+      "element": "ice",
+      "runs": [
+        {
+          "phase": "3.1-2",
+          "banner": "'Till the Ends of the Sky"
+        }
+      ]
+    },
+    {
+      "name": "Claret",
+      "quality": "4",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "3.2-1",
+          "banner": "Bloodmoon Rising"
+        }
+      ]
+    },
+    {
+      "name": "Roxy",
+      "quality": "4",
+      "element": "wind",
+      "runs": [
+        {
+          "phase": "3.2-2",
+          "banner": "Cindernight Respite"
+        }
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "quality": "4",
+      "runs": [
+        {
+          "phase": "3.3-1",
+          "banner": "Into the Flames of Life"
+        }
+      ]
+    },
+    {
+      "name": "Severian",
+      "quality": "4",
+      "runs": [
+        {
+          "phase": "3.3-2",
+          "banner": "Answers in the Wind"
+        }
+      ]
+    }
+  ]
+}
