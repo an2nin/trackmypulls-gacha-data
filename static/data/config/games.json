@@ -330,7 +330,8 @@
       "globalStats": true,
       "import": true,
       "allowImportRefresh": true,
-      "manualEntry": false
+      "manualEntry": false,
+      "bannerHistory": true
     },
     "itemTypes": [
       {
@@ -553,7 +554,8 @@
       "globalStats": false,
       "import": true,
       "allowImportRefresh": true,
-      "manualEntry": false
+      "manualEntry": false,
+      "bannerHistory": true
     },
     "itemTypes": [
       {
