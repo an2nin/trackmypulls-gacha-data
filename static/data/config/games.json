@@ -13,7 +13,8 @@
       "globalStats": true,
       "import": true,
       "allowImportRefresh": false,
-      "manualEntry": false
+      "manualEntry": false,
+      "bannerHistory": true
     },
     "itemTypes": [
       {
