@@ -265,6 +265,13 @@
       "phase": 2,
       "start": "2026-09-30",
       "end": "2026-10-20"
+    },
+    {
+      "id": "3.3-1",
+      "version": "3.3",
+      "phase": 1,
+      "start": "2026-10-21",
+      "end": "2026-11-11"
     }
   ],
   "characters": [
@@ -770,6 +777,10 @@
         {
           "phase": "3.0-1",
           "banner": "Graceful Gale"
+        },
+        {
+          "phase": "3.3-1",
+          "banner": "Graceful Gale"
         }
       ]
     },
@@ -831,12 +842,268 @@
     {
       "name": "Phoenix",
       "quality": "4",
-      "runs": []
+      "runs": [
+        {
+          "phase": "3.3-1",
+          "banner": "Into the Flames of Life"
+        }
+      ]
     },
     {
       "name": "Severian",
       "quality": "4",
       "runs": []
+    },
+    {
+      "name": "Anton",
+      "quality": "3",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "1.0-1",
+          "banner": "Mellow Waveride"
+        },
+        {
+          "phase": "1.2-1",
+          "banner": "Ember-Crowned Overlord"
+        },
+        "1.5-2",
+        "1.7-2",
+        "2.2-2",
+        "2.6-2",
+        "3.2-1"
+      ]
+    },
+    {
+      "name": "Soukaku",
+      "quality": "3",
+      "element": "ice",
+      "runs": [
+        {
+          "phase": "1.0-1",
+          "banner": "Mellow Waveride"
+        },
+        {
+          "phase": "1.4-1",
+          "banner": "Honed Blade of Reflection"
+        },
+        "1.7-2",
+        "2.1-2",
+        "2.4-2",
+        "2.8-1",
+        {
+          "phase": "3.1-2",
+          "banner": "'Till the Ends of the Sky"
+        }
+      ]
+    },
+    {
+      "name": "Ben",
+      "quality": "3",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "1.0-2",
+          "banner": "Unswerving Bullet"
+        },
+        {
+          "phase": "1.3-2",
+          "banner": "Champion of Embers"
+        },
+        "1.6-1",
+        "2.0-2",
+        {
+          "phase": "2.5-1",
+          "banner": "Priceless Heart"
+        },
+        "2.7-2",
+        "3.0-2"
+      ]
+    },
+    {
+      "name": "Nicole",
+      "quality": "3",
+      "element": "ether",
+      "runs": [
+        {
+          "phase": "1.0-2",
+          "banner": "Unswerving Bullet"
+        },
+        {
+          "phase": "1.2-2",
+          "banner": "Born to Burn"
+        },
+        "1.5-2",
+        "2.2-1",
+        {
+          "phase": "2.5-1",
+          "banner": "Light Upon Fingertips"
+        },
+        "2.7-1",
+        "3.0-1",
+        "3.2-1"
+      ]
+    },
+    {
+      "name": "Billy",
+      "quality": "3",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "1.1-1",
+          "banner": "Untainted Jade"
+        },
+        {
+          "phase": "1.3-1",
+          "banner": "Moonlit Serenity"
+        },
+        "1.6-2",
+        "2.1-1",
+        "2.4-1",
+        "2.6-1",
+        "3.2-2"
+      ]
+    },
+    {
+      "name": "Corin",
+      "quality": "3",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "1.1-1",
+          "banner": "Untainted Jade"
+        },
+        {
+          "phase": "1.3-2",
+          "banner": "Champion of Embers"
+        },
+        "1.5-1",
+        "2.0-2",
+        "2.4-1",
+        "2.6-1",
+        "3.2-2"
+      ]
+    },
+    {
+      "name": "Anby",
+      "quality": "3",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "1.1-2",
+          "banner": "(No Match Found)"
+        },
+        {
+          "phase": "1.3-1",
+          "banner": "Moonlit Serenity"
+        },
+        "1.5-1",
+        "2.2-1",
+        {
+          "phase": "2.5-1",
+          "banner": "Priceless Heart"
+        }
+      ]
+    },
+    {
+      "name": "Seth",
+      "quality": "3",
+      "element": "electric",
+      "runs": [
+        {
+          "phase": "1.1-2",
+          "banner": "(No Match Found)"
+        },
+        {
+          "phase": "1.4-1",
+          "banner": "Per Aspera"
+        },
+        "1.7-1",
+        "2.1-2",
+        "2.4-2",
+        "2.6-2",
+        "3.1-1",
+        "3.3-1"
+      ]
+    },
+    {
+      "name": "Piper",
+      "quality": "3",
+      "element": "physical",
+      "runs": [
+        {
+          "phase": "1.2-1",
+          "banner": "Ember-Crowned Overlord"
+        },
+        {
+          "phase": "1.4-1",
+          "banner": "Honed Blade of Reflection"
+        },
+        "1.7-1",
+        "2.1-1",
+        "2.3-1",
+        "2.7-1",
+        "3.0-1",
+        "3.1-1"
+      ]
+    },
+    {
+      "name": "Lucy",
+      "quality": "3",
+      "element": "fire",
+      "runs": [
+        {
+          "phase": "1.2-2",
+          "banner": "Born to Burn"
+        },
+        {
+          "phase": "1.4-1",
+          "banner": "Per Aspera"
+        },
+        "1.6-2",
+        "2.2-2",
+        {
+          "phase": "2.5-1",
+          "banner": "Light Upon Fingertips"
+        },
+        "2.8-1",
+        {
+          "phase": "3.1-2",
+          "banner": "'Till the Ends of the Sky"
+        }
+      ]
+    },
+    {
+      "name": "Pulchra",
+      "quality": "3",
+      "element": "physical",
+      "runs": [
+        "1.6-1",
+        "2.0-1",
+        "2.3-2",
+        "2.7-2",
+        "3.0-2"
+      ]
+    },
+    {
+      "name": "Pan Yinhu",
+      "quality": "3",
+      "element": "physical",
+      "runs": [
+        "2.0-1",
+        "2.3-2",
+        "2.8-2"
+      ]
+    },
+    {
+      "name": "Manato",
+      "quality": "3",
+      "element": "fire",
+      "runs": [
+        "2.3-1",
+        "2.8-2",
+        "3.3-1"
+      ]
     }
   ]
 }
