@@ -863,6 +863,372 @@
           "banner": "As Full as Tonight, Forever"
         }
       ]
+    },
+    {
+      "name": "Chixia",
+      "quality": "4",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "1.0-1",
+          "banner": "Prevail the Lasting Night"
+        },
+        {
+          "phase": "1.2-1",
+          "banner": "Chromatic Prose"
+        },
+        {
+          "phase": "1.3-1",
+          "banner": "Till the Sea Turns Clear"
+        },
+        "2.0-1",
+        {
+          "phase": "2.1-1",
+          "banner": "With Hushed Whispers"
+        },
+        "2.2-1",
+        {
+          "phase": "2.4-2",
+          "banner": "Roar of Triumph"
+        },
+        "2.6-1",
+        "2.8-2",
+        "3.0-2",
+        "3.3-2",
+        "3.5-1"
+      ]
+    },
+    {
+      "name": "Danjin",
+      "quality": "4",
+      "element": "havoc",
+      "runs": [
+        {
+          "phase": "1.0-1",
+          "banner": "Prevail the Lasting Night"
+        },
+        {
+          "phase": "1.1-1",
+          "banner": "Thawborn Renewal"
+        },
+        {
+          "phase": "1.2-2",
+          "banner": "Celestial Revelation"
+        },
+        {
+          "phase": "1.4-1",
+          "banner": "End of Lost Trail"
+        },
+        "2.0-2",
+        "2.2-1",
+        {
+          "phase": "2.3-2",
+          "banner": "Through Verses and Rhythms"
+        },
+        "2.5-2",
+        "2.7-2",
+        "2.8-2",
+        "3.0-2",
+        "3.2-2",
+        "3.5-1"
+      ]
+    },
+    {
+      "name": "Mortefi",
+      "quality": "4",
+      "element": "fusion",
+      "runs": [
+        {
+          "phase": "1.0-1",
+          "banner": "Prevail the Lasting Night"
+        },
+        {
+          "phase": "1.1-2",
+          "banner": "Vermillion's Ploy"
+        },
+        {
+          "phase": "1.3-2",
+          "banner": "Prevail the Lasting Night"
+        },
+        "2.0-1",
+        "2.1-2",
+        {
+          "phase": "2.3-2",
+          "banner": "Through Verses and Rhythms"
+        },
+        "2.5-2",
+        "2.7-1",
+        "3.1-1",
+        {
+          "phase": "3.4-1",
+          "banner": "Dance in the Storm's Wake"
+        },
+        "3.5-2",
+        "3.6-2"
+      ]
+    },
+    {
+      "name": "Aalto",
+      "quality": "4",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "1.0-2",
+          "banner": "When Thunder Pours"
+        },
+        {
+          "phase": "1.2-2",
+          "banner": "Celestial Revelation"
+        },
+        {
+          "phase": "1.4-1",
+          "banner": "End of Lost Trail"
+        },
+        {
+          "phase": "2.1-1",
+          "banner": "With Hushed Whispers"
+        },
+        {
+          "phase": "2.2-2",
+          "banner": "Till the Sea Turns Clear"
+        },
+        {
+          "phase": "2.4-1",
+          "banner": "Dance in the Storm's Wake"
+        },
+        "2.6-2",
+        "2.8-1",
+        "3.1-1",
+        "3.3-1",
+        "3.5-1",
+        "3.6-2"
+      ]
+    },
+    {
+      "name": "Taoqi",
+      "quality": "4",
+      "element": "havoc",
+      "runs": [
+        {
+          "phase": "1.0-2",
+          "banner": "When Thunder Pours"
+        },
+        {
+          "phase": "1.1-2",
+          "banner": "Vermillion's Ploy"
+        },
+        {
+          "phase": "1.3-1",
+          "banner": "Till the Sea Turns Clear"
+        },
+        "2.1-2",
+        {
+          "phase": "2.3-1",
+          "banner": "Between Light and Shadow"
+        },
+        {
+          "phase": "2.4-2",
+          "banner": "Roar of Triumph"
+        },
+        "2.5-1",
+        "2.6-2",
+        "2.7-2",
+        "2.8-1",
+        "3.1-1",
+        "3.2-2",
+        {
+          "phase": "3.4-1",
+          "banner": "Tomorrow in the Frame"
+        },
+        "3.7-1"
+      ]
+    },
+    {
+      "name": "Yuanwu",
+      "quality": "4",
+      "element": "electro",
+      "runs": [
+        {
+          "phase": "1.0-2",
+          "banner": "When Thunder Pours"
+        },
+        {
+          "phase": "1.2-2",
+          "banner": "Celestial Revelation"
+        },
+        "1.4-2",
+        "2.0-2",
+        "2.2-1",
+        {
+          "phase": "2.3-1",
+          "banner": "Between Light and Shadow"
+        },
+        "2.5-1",
+        "2.6-1",
+        "2.8-1",
+        "3.1-2",
+        "3.3-1",
+        {
+          "phase": "3.4-1",
+          "banner": "Dance in the Storm's Wake"
+        },
+        "3.6-2"
+      ]
+    },
+    {
+      "name": "Sanhua",
+      "quality": "4",
+      "element": "glacio",
+      "runs": [
+        {
+          "phase": "1.1-1",
+          "banner": "Thawborn Renewal"
+        },
+        {
+          "phase": "1.2-1",
+          "banner": "Chromatic Prose"
+        },
+        {
+          "phase": "1.3-2",
+          "banner": "Prevail the Lasting Night"
+        },
+        "2.0-1",
+        {
+          "phase": "2.2-2",
+          "banner": "Till the Sea Turns Clear"
+        },
+        {
+          "phase": "2.4-2",
+          "banner": "Roar of Triumph"
+        },
+        "2.7-1",
+        "3.0-2",
+        "3.1-2",
+        "3.2-1",
+        "3.6-1"
+      ]
+    },
+    {
+      "name": "Yangyang",
+      "quality": "4",
+      "element": "aero",
+      "runs": [
+        {
+          "phase": "1.1-1",
+          "banner": "Thawborn Renewal"
+        },
+        {
+          "phase": "1.3-1",
+          "banner": "Till the Sea Turns Clear"
+        },
+        {
+          "phase": "1.4-1",
+          "banner": "End of Lost Trail"
+        },
+        {
+          "phase": "2.3-2",
+          "banner": "Through Verses and Rhythms"
+        },
+        "2.5-2",
+        "2.7-2",
+        "3.0-1",
+        "3.2-1",
+        "3.3-2",
+        {
+          "phase": "3.4-1",
+          "banner": "Dance in the Storm's Wake"
+        },
+        "3.6-1"
+      ]
+    },
+    {
+      "name": "Baizhi",
+      "quality": "4",
+      "element": "glacio",
+      "runs": [
+        {
+          "phase": "1.1-2",
+          "banner": "Vermillion's Ploy"
+        },
+        {
+          "phase": "1.2-1",
+          "banner": "Chromatic Prose"
+        },
+        "1.4-2",
+        {
+          "phase": "2.2-2",
+          "banner": "Till the Sea Turns Clear"
+        },
+        {
+          "phase": "2.4-1",
+          "banner": "Dance in the Storm's Wake"
+        },
+        "2.6-2",
+        "3.0-1",
+        "3.3-1",
+        "3.5-2",
+        "3.6-1"
+      ]
+    },
+    {
+      "name": "Youhu",
+      "quality": "4",
+      "element": "glacio",
+      "runs": [
+        {
+          "phase": "1.3-2",
+          "banner": "Prevail the Lasting Night"
+        },
+        "2.0-2",
+        "2.1-2",
+        {
+          "phase": "2.4-1",
+          "banner": "Dance in the Storm's Wake"
+        },
+        "2.6-1",
+        "3.0-1",
+        "3.2-2",
+        {
+          "phase": "3.4-1",
+          "banner": "Tomorrow in the Frame"
+        },
+        "3.7-1"
+      ]
+    },
+    {
+      "name": "Lumi",
+      "quality": "4",
+      "element": "electro",
+      "runs": [
+        "1.4-2",
+        {
+          "phase": "2.1-1",
+          "banner": "With Hushed Whispers"
+        },
+        {
+          "phase": "2.3-1",
+          "banner": "Between Light and Shadow"
+        },
+        "2.5-1",
+        "2.7-1",
+        "3.1-2",
+        {
+          "phase": "3.4-1",
+          "banner": "Tomorrow in the Frame"
+        },
+        "3.5-2"
+      ]
+    },
+    {
+      "name": "Buling",
+      "quality": "4",
+      "element": "electro",
+      "runs": [
+        "2.8-2",
+        "3.2-1",
+        "3.3-2",
+        "3.7-1"
+      ]
     }
   ]
 }
