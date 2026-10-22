@@ -226,6 +226,14 @@
       }
     },
     {
+      "id": 1641,
+      "name": "Phoenix",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
       "id": 1541,
       "name": "Promeia",
       "quality": "4",
@@ -286,6 +294,14 @@
       "quality": "4",
       "attributes": {
         "elements": "electric",
+        "specialties": "attack"
+      }
+    },
+    {
+      "id": 1631,
+      "name": "Severian",
+      "quality": "4",
+      "attributes": {
         "specialties": "attack"
       }
     },
@@ -752,6 +768,14 @@
       }
     },
     {
+      "id": 14164,
+      "name": "Nirvana's First Plume",
+      "quality": "4",
+      "attributes": {
+        "specialties": "anomaly"
+      }
+    },
+    {
       "id": 14158,
       "name": "Ode of Resurrected Wings",
       "quality": "4",
@@ -813,6 +837,14 @@
       "quality": "4",
       "attributes": {
         "specialties": "anomaly"
+      }
+    },
+    {
+      "id": 14163,
+      "name": "Sin-Ban Cage",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
       }
     },
     {
@@ -968,6 +1000,14 @@
       "quality": "3",
       "attributes": {
         "specialties": "defense"
+      }
+    },
+    {
+      "id": 13022,
+      "name": "Candlelight Conspiracy",
+      "quality": "3",
+      "attributes": {
+        "specialties": "armorer"
       }
     },
     {
