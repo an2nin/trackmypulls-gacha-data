@@ -134,7 +134,8 @@
             "Verina"
           ]
         },
-        "showGlobalStats": true
+        "showGlobalStats": true,
+        "showPhaseStats": true
       },
       {
         "id": "featured_weapon",
