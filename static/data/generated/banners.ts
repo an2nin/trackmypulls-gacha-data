@@ -25,6 +25,7 @@ export const BANNERS = {
         ],
       },
       showGlobalStats: true,
+      showPhaseStats: true,
     },
     {
       id: 'featured_weapon',
