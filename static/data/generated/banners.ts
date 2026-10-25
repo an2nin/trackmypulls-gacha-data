@@ -42,6 +42,7 @@ export const BANNERS = {
       topResetPityForAll: true,
       isActive: true,
       showGlobalStats: true,
+      showPhaseStats: true,
     },
     {
       id: 'standard_resonator',
@@ -223,6 +224,7 @@ export const BANNERS = {
       ignorePityOnFreePull: true,
       showGlobalStats: true,
       isActive: true,
+      showPhaseStats: true,
     },
     {
       id: 'rerun',
