@@ -151,7 +151,8 @@
         },
         "topResetPityForAll": true,
         "isActive": true,
-        "showGlobalStats": true
+        "showGlobalStats": true,
+        "showPhaseStats": true
       },
       {
         "id": "standard_resonator",
@@ -456,7 +457,8 @@
         "topResetPityForAll": true,
         "ignorePityOnFreePull": true,
         "showGlobalStats": true,
-        "isActive": true
+        "isActive": true,
+        "showPhaseStats": true
       },
       {
         "id": "rerun",
