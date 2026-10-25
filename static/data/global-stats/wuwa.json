@@ -1,6 +1,6 @@
 {
   "game": "wuwa",
-  "updatedAt": "2026-10-25T05:54:53.046Z",
+  "updatedAt": "2026-10-25T08:01:19.386Z",
   "summary": {
     "players": 8205,
     "totalPulls": 5130299,
@@ -339,6 +339,31 @@
           "phase": 1,
           "start": "2026-09-30",
           "end": "2026-10-22",
+          "bannerNames": [
+            "As Full as Tonight, Forever",
+            "Horizon of Dawnbreak",
+            "Across Time's Waxes and Wanes"
+          ],
+          "featured": [
+            {
+              "name": "Hsin",
+              "quality": 5,
+              "category": "r",
+              "count": 2788
+            },
+            {
+              "name": "Chisa",
+              "quality": 5,
+              "category": "r",
+              "count": 451
+            },
+            {
+              "name": "Iuno",
+              "quality": 5,
+              "category": "r",
+              "count": 225
+            }
+          ],
           "stats": {
             "players": 792,
             "totalPulls": 72898,
@@ -552,7 +577,112 @@
                 "count": 269,
                 "share": 3.04
               }
-            ]
+            ],
+            "estimated": {
+              "players": 792,
+              "totalPulls": 279458,
+              "topItems": [
+                {
+                  "name": "Hsin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2788,
+                  "share": 51.12
+                },
+                {
+                  "name": "Chisa",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 451,
+                  "share": 8.27
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 364,
+                  "share": 6.68
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 349,
+                  "share": 6.4
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 341,
+                  "share": 6.26
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 333,
+                  "share": 6.11
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 307,
+                  "share": 5.63
+                },
+                {
+                  "name": "Iuno",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 225,
+                  "share": 4.13
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 7038,
+                  "share": 20.74
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6853,
+                  "share": 20.2
+                },
+                {
+                  "name": "Buling",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6840,
+                  "share": 20.16
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1341,
+                  "share": 3.95
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1304,
+                  "share": 3.84
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1171,
+                  "share": 3.45
+                }
+              ],
+              "coverage": 0.261
+            }
           }
         },
         {
@@ -561,6 +691,31 @@
           "phase": 2,
           "start": "2026-09-10",
           "end": "2026-09-29",
+          "bannerNames": [
+            "Where Santu Beckons",
+            "Thousand Futures Mirrored in Snow",
+            "Distant May the Starlights Be"
+          ],
+          "featured": [
+            {
+              "name": "Jingran",
+              "quality": 5,
+              "category": "r",
+              "count": 1020
+            },
+            {
+              "name": "Hiyuki",
+              "quality": 5,
+              "category": "r",
+              "count": 906
+            },
+            {
+              "name": "Mornye",
+              "quality": 5,
+              "category": "r",
+              "count": 632
+            }
+          ],
           "stats": {
             "players": 884,
             "totalPulls": 74193,
@@ -774,7 +929,112 @@
                 "count": 327,
                 "share": 3.62
               }
-            ]
+            ],
+            "estimated": {
+              "players": 884,
+              "totalPulls": 225228,
+              "topItems": [
+                {
+                  "name": "Jingran",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1020,
+                  "share": 24.55
+                },
+                {
+                  "name": "Hiyuki",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 906,
+                  "share": 21.81
+                },
+                {
+                  "name": "Mornye",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 632,
+                  "share": 15.2
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 300,
+                  "share": 7.21
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 269,
+                  "share": 6.48
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 269,
+                  "share": 6.48
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 266,
+                  "share": 6.4
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 264,
+                  "share": 6.34
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 5767,
+                  "share": 21.05
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 5539,
+                  "share": 20.22
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 5469,
+                  "share": 19.96
+                },
+                {
+                  "name": "Buling",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 995,
+                  "share": 3.63
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 985,
+                  "share": 3.6
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 941,
+                  "share": 3.43
+                }
+              ],
+              "coverage": 0.329
+            }
           }
         },
         {
@@ -783,6 +1043,24 @@
           "phase": 1,
           "start": "2026-08-20",
           "end": "2026-09-10",
+          "bannerNames": [
+            "Wind of Transcendence",
+            "False Promise for Tomorrow"
+          ],
+          "featured": [
+            {
+              "name": "Qingxiao",
+              "quality": 5,
+              "category": "r",
+              "count": 1955
+            },
+            {
+              "name": "Denia",
+              "quality": 5,
+              "category": "r",
+              "count": 834
+            }
+          ],
           "stats": {
             "players": 1182,
             "totalPulls": 71512,
@@ -989,7 +1267,105 @@
                 "count": 168,
                 "share": 1.92
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1182,
+              "totalPulls": 221013,
+              "topItems": [
+                {
+                  "name": "Qingxiao",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1955,
+                  "share": 46.78
+                },
+                {
+                  "name": "Denia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 834,
+                  "share": 19.97
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 314,
+                  "share": 7.51
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 281,
+                  "share": 6.73
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 272,
+                  "share": 6.51
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 265,
+                  "share": 6.35
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 257,
+                  "share": 6.16
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6182,
+                  "share": 22.87
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6084,
+                  "share": 22.51
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 5768,
+                  "share": 21.34
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 565,
+                  "share": 2.09
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 555,
+                  "share": 2.05
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 520,
+                  "share": 1.92
+                }
+              ],
+              "coverage": 0.324
+            }
           }
         },
         {
@@ -998,6 +1374,24 @@
           "phase": 2,
           "start": "2026-07-30",
           "end": "2026-08-19",
+          "bannerNames": [
+            "Blessings From Dewy Winds",
+            "Take Flight in Spring"
+          ],
+          "featured": [
+            {
+              "name": "Suisui",
+              "quality": 5,
+              "category": "r",
+              "count": 2498
+            },
+            {
+              "name": "Aemeath",
+              "quality": 5,
+              "category": "r",
+              "count": 1432
+            }
+          ],
           "stats": {
             "players": 1639,
             "totalPulls": 115015,
@@ -1211,7 +1605,112 @@
                 "count": 280,
                 "share": 2
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1639,
+              "totalPulls": 326120,
+              "topItems": [
+                {
+                  "name": "Suisui",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2498,
+                  "share": 39.5
+                },
+                {
+                  "name": "Aemeath",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1432,
+                  "share": 22.65
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 461,
+                  "share": 7.29
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 441,
+                  "share": 6.97
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 439,
+                  "share": 6.94
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 396,
+                  "share": 6.26
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 387,
+                  "share": 6.12
+                },
+                {
+                  "name": "Qingxiao",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 245,
+                  "share": 3.88
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 8876,
+                  "share": 22.31
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 8343,
+                  "share": 20.97
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 8246,
+                  "share": 20.73
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1318,
+                  "share": 3.31
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1311,
+                  "share": 3.3
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 773,
+                  "share": 1.94
+                }
+              ],
+              "coverage": 0.353
+            }
           }
         },
         {
@@ -1220,6 +1719,31 @@
           "phase": 1,
           "start": "2026-07-10",
           "end": "2026-07-30",
+          "bannerNames": [
+            "Voices on Azure Feathers",
+            "Undefined Spectrum",
+            "When Winter Thaws"
+          ],
+          "featured": [
+            {
+              "name": "Yangyang: Xuanling",
+              "quality": 5,
+              "category": "r",
+              "count": 2480
+            },
+            {
+              "name": "Lynae",
+              "quality": 5,
+              "category": "r",
+              "count": 855
+            },
+            {
+              "name": "Luuk Herssen",
+              "quality": 5,
+              "category": "r",
+              "count": 352
+            }
+          ],
           "stats": {
             "players": 1987,
             "totalPulls": 118849,
@@ -1433,7 +1957,112 @@
                 "count": 273,
                 "share": 1.88
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1987,
+              "totalPulls": 288708,
+              "topItems": [
+                {
+                  "name": "Yangyang: Xuanling",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2480,
+                  "share": 45.03
+                },
+                {
+                  "name": "Lynae",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 855,
+                  "share": 15.52
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 422,
+                  "share": 7.66
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 412,
+                  "share": 7.47
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 367,
+                  "share": 6.67
+                },
+                {
+                  "name": "Luuk Herssen",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 352,
+                  "share": 6.39
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 321,
+                  "share": 5.84
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 299,
+                  "share": 5.42
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 7983,
+                  "share": 22.65
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 7743,
+                  "share": 21.97
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 7742,
+                  "share": 21.97
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 747,
+                  "share": 2.12
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 693,
+                  "share": 1.97
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 656,
+                  "share": 1.86
+                }
+              ],
+              "coverage": 0.412
+            }
           }
         },
         {
@@ -1442,6 +2071,24 @@
           "phase": 1,
           "start": "2026-06-13",
           "end": "2026-07-09",
+          "bannerNames": [
+            "Tomorrow in the Frame",
+            "Dance in the Storm's Wake"
+          ],
+          "featured": [
+            {
+              "name": "Lucilla",
+              "quality": 5,
+              "category": "r",
+              "count": 3180
+            },
+            {
+              "name": "Cartethyia",
+              "quality": 5,
+              "category": "r",
+              "count": 1050
+            }
+          ],
           "stats": {
             "players": 2492,
             "totalPulls": 132198,
@@ -1655,7 +2302,112 @@
                 "count": 904,
                 "share": 5.57
               }
-            ]
+            ],
+            "estimated": {
+              "players": 2492,
+              "totalPulls": 331125,
+              "topItems": [
+                {
+                  "name": "Lucilla",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3180,
+                  "share": 49.98
+                },
+                {
+                  "name": "Cartethyia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1050,
+                  "share": 16.5
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 446,
+                  "share": 7.01
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 433,
+                  "share": 6.81
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 402,
+                  "share": 6.32
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 369,
+                  "share": 5.8
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 351,
+                  "share": 5.51
+                },
+                {
+                  "name": "Yangyang: Xuanling",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 108,
+                  "share": 1.7
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6572,
+                  "share": 16.17
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6564,
+                  "share": 16.15
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6537,
+                  "share": 16.08
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 3008,
+                  "share": 7.4
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2942,
+                  "share": 7.24
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2925,
+                  "share": 7.2
+                }
+              ],
+              "coverage": 0.399
+            }
           }
         },
         {
@@ -1664,6 +2416,31 @@
           "phase": 2,
           "start": "2026-05-21",
           "end": "2026-06-07",
+          "bannerNames": [
+            "False Promise for Tomorrow",
+            "Horizon of Dawnbreak",
+            "Requiem Without End"
+          ],
+          "featured": [
+            {
+              "name": "Denia",
+              "quality": 5,
+              "category": "r",
+              "count": 2077
+            },
+            {
+              "name": "Chisa",
+              "quality": 5,
+              "category": "r",
+              "count": 1142
+            },
+            {
+              "name": "Phrolova",
+              "quality": 5,
+              "category": "r",
+              "count": 576
+            }
+          ],
           "stats": {
             "players": 2918,
             "totalPulls": 198830,
@@ -1877,7 +2654,112 @@
                 "count": 495,
                 "share": 2.05
               }
-            ]
+            ],
+            "estimated": {
+              "players": 2918,
+              "totalPulls": 312581,
+              "topItems": [
+                {
+                  "name": "Denia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2077,
+                  "share": 36.03
+                },
+                {
+                  "name": "Chisa",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1142,
+                  "share": 19.81
+                },
+                {
+                  "name": "Phrolova",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 576,
+                  "share": 10
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 420,
+                  "share": 7.28
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 409,
+                  "share": 7.1
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 406,
+                  "share": 7.04
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 373,
+                  "share": 6.46
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 362,
+                  "share": 6.29
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 8437,
+                  "share": 22.2
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 8395,
+                  "share": 22.08
+                },
+                {
+                  "name": "Buling",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 8353,
+                  "share": 21.97
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 774,
+                  "share": 2.04
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 769,
+                  "share": 2.02
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 760,
+                  "share": 2
+                }
+              ],
+              "coverage": 0.636
+            }
           }
         },
         {
@@ -1886,6 +2768,31 @@
           "phase": 1,
           "start": "2026-04-30",
           "end": "2026-05-21",
+          "bannerNames": [
+            "Thousand Futures Mirrored in Snow",
+            "Distant May the Starlights Be",
+            "Across Time's Waxes and Wanes"
+          ],
+          "featured": [
+            {
+              "name": "Hiyuki",
+              "quality": 5,
+              "category": "r",
+              "count": 4764
+            },
+            {
+              "name": "Mornye",
+              "quality": 5,
+              "category": "r",
+              "count": 1300
+            },
+            {
+              "name": "Iuno",
+              "quality": 5,
+              "category": "r",
+              "count": 409
+            }
+          ],
           "stats": {
             "players": 3797,
             "totalPulls": 377453,
@@ -2099,7 +3006,112 @@
                 "count": 881,
                 "share": 1.92
               }
-            ]
+            ],
+            "estimated": {
+              "players": 3797,
+              "totalPulls": 495736,
+              "topItems": [
+                {
+                  "name": "Hiyuki",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 4764,
+                  "share": 50.59
+                },
+                {
+                  "name": "Mornye",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1300,
+                  "share": 13.81
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 651,
+                  "share": 6.91
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 598,
+                  "share": 6.35
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 578,
+                  "share": 6.14
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 563,
+                  "share": 5.98
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 554,
+                  "share": 5.88
+                },
+                {
+                  "name": "Iuno",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 409,
+                  "share": 4.34
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 13598,
+                  "share": 22.5
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 13472,
+                  "share": 22.29
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 13189,
+                  "share": 21.82
+                },
+                {
+                  "name": "Buling",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1188,
+                  "share": 1.97
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1169,
+                  "share": 1.93
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1168,
+                  "share": 1.93
+                }
+              ],
+              "coverage": 0.761
+            }
           }
         },
         {
@@ -2108,6 +3120,31 @@
           "phase": 2,
           "start": "2026-04-09",
           "end": "2026-04-29",
+          "bannerNames": [
+            "Undefined Spectrum",
+            "Between Light and Shadow",
+            "With Hushed Whispers"
+          ],
+          "featured": [
+            {
+              "name": "Lynae",
+              "quality": 5,
+              "category": "r",
+              "count": 1597
+            },
+            {
+              "name": "Zani",
+              "quality": 5,
+              "category": "r",
+              "count": 273
+            },
+            {
+              "name": "Phoebe",
+              "quality": 5,
+              "category": "r",
+              "count": 257
+            }
+          ],
           "stats": {
             "players": 1842,
             "totalPulls": 104550,
@@ -2321,7 +3358,112 @@
                 "count": 893,
                 "share": 6.99
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1842,
+              "totalPulls": 224739,
+              "topItems": [
+                {
+                  "name": "Lynae",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1597,
+                  "share": 36.82
+                },
+                {
+                  "name": "Hiyuki",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 587,
+                  "share": 13.54
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 337,
+                  "share": 7.77
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 331,
+                  "share": 7.63
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 297,
+                  "share": 6.85
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 288,
+                  "share": 6.64
+                },
+                {
+                  "name": "Zani",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 273,
+                  "share": 6.29
+                },
+                {
+                  "name": "Phoebe",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 257,
+                  "share": 5.92
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4730,
+                  "share": 17.26
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4671,
+                  "share": 17.04
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4486,
+                  "share": 16.37
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1995,
+                  "share": 7.28
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1906,
+                  "share": 6.95
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1905,
+                  "share": 6.95
+                }
+              ],
+              "coverage": 0.465
+            }
           }
         },
         {
@@ -2330,6 +3472,24 @@
           "phase": 1,
           "start": "2026-03-19",
           "end": "2026-04-09",
+          "bannerNames": [
+            "When the Runes Glitter",
+            "Wanderer Knows No Far and Near"
+          ],
+          "featured": [
+            {
+              "name": "Sigrika",
+              "quality": 5,
+              "category": "r",
+              "count": 1093
+            },
+            {
+              "name": "Qiuyuan",
+              "quality": 5,
+              "category": "r",
+              "count": 1016
+            }
+          ],
           "stats": {
             "players": 1816,
             "totalPulls": 80851,
@@ -2536,7 +3696,105 @@
                 "count": 196,
                 "share": 1.97
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1816,
+              "totalPulls": 180293,
+              "topItems": [
+                {
+                  "name": "Sigrika",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1093,
+                  "share": 34.49
+                },
+                {
+                  "name": "Qiuyuan",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1016,
+                  "share": 32.07
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 264,
+                  "share": 8.35
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 215,
+                  "share": 6.8
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 199,
+                  "share": 6.27
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 198,
+                  "share": 6.24
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 183,
+                  "share": 5.77
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4925,
+                  "share": 22.22
+                },
+                {
+                  "name": "Buling",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4912,
+                  "share": 22.16
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4843,
+                  "share": 21.85
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 481,
+                  "share": 2.17
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 468,
+                  "share": 2.11
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 451,
+                  "share": 2.03
+                }
+              ],
+              "coverage": 0.448
+            }
           }
         },
         {
@@ -2545,6 +3803,24 @@
           "phase": 2,
           "start": "2026-02-26",
           "end": "2026-03-18",
+          "bannerNames": [
+            "When Winter Thaws",
+            "From Ashes"
+          ],
+          "featured": [
+            {
+              "name": "Luuk Herssen",
+              "quality": 5,
+              "category": "r",
+              "count": 1828
+            },
+            {
+              "name": "Galbrena",
+              "quality": 5,
+              "category": "r",
+              "count": 660
+            }
+          ],
           "stats": {
             "players": 2010,
             "totalPulls": 106013,
@@ -2758,7 +4034,112 @@
                 "count": 308,
                 "share": 2.37
               }
-            ]
+            ],
+            "estimated": {
+              "players": 2010,
+              "totalPulls": 210486,
+              "topItems": [
+                {
+                  "name": "Luuk Herssen",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1828,
+                  "share": 46.65
+                },
+                {
+                  "name": "Galbrena",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 660,
+                  "share": 16.85
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 291,
+                  "share": 7.42
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 271,
+                  "share": 6.9
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 254,
+                  "share": 6.49
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 245,
+                  "share": 6.26
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 244,
+                  "share": 6.23
+                },
+                {
+                  "name": "Sigrika",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 76,
+                  "share": 1.95
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 5736,
+                  "share": 22.25
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 5320,
+                  "share": 20.63
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 5230,
+                  "share": 20.28
+                },
+                {
+                  "name": "Buling",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 822,
+                  "share": 3.19
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 803,
+                  "share": 3.11
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 575,
+                  "share": 2.23
+                }
+              ],
+              "coverage": 0.504
+            }
           }
         },
         {
@@ -2767,6 +4148,31 @@
           "phase": 1,
           "start": "2026-02-05",
           "end": "2026-02-26",
+          "bannerNames": [
+            "Take Flight in Spring",
+            "Horizon of Dawnbreak",
+            "Roar of Triumph"
+          ],
+          "featured": [
+            {
+              "name": "Aemeath",
+              "quality": 5,
+              "category": "r",
+              "count": 4498
+            },
+            {
+              "name": "Chisa",
+              "quality": 5,
+              "category": "r",
+              "count": 437
+            },
+            {
+              "name": "Lupa",
+              "quality": 5,
+              "category": "r",
+              "count": 306
+            }
+          ],
           "stats": {
             "players": 3553,
             "totalPulls": 325038,
@@ -2980,7 +4386,112 @@
                 "count": 764,
                 "share": 1.93
               }
-            ]
+            ],
+            "estimated": {
+              "players": 3553,
+              "totalPulls": 399319,
+              "topItems": [
+                {
+                  "name": "Aemeath",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 4498,
+                  "share": 58.6
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 501,
+                  "share": 6.53
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 493,
+                  "share": 6.42
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 489,
+                  "share": 6.37
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 478,
+                  "share": 6.22
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 475,
+                  "share": 6.19
+                },
+                {
+                  "name": "Chisa",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 437,
+                  "share": 5.69
+                },
+                {
+                  "name": "Lupa",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 306,
+                  "share": 3.98
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 10872,
+                  "share": 22.32
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 10806,
+                  "share": 22.19
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 10755,
+                  "share": 22.08
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 956,
+                  "share": 1.96
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 952,
+                  "share": 1.95
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 949,
+                  "share": 1.95
+                }
+              ],
+              "coverage": 0.814
+            }
           }
         },
         {
@@ -2989,6 +4500,31 @@
           "phase": 2,
           "start": "2026-01-15",
           "end": "2026-02-04",
+          "bannerNames": [
+            "Distant May the Starlights Be",
+            "Across Time's Waxes and Wanes",
+            "Eternal Radiance on the Crown"
+          ],
+          "featured": [
+            {
+              "name": "Mornye",
+              "quality": 5,
+              "category": "r",
+              "count": 2116
+            },
+            {
+              "name": "Iuno",
+              "quality": 5,
+              "category": "r",
+              "count": 575
+            },
+            {
+              "name": "Augusta",
+              "quality": 5,
+              "category": "r",
+              "count": 437
+            }
+          ],
           "stats": {
             "players": 3393,
             "totalPulls": 241088,
@@ -3202,7 +4738,112 @@
                 "count": 1059,
                 "share": 3.59
               }
-            ]
+            ],
+            "estimated": {
+              "players": 3393,
+              "totalPulls": 285381,
+              "topItems": [
+                {
+                  "name": "Mornye",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2116,
+                  "share": 40.08
+                },
+                {
+                  "name": "Iuno",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 575,
+                  "share": 10.89
+                },
+                {
+                  "name": "Augusta",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 437,
+                  "share": 8.27
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 393,
+                  "share": 7.45
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 380,
+                  "share": 7.21
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 371,
+                  "share": 7.04
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 348,
+                  "share": 6.58
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 324,
+                  "share": 6.14
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 7138,
+                  "share": 20.4
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6978,
+                  "share": 19.95
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6914,
+                  "share": 19.76
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1424,
+                  "share": 4.07
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1389,
+                  "share": 3.97
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1373,
+                  "share": 3.92
+                }
+              ],
+              "coverage": 0.845
+            }
           }
         },
         {
@@ -3211,6 +4852,31 @@
           "phase": 1,
           "start": "2025-12-25",
           "end": "2026-01-15",
+          "bannerNames": [
+            "Undefined Spectrum",
+            "Dance in the Storm's Wake",
+            "Through Verses and Rhythms"
+          ],
+          "featured": [
+            {
+              "name": "Lynae",
+              "quality": 5,
+              "category": "r",
+              "count": 2464
+            },
+            {
+              "name": "Cartethyia",
+              "quality": 5,
+              "category": "r",
+              "count": 852
+            },
+            {
+              "name": "Ciaccona",
+              "quality": 5,
+              "category": "r",
+              "count": 515
+            }
+          ],
           "stats": {
             "players": 3776,
             "totalPulls": 283338,
@@ -3424,7 +5090,112 @@
                 "count": 648,
                 "share": 1.88
               }
-            ]
+            ],
+            "estimated": {
+              "players": 3776,
+              "totalPulls": 289773,
+              "topItems": [
+                {
+                  "name": "Lynae",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2464,
+                  "share": 43.42
+                },
+                {
+                  "name": "Cartethyia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 852,
+                  "share": 15.02
+                },
+                {
+                  "name": "Ciaccona",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 515,
+                  "share": 9.08
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 380,
+                  "share": 6.69
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 373,
+                  "share": 6.58
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 368,
+                  "share": 6.48
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 366,
+                  "share": 6.45
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 356,
+                  "share": 6.28
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 7846,
+                  "share": 22.27
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 7831,
+                  "share": 22.23
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 7786,
+                  "share": 22.1
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 672,
+                  "share": 1.91
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 666,
+                  "share": 1.89
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 662,
+                  "share": 1.88
+                }
+              ],
+              "coverage": 0.978
+            }
           }
         },
         {
@@ -3433,6 +5204,24 @@
           "phase": 2,
           "start": "2025-12-11",
           "end": "2025-12-24",
+          "bannerNames": [
+            "Requiem Without End",
+            "Neptune's Lullaby"
+          ],
+          "featured": [
+            {
+              "name": "Phrolova",
+              "quality": 5,
+              "category": "r",
+              "count": 732
+            },
+            {
+              "name": "Cantarella",
+              "quality": 5,
+              "category": "r",
+              "count": 342
+            }
+          ],
           "stats": {
             "players": 2352,
             "totalPulls": 112322,
@@ -3646,7 +5435,112 @@
                 "count": 512,
                 "share": 3.69
               }
-            ]
+            ],
+            "estimated": {
+              "players": 2352,
+              "totalPulls": 112322,
+              "topItems": [
+                {
+                  "name": "Phrolova",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 732,
+                  "share": 39.21
+                },
+                {
+                  "name": "Cantarella",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 342,
+                  "share": 18.32
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 136,
+                  "share": 7.28
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 132,
+                  "share": 7.07
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 130,
+                  "share": 6.96
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 125,
+                  "share": 6.7
+                },
+                {
+                  "name": "Lynae",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 116,
+                  "share": 6.21
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 111,
+                  "share": 5.95
+                },
+                {
+                  "name": "Buling",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2865,
+                  "share": 20.65
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2735,
+                  "share": 19.71
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2667,
+                  "share": 19.22
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 565,
+                  "share": 4.07
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 545,
+                  "share": 3.93
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 512,
+                  "share": 3.69
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -3655,6 +5549,24 @@
           "phase": 1,
           "start": "2025-11-20",
           "end": "2025-12-11",
+          "bannerNames": [
+            "Horizon of Dawnbreak",
+            "With Hushed Whispers"
+          ],
+          "featured": [
+            {
+              "name": "Chisa",
+              "quality": 5,
+              "category": "r",
+              "count": 1943
+            },
+            {
+              "name": "Phoebe",
+              "quality": 5,
+              "category": "r",
+              "count": 264
+            }
+          ],
           "stats": {
             "players": 2689,
             "totalPulls": 166869,
@@ -3861,7 +5773,105 @@
                 "count": 422,
                 "share": 2.05
               }
-            ]
+            ],
+            "estimated": {
+              "players": 2689,
+              "totalPulls": 166869,
+              "topItems": [
+                {
+                  "name": "Chisa",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1943,
+                  "share": 59.95
+                },
+                {
+                  "name": "Phoebe",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 264,
+                  "share": 8.15
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 222,
+                  "share": 6.85
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 217,
+                  "share": 6.7
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 206,
+                  "share": 6.36
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 200,
+                  "share": 6.17
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 189,
+                  "share": 5.83
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4698,
+                  "share": 22.84
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4571,
+                  "share": 22.22
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 4530,
+                  "share": 22.02
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 434,
+                  "share": 2.11
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 432,
+                  "share": 2.1
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 422,
+                  "share": 2.05
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -3870,6 +5880,24 @@
           "phase": 2,
           "start": "2025-10-30",
           "end": "2025-11-19",
+          "bannerNames": [
+            "Wanderer Knows No Far and Near",
+            "Between Light and Shadow"
+          ],
+          "featured": [
+            {
+              "name": "Qiuyuan",
+              "quality": 5,
+              "category": "r",
+              "count": 797
+            },
+            {
+              "name": "Zani",
+              "quality": 5,
+              "category": "r",
+              "count": 149
+            }
+          ],
           "stats": {
             "players": 1689,
             "totalPulls": 89778,
@@ -4083,7 +6111,112 @@
                 "count": 272,
                 "share": 2.45
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1689,
+              "totalPulls": 89778,
+              "topItems": [
+                {
+                  "name": "Qiuyuan",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 797,
+                  "share": 48.01
+                },
+                {
+                  "name": "Zani",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 149,
+                  "share": 8.98
+                },
+                {
+                  "name": "Chisa",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 126,
+                  "share": 7.59
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 123,
+                  "share": 7.41
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 121,
+                  "share": 7.29
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 114,
+                  "share": 6.87
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 112,
+                  "share": 6.75
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 106,
+                  "share": 6.39
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2447,
+                  "share": 22.03
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2185,
+                  "share": 19.67
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2173,
+                  "share": 19.56
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 511,
+                  "share": 4.6
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 481,
+                  "share": 4.33
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 272,
+                  "share": 2.45
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -4092,6 +6225,24 @@
           "phase": 1,
           "start": "2025-10-09",
           "end": "2025-10-30",
+          "bannerNames": [
+            "From Ashes",
+            "Roar of Triumph"
+          ],
+          "featured": [
+            {
+              "name": "Galbrena",
+              "quality": 5,
+              "category": "r",
+              "count": 842
+            },
+            {
+              "name": "Lupa",
+              "quality": 5,
+              "category": "r",
+              "count": 159
+            }
+          ],
           "stats": {
             "players": 1573,
             "totalPulls": 83733,
@@ -4298,7 +6449,105 @@
                 "count": 207,
                 "share": 2.01
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1573,
+              "totalPulls": 83733,
+              "topItems": [
+                {
+                  "name": "Galbrena",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 842,
+                  "share": 55.91
+                },
+                {
+                  "name": "Lupa",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 159,
+                  "share": 10.56
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 106,
+                  "share": 7.04
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 103,
+                  "share": 6.84
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 100,
+                  "share": 6.64
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 98,
+                  "share": 6.51
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 98,
+                  "share": 6.51
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2352,
+                  "share": 22.85
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2334,
+                  "share": 22.67
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2195,
+                  "share": 21.32
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 221,
+                  "share": 2.15
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 221,
+                  "share": 2.15
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 207,
+                  "share": 2.01
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -4307,6 +6556,24 @@
           "phase": 2,
           "start": "2025-09-17",
           "end": "2025-10-08",
+          "bannerNames": [
+            "Across Time's Waxes and Wanes",
+            "Through Verses and Rhythms"
+          ],
+          "featured": [
+            {
+              "name": "Iuno",
+              "quality": 5,
+              "category": "r",
+              "count": 1111
+            },
+            {
+              "name": "Ciaccona",
+              "quality": 5,
+              "category": "r",
+              "count": 236
+            }
+          ],
           "stats": {
             "players": 1707,
             "totalPulls": 115531,
@@ -4520,7 +6787,112 @@
                 "count": 421,
                 "share": 2.97
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1707,
+              "totalPulls": 115531,
+              "topItems": [
+                {
+                  "name": "Iuno",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1111,
+                  "share": 52.04
+                },
+                {
+                  "name": "Ciaccona",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 236,
+                  "share": 11.05
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 162,
+                  "share": 7.59
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 156,
+                  "share": 7.31
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 141,
+                  "share": 6.6
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 131,
+                  "share": 6.14
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 118,
+                  "share": 5.53
+                },
+                {
+                  "name": "Galbrena",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 71,
+                  "share": 3.33
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 3047,
+                  "share": 21.52
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 3031,
+                  "share": 21.41
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2932,
+                  "share": 20.71
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 492,
+                  "share": 3.48
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 431,
+                  "share": 3.04
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 421,
+                  "share": 2.97
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -4529,6 +6901,31 @@
           "phase": 1,
           "start": "2025-08-28",
           "end": "2025-09-17",
+          "bannerNames": [
+            "Eternal Radiance on the Crown",
+            "Till the Sea Turns Clear",
+            "When Silence Tolls"
+          ],
+          "featured": [
+            {
+              "name": "Augusta",
+              "quality": 5,
+              "category": "r",
+              "count": 962
+            },
+            {
+              "name": "Shorekeeper",
+              "quality": 5,
+              "category": "r",
+              "count": 287
+            },
+            {
+              "name": "Carlotta",
+              "quality": 5,
+              "category": "r",
+              "count": 114
+            }
+          ],
           "stats": {
             "players": 1486,
             "totalPulls": 105453,
@@ -4742,7 +7139,112 @@
                 "count": 274,
                 "share": 2.11
               }
-            ]
+            ],
+            "estimated": {
+              "players": 1486,
+              "totalPulls": 105453,
+              "topItems": [
+                {
+                  "name": "Augusta",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 962,
+                  "share": 46.84
+                },
+                {
+                  "name": "Shorekeeper",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 287,
+                  "share": 13.97
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 148,
+                  "share": 7.21
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 144,
+                  "share": 7.01
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 134,
+                  "share": 6.52
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 133,
+                  "share": 6.48
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 130,
+                  "share": 6.33
+                },
+                {
+                  "name": "Carlotta",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 114,
+                  "share": 5.55
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2926,
+                  "share": 22.53
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2844,
+                  "share": 21.9
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 2835,
+                  "share": 21.83
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 309,
+                  "share": 2.38
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 298,
+                  "share": 2.29
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 274,
+                  "share": 2.11
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -4751,6 +7253,24 @@
           "phase": 2,
           "start": "2025-08-14",
           "end": "2025-08-27",
+          "bannerNames": [
+            "Neptune's Lullaby",
+            "Blaze Across the Deep"
+          ],
+          "featured": [
+            {
+              "name": "Cantarella",
+              "quality": 5,
+              "category": "r",
+              "count": 119
+            },
+            {
+              "name": "Brant",
+              "quality": 5,
+              "category": "r",
+              "count": 110
+            }
+          ],
           "stats": {
             "players": 656,
             "totalPulls": 28503,
@@ -4964,7 +7484,112 @@
                 "count": 238,
                 "share": 6.77
               }
-            ]
+            ],
+            "estimated": {
+              "players": 656,
+              "totalPulls": 28503,
+              "topItems": [
+                {
+                  "name": "Cantarella",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 119,
+                  "share": 23.15
+                },
+                {
+                  "name": "Brant",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 110,
+                  "share": 21.4
+                },
+                {
+                  "name": "Augusta",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 89,
+                  "share": 17.32
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 39,
+                  "share": 7.59
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 37,
+                  "share": 7.2
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 34,
+                  "share": 6.61
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 33,
+                  "share": 6.42
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 33,
+                  "share": 6.42
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 600,
+                  "share": 17.06
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 596,
+                  "share": 16.95
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 566,
+                  "share": 16.09
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 271,
+                  "share": 7.71
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 265,
+                  "share": 7.53
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 238,
+                  "share": 6.77
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -4973,6 +7598,24 @@
           "phase": 1,
           "start": "2025-07-24",
           "end": "2025-08-14",
+          "bannerNames": [
+            "Requiem Without End",
+            "Stage in the Box"
+          ],
+          "featured": [
+            {
+              "name": "Phrolova",
+              "quality": 5,
+              "category": "r",
+              "count": 495
+            },
+            {
+              "name": "Roccia",
+              "quality": 5,
+              "category": "r",
+              "count": 47
+            }
+          ],
           "stats": {
             "players": 826,
             "totalPulls": 44247,
@@ -5179,7 +7822,105 @@
                 "count": 117,
                 "share": 2.11
               }
-            ]
+            ],
+            "estimated": {
+              "players": 826,
+              "totalPulls": 44247,
+              "topItems": [
+                {
+                  "name": "Phrolova",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 495,
+                  "share": 60.15
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 63,
+                  "share": 7.65
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 58,
+                  "share": 7.05
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 57,
+                  "share": 6.93
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 56,
+                  "share": 6.8
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 47,
+                  "share": 5.71
+                },
+                {
+                  "name": "Roccia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 47,
+                  "share": 5.71
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1286,
+                  "share": 23.22
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1223,
+                  "share": 22.08
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 1190,
+                  "share": 21.48
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 137,
+                  "share": 2.47
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 123,
+                  "share": 2.22
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 117,
+                  "share": 2.11
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -5188,6 +7929,17 @@
           "phase": 2,
           "start": "2025-07-03",
           "end": "2025-07-23",
+          "bannerNames": [
+            "Roar of Triumph"
+          ],
+          "featured": [
+            {
+              "name": "Lupa",
+              "quality": 5,
+              "category": "r",
+              "count": 250
+            }
+          ],
           "stats": {
             "players": 449,
             "totalPulls": 22370,
@@ -5401,7 +8153,112 @@
                 "count": 55,
                 "share": 1.97
               }
-            ]
+            ],
+            "estimated": {
+              "players": 449,
+              "totalPulls": 22370,
+              "topItems": [
+                {
+                  "name": "Lupa",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 250,
+                  "share": 57.34
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 44,
+                  "share": 10.09
+                },
+                {
+                  "name": "Phrolova",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 36,
+                  "share": 8.26
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 33,
+                  "share": 7.57
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 28,
+                  "share": 6.42
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 21,
+                  "share": 4.82
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 21,
+                  "share": 4.82
+                },
+                {
+                  "name": "Roccia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3,
+                  "share": 0.69
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 635,
+                  "share": 22.75
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 583,
+                  "share": 20.89
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 549,
+                  "share": 19.67
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 138,
+                  "share": 4.94
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 136,
+                  "share": 4.87
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 55,
+                  "share": 1.97
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -5410,6 +8267,17 @@
           "phase": 1,
           "start": "2025-06-12",
           "end": "2025-07-03",
+          "bannerNames": [
+            "Dance in the Storm's Wake"
+          ],
+          "featured": [
+            {
+              "name": "Cartethyia",
+              "quality": 5,
+              "category": "r",
+              "count": 331
+            }
+          ],
           "stats": {
             "players": 345,
             "totalPulls": 27197,
@@ -5616,7 +8484,105 @@
                 "count": 77,
                 "share": 2.29
               }
-            ]
+            ],
+            "estimated": {
+              "players": 345,
+              "totalPulls": 27197,
+              "topItems": [
+                {
+                  "name": "Cartethyia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 331,
+                  "share": 66.73
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 37,
+                  "share": 7.46
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 36,
+                  "share": 7.26
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 35,
+                  "share": 7.06
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 28,
+                  "share": 5.65
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 28,
+                  "share": 5.65
+                },
+                {
+                  "name": "Encore",
+                  "category": "w",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 0.2
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 762,
+                  "share": 22.64
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 747,
+                  "share": 22.2
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 724,
+                  "share": 21.52
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 79,
+                  "share": 2.35
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 78,
+                  "share": 2.32
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 77,
+                  "share": 2.29
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -5625,6 +8591,17 @@
           "phase": 2,
           "start": "2025-05-22",
           "end": "2025-06-11",
+          "bannerNames": [
+            "Through Verses and Rhythms"
+          ],
+          "featured": [
+            {
+              "name": "Ciaccona",
+              "quality": 5,
+              "category": "r",
+              "count": 118
+            }
+          ],
           "stats": {
             "players": 263,
             "totalPulls": 18567,
@@ -5838,7 +8815,112 @@
                 "count": 97,
                 "share": 4.22
               }
-            ]
+            ],
+            "estimated": {
+              "players": 263,
+              "totalPulls": 18567,
+              "topItems": [
+                {
+                  "name": "Ciaccona",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 118,
+                  "share": 32.96
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 33,
+                  "share": 9.22
+                },
+                {
+                  "name": "Carlotta",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 30,
+                  "share": 8.38
+                },
+                {
+                  "name": "Cartethyia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 28,
+                  "share": 7.82
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 27,
+                  "share": 7.54
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 26,
+                  "share": 7.26
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 25,
+                  "share": 6.98
+                },
+                {
+                  "name": "Brant",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 21,
+                  "share": 5.87
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 482,
+                  "share": 20.99
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 473,
+                  "share": 20.6
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 462,
+                  "share": 20.12
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 111,
+                  "share": 4.83
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 97,
+                  "share": 4.22
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 97,
+                  "share": 4.22
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -5847,6 +8929,17 @@
           "phase": 1,
           "start": "2025-04-29",
           "end": "2025-05-22",
+          "bannerNames": [
+            "Between Light and Shadow"
+          ],
+          "featured": [
+            {
+              "name": "Zani",
+              "quality": 5,
+              "category": "r",
+              "count": 181
+            }
+          ],
           "stats": {
             "players": 231,
             "totalPulls": 22539,
@@ -6060,7 +9153,112 @@
                 "count": 53,
                 "share": 1.91
               }
-            ]
+            ],
+            "estimated": {
+              "players": 231,
+              "totalPulls": 22539,
+              "topItems": [
+                {
+                  "name": "Zani",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 181,
+                  "share": 45.71
+                },
+                {
+                  "name": "Phoebe",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 39,
+                  "share": 9.85
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 33,
+                  "share": 8.33
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 26,
+                  "share": 6.57
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 25,
+                  "share": 6.31
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 24,
+                  "share": 6.06
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 20,
+                  "share": 5.05
+                },
+                {
+                  "name": "Jiyan",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 18,
+                  "share": 4.55
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 636,
+                  "share": 22.97
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 605,
+                  "share": 21.85
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 601,
+                  "share": 21.7
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 58,
+                  "share": 2.09
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 57,
+                  "share": 2.06
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 53,
+                  "share": 1.91
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -6069,6 +9267,17 @@
           "phase": 2,
           "start": "2025-04-17",
           "end": "2025-04-28",
+          "bannerNames": [
+            "Till the Sea Turns Clear"
+          ],
+          "featured": [
+            {
+              "name": "Shorekeeper",
+              "quality": 5,
+              "category": "r",
+              "count": 66
+            }
+          ],
           "stats": {
             "players": 110,
             "totalPulls": 6469,
@@ -6282,7 +9491,112 @@
                 "count": 53,
                 "share": 6.67
               }
-            ]
+            ],
+            "estimated": {
+              "players": 110,
+              "totalPulls": 6469,
+              "topItems": [
+                {
+                  "name": "Shorekeeper",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 66,
+                  "share": 53.23
+                },
+                {
+                  "name": "Zani",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 19,
+                  "share": 15.32
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 15,
+                  "share": 12.1
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 11,
+                  "share": 8.87
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 4.03
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3,
+                  "share": 2.42
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 1.61
+                },
+                {
+                  "name": "Camellya",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 0.81
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 150,
+                  "share": 18.87
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 129,
+                  "share": 16.23
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 118,
+                  "share": 14.84
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 72,
+                  "share": 9.06
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 62,
+                  "share": 7.8
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 53,
+                  "share": 6.67
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -6291,6 +9605,24 @@
           "phase": 1,
           "start": "2025-03-27",
           "end": "2025-04-17",
+          "bannerNames": [
+            "Neptune's Lullaby",
+            "End of Lost Trail"
+          ],
+          "featured": [
+            {
+              "name": "Cantarella",
+              "quality": 5,
+              "category": "r",
+              "count": 98
+            },
+            {
+              "name": "Camellya",
+              "quality": 5,
+              "category": "r",
+              "count": 22
+            }
+          ],
           "stats": {
             "players": 149,
             "totalPulls": 9752,
@@ -6504,7 +9836,112 @@
                 "count": 28,
                 "share": 2.35
               }
-            ]
+            ],
+            "estimated": {
+              "players": 149,
+              "totalPulls": 9752,
+              "topItems": [
+                {
+                  "name": "Cantarella",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 98,
+                  "share": 54.44
+                },
+                {
+                  "name": "Camellya",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 22,
+                  "share": 12.22
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 14,
+                  "share": 7.78
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 14,
+                  "share": 7.78
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 11,
+                  "share": 6.11
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 9,
+                  "share": 5
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 4.44
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "w",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 0.56
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 259,
+                  "share": 21.78
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 253,
+                  "share": 21.28
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 247,
+                  "share": 20.77
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 32,
+                  "share": 2.69
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 32,
+                  "share": 2.69
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 28,
+                  "share": 2.35
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -6513,6 +9950,24 @@
           "phase": 2,
           "start": "2025-03-06",
           "end": "2025-03-26",
+          "bannerNames": [
+            "Blaze Across the Deep",
+            "Vermillion's Ploy"
+          ],
+          "featured": [
+            {
+              "name": "Brant",
+              "quality": 5,
+              "category": "r",
+              "count": 78
+            },
+            {
+              "name": "Changli",
+              "quality": 5,
+              "category": "r",
+              "count": 33
+            }
+          ],
           "stats": {
             "players": 129,
             "totalPulls": 9395,
@@ -6726,7 +10181,112 @@
                 "count": 38,
                 "share": 3.23
               }
-            ]
+            ],
+            "estimated": {
+              "players": 129,
+              "totalPulls": 9395,
+              "topItems": [
+                {
+                  "name": "Brant",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 78,
+                  "share": 45.88
+                },
+                {
+                  "name": "Changli",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 33,
+                  "share": 19.41
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 16,
+                  "share": 9.41
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 10,
+                  "share": 5.88
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 10,
+                  "share": 5.88
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 4.71
+                },
+                {
+                  "name": "Cantarella",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 4.71
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 2.94
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 250,
+                  "share": 21.24
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 249,
+                  "share": 21.16
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 242,
+                  "share": 20.56
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 54,
+                  "share": 4.59
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 44,
+                  "share": 3.74
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 38,
+                  "share": 3.23
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -6735,6 +10295,17 @@
           "phase": 1,
           "start": "2025-02-13",
           "end": "2025-03-06",
+          "bannerNames": [
+            "With Hushed Whispers"
+          ],
+          "featured": [
+            {
+              "name": "Phoebe",
+              "quality": 5,
+              "category": "r",
+              "count": 85
+            }
+          ],
           "stats": {
             "players": 132,
             "totalPulls": 7070,
@@ -6934,7 +10505,98 @@
                 "count": 20,
                 "share": 2.3
               }
-            ]
+            ],
+            "estimated": {
+              "players": 132,
+              "totalPulls": 7070,
+              "topItems": [
+                {
+                  "name": "Phoebe",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 85,
+                  "share": 66.41
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 14,
+                  "share": 10.94
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 9,
+                  "share": 7.03
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 9,
+                  "share": 7.03
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 6.25
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3,
+                  "share": 2.34
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 206,
+                  "share": 23.65
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 196,
+                  "share": 22.5
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 190,
+                  "share": 21.81
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 21,
+                  "share": 2.41
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 21,
+                  "share": 2.41
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 20,
+                  "share": 2.3
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -6943,6 +10605,24 @@
           "phase": 2,
           "start": "2025-01-23",
           "end": "2025-02-12",
+          "bannerNames": [
+            "Stage in the Box",
+            "Thawborn Renewal"
+          ],
+          "featured": [
+            {
+              "name": "Roccia",
+              "quality": 5,
+              "category": "r",
+              "count": 40
+            },
+            {
+              "name": "Jinhsi",
+              "quality": 5,
+              "category": "r",
+              "count": 30
+            }
+          ],
           "stats": {
             "players": 117,
             "totalPulls": 6856,
@@ -7156,7 +10836,112 @@
                 "count": 44,
                 "share": 4.7
               }
-            ]
+            ],
+            "estimated": {
+              "players": 117,
+              "totalPulls": 6856,
+              "topItems": [
+                {
+                  "name": "Roccia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 40,
+                  "share": 32.26
+                },
+                {
+                  "name": "Jinhsi",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 30,
+                  "share": 24.19
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 12,
+                  "share": 9.68
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 10,
+                  "share": 8.06
+                },
+                {
+                  "name": "Phoebe",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 9,
+                  "share": 7.26
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 4.84
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 4.84
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 4.03
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 182,
+                  "share": 19.44
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 180,
+                  "share": 19.23
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 160,
+                  "share": 17.09
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 59,
+                  "share": 6.3
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 46,
+                  "share": 4.91
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 44,
+                  "share": 4.7
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -7165,6 +10950,24 @@
           "phase": 1,
           "start": "2025-01-02",
           "end": "2025-01-23",
+          "bannerNames": [
+            "When Silence Tolls",
+            "Chromatic Prose"
+          ],
+          "featured": [
+            {
+              "name": "Carlotta",
+              "quality": 5,
+              "category": "r",
+              "count": 134
+            },
+            {
+              "name": "Zhezhi",
+              "quality": 5,
+              "category": "r",
+              "count": 27
+            }
+          ],
           "stats": {
             "players": 145,
             "totalPulls": 12699,
@@ -7378,7 +11181,112 @@
                 "count": 32,
                 "share": 2.04
               }
-            ]
+            ],
+            "estimated": {
+              "players": 145,
+              "totalPulls": 12699,
+              "topItems": [
+                {
+                  "name": "Carlotta",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 134,
+                  "share": 55.37
+                },
+                {
+                  "name": "Zhezhi",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 27,
+                  "share": 11.16
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 19,
+                  "share": 7.85
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 18,
+                  "share": 7.44
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 16,
+                  "share": 6.61
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 14,
+                  "share": 5.79
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 13,
+                  "share": 5.37
+                },
+                {
+                  "name": "Roccia",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 0.41
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 386,
+                  "share": 24.55
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 343,
+                  "share": 21.82
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 332,
+                  "share": 21.12
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 37,
+                  "share": 2.35
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 35,
+                  "share": 2.23
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 32,
+                  "share": 2.04
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -7387,6 +11295,24 @@
           "phase": 2,
           "start": "2024-12-12",
           "end": "2025-01-01",
+          "bannerNames": [
+            "When Thunder Pours",
+            "Celestial Revelation"
+          ],
+          "featured": [
+            {
+              "name": "Yinlin",
+              "quality": 5,
+              "category": "r",
+              "count": 21
+            },
+            {
+              "name": "Xiangli Yao",
+              "quality": 5,
+              "category": "r",
+              "count": 8
+            }
+          ],
           "stats": {
             "players": 74,
             "totalPulls": 3743,
@@ -7600,7 +11526,112 @@
                 "count": 36,
                 "share": 8
               }
-            ]
+            ],
+            "estimated": {
+              "players": 74,
+              "totalPulls": 3743,
+              "topItems": [
+                {
+                  "name": "Yinlin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 21,
+                  "share": 29.17
+                },
+                {
+                  "name": "Carlotta",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 17,
+                  "share": 23.61
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 11.11
+                },
+                {
+                  "name": "Xiangli Yao",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 11.11
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 8.33
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 6.94
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3,
+                  "share": 4.17
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3,
+                  "share": 4.17
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 77,
+                  "share": 17.11
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 75,
+                  "share": 16.67
+                },
+                {
+                  "name": "Lumi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 66,
+                  "share": 14.67
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 39,
+                  "share": 8.67
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 38,
+                  "share": 8.44
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 36,
+                  "share": 8
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -7609,6 +11640,17 @@
           "phase": 1,
           "start": "2024-11-14",
           "end": "2024-12-12",
+          "bannerNames": [
+            "End of Lost Trail"
+          ],
+          "featured": [
+            {
+              "name": "Camellya",
+              "quality": 5,
+              "category": "r",
+              "count": 85
+            }
+          ],
           "stats": {
             "players": 103,
             "totalPulls": 6719,
@@ -7822,7 +11864,112 @@
                 "count": 20,
                 "share": 2.6
               }
-            ]
+            ],
+            "estimated": {
+              "players": 103,
+              "totalPulls": 6719,
+              "topItems": [
+                {
+                  "name": "Camellya",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 85,
+                  "share": 70.83
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 11,
+                  "share": 9.17
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 7,
+                  "share": 5.83
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 7,
+                  "share": 5.83
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 5
+                },
+                {
+                  "name": "Changli",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 0.83
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 0.83
+                },
+                {
+                  "name": "Yinlin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 0.83
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 174,
+                  "share": 22.6
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 172,
+                  "share": 22.34
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 163,
+                  "share": 21.17
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 27,
+                  "share": 3.51
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 24,
+                  "share": 3.12
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 20,
+                  "share": 2.6
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -7831,6 +11978,17 @@
           "phase": 2,
           "start": "2024-10-24",
           "end": "2024-11-13",
+          "bannerNames": [
+            "Prevail the Lasting Night"
+          ],
+          "featured": [
+            {
+              "name": "Jiyan",
+              "quality": 5,
+              "category": "r",
+              "count": 14
+            }
+          ],
           "stats": {
             "players": 62,
             "totalPulls": 2724,
@@ -8037,7 +12195,105 @@
                 "count": 25,
                 "share": 7.65
               }
-            ]
+            ],
+            "estimated": {
+              "players": 62,
+              "totalPulls": 2724,
+              "topItems": [
+                {
+                  "name": "Jiyan",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 14,
+                  "share": 28.57
+                },
+                {
+                  "name": "Camellya",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 11,
+                  "share": 22.45
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 12.24
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 10.2
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 10.2
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 4,
+                  "share": 8.16
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 4,
+                  "share": 8.16
+                },
+                {
+                  "name": "Youhu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 60,
+                  "share": 18.35
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 51,
+                  "share": 15.6
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 43,
+                  "share": 13.15
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 32,
+                  "share": 9.79
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 32,
+                  "share": 9.79
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 25,
+                  "share": 7.65
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -8046,6 +12302,17 @@
           "phase": 1,
           "start": "2024-09-29",
           "end": "2024-10-24",
+          "bannerNames": [
+            "Till the Sea Turns Clear"
+          ],
+          "featured": [
+            {
+              "name": "Shorekeeper",
+              "quality": 5,
+              "category": "r",
+              "count": 83
+            }
+          ],
           "stats": {
             "players": 88,
             "totalPulls": 6370,
@@ -8245,7 +12512,98 @@
                 "count": 24,
                 "share": 3.12
               }
-            ]
+            ],
+            "estimated": {
+              "players": 88,
+              "totalPulls": 6370,
+              "topItems": [
+                {
+                  "name": "Shorekeeper",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 83,
+                  "share": 67.48
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 13,
+                  "share": 10.57
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 6.5
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 7,
+                  "share": 5.69
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 4.88
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 4.88
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 185,
+                  "share": 24.06
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 176,
+                  "share": 22.89
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 160,
+                  "share": 20.81
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 26,
+                  "share": 3.38
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 26,
+                  "share": 3.38
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 24,
+                  "share": 3.12
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -8254,6 +12612,17 @@
           "phase": 2,
           "start": "2024-09-07",
           "end": "2024-09-28",
+          "bannerNames": [
+            "Celestial Revelation"
+          ],
+          "featured": [
+            {
+              "name": "Xiangli Yao",
+              "quality": 5,
+              "category": "r",
+              "count": 1
+            }
+          ],
           "stats": {
             "players": 23,
             "totalPulls": 945,
@@ -8446,7 +12815,91 @@
                 "count": 6,
                 "share": 5.08
               }
-            ]
+            ],
+            "estimated": {
+              "players": 23,
+              "totalPulls": 945,
+              "topItems": [
+                {
+                  "name": "Shorekeeper",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 9,
+                  "share": 60
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 13.33
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 13.33
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 6.67
+                },
+                {
+                  "name": "Xiangli Yao",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 1,
+                  "share": 6.67
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 22,
+                  "share": 18.64
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 21,
+                  "share": 17.8
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 20,
+                  "share": 16.95
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 10,
+                  "share": 8.47
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 8,
+                  "share": 6.78
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 6,
+                  "share": 5.08
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -8455,6 +12908,17 @@
           "phase": 1,
           "start": "2024-08-15",
           "end": "2024-09-07",
+          "bannerNames": [
+            "Chromatic Prose"
+          ],
+          "featured": [
+            {
+              "name": "Zhezhi",
+              "quality": 5,
+              "category": "r",
+              "count": 31
+            }
+          ],
           "stats": {
             "players": 57,
             "totalPulls": 2499,
@@ -8654,7 +13118,98 @@
                 "count": 9,
                 "share": 3
               }
-            ]
+            ],
+            "estimated": {
+              "players": 57,
+              "totalPulls": 2499,
+              "topItems": [
+                {
+                  "name": "Zhezhi",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 31,
+                  "share": 68.89
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 11.11
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3,
+                  "share": 6.67
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 4.44
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 4.44
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 4.44
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 68,
+                  "share": 22.67
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 67,
+                  "share": 22.33
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 66,
+                  "share": 22
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 11,
+                  "share": 3.67
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 10,
+                  "share": 3.33
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 9,
+                  "share": 3
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -8663,6 +13218,17 @@
           "phase": 2,
           "start": "2024-07-22",
           "end": "2024-08-14",
+          "bannerNames": [
+            "Vermillion's Ploy"
+          ],
+          "featured": [
+            {
+              "name": "Changli",
+              "quality": 5,
+              "category": "r",
+              "count": 71
+            }
+          ],
           "stats": {
             "players": 71,
             "totalPulls": 4617,
@@ -8862,7 +13428,98 @@
                 "count": 16,
                 "share": 2.88
               }
-            ]
+            ],
+            "estimated": {
+              "players": 71,
+              "totalPulls": 4617,
+              "topItems": [
+                {
+                  "name": "Changli",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 71,
+                  "share": 70.3
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 7.92
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 7,
+                  "share": 6.93
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 5.94
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 4.95
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 4,
+                  "share": 3.96
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 144,
+                  "share": 25.9
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 126,
+                  "share": 22.66
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 118,
+                  "share": 21.22
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 19,
+                  "share": 3.42
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 17,
+                  "share": 3.06
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 16,
+                  "share": 2.88
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -8871,6 +13528,17 @@
           "phase": 1,
           "start": "2024-06-28",
           "end": "2024-07-22",
+          "bannerNames": [
+            "Thawborn Renewal"
+          ],
+          "featured": [
+            {
+              "name": "Jinhsi",
+              "quality": 5,
+              "category": "r",
+              "count": 54
+            }
+          ],
           "stats": {
             "players": 67,
             "totalPulls": 4566,
@@ -9077,7 +13745,105 @@
                 "count": 19,
                 "share": 3.42
               }
-            ]
+            ],
+            "estimated": {
+              "players": 67,
+              "totalPulls": 4566,
+              "topItems": [
+                {
+                  "name": "Jinhsi",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 54,
+                  "share": 68.35
+                },
+                {
+                  "name": "Changli",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 7.59
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 6.33
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 6.33
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 4,
+                  "share": 5.06
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3,
+                  "share": 3.8
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 2.53
+                },
+                {
+                  "name": "Yangyang",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 121,
+                  "share": 21.76
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 117,
+                  "share": 21.04
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 113,
+                  "share": 20.32
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 36,
+                  "share": 6.47
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 28,
+                  "share": 5.04
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 19,
+                  "share": 3.42
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -9086,6 +13852,17 @@
           "phase": 2,
           "start": "2024-06-06",
           "end": "2024-06-26",
+          "bannerNames": [
+            "When Thunder Pours"
+          ],
+          "featured": [
+            {
+              "name": "Yinlin",
+              "quality": 5,
+              "category": "r",
+              "count": 42
+            }
+          ],
           "stats": {
             "players": 52,
             "totalPulls": 3018,
@@ -9285,7 +14062,98 @@
                 "count": 8,
                 "share": 2.38
               }
-            ]
+            ],
+            "estimated": {
+              "players": 52,
+              "totalPulls": 3018,
+              "topItems": [
+                {
+                  "name": "Yinlin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 42,
+                  "share": 60.87
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 11.59
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 8,
+                  "share": 11.59
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 7.25
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 4,
+                  "share": 5.8
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 2.9
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 81,
+                  "share": 24.11
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 76,
+                  "share": 22.62
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 69,
+                  "share": 20.54
+                },
+                {
+                  "name": "Baizhi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 16,
+                  "share": 4.76
+                },
+                {
+                  "name": "Sanhua",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 12,
+                  "share": 3.57
+                },
+                {
+                  "name": "Cadenza",
+                  "category": "w",
+                  "quality": 4,
+                  "count": 8,
+                  "share": 2.38
+                }
+              ],
+              "coverage": 1
+            }
           }
         },
         {
@@ -9294,6 +14162,17 @@
           "phase": 1,
           "start": "2024-05-23",
           "end": "2024-06-13",
+          "bannerNames": [
+            "Prevail the Lasting Night"
+          ],
+          "featured": [
+            {
+              "name": "Jiyan",
+              "quality": 5,
+              "category": "r",
+              "count": 31
+            }
+          ],
           "stats": {
             "players": 58,
             "totalPulls": 3625,
@@ -9500,7 +14379,105 @@
                 "count": 22,
                 "share": 4.81
               }
-            ]
+            ],
+            "estimated": {
+              "players": 58,
+              "totalPulls": 3625,
+              "topItems": [
+                {
+                  "name": "Jiyan",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 31,
+                  "share": 55.36
+                },
+                {
+                  "name": "Encore",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 6,
+                  "share": 10.71
+                },
+                {
+                  "name": "Calcharo",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 8.93
+                },
+                {
+                  "name": "Yinlin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 5,
+                  "share": 8.93
+                },
+                {
+                  "name": "Jianxin",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 4,
+                  "share": 7.14
+                },
+                {
+                  "name": "Lingyang",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 3,
+                  "share": 5.36
+                },
+                {
+                  "name": "Verina",
+                  "category": "r",
+                  "quality": 5,
+                  "count": 2,
+                  "share": 3.57
+                },
+                {
+                  "name": "Danjin",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 103,
+                  "share": 22.54
+                },
+                {
+                  "name": "Chixia",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 87,
+                  "share": 19.04
+                },
+                {
+                  "name": "Mortefi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 85,
+                  "share": 18.6
+                },
+                {
+                  "name": "Taoqi",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 39,
+                  "share": 8.53
+                },
+                {
+                  "name": "Aalto",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 23,
+                  "share": 5.03
+                },
+                {
+                  "name": "Yuanwu",
+                  "category": "r",
+                  "quality": 4,
+                  "count": 22,
+                  "share": 4.81
+                }
+              ],
+              "coverage": 1
+            }
           }
         }
       ]
