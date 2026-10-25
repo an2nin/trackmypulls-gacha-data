@@ -1,24 +1,24 @@
 {
   "game": "endfield",
-  "updatedAt": "2026-10-25T05:21:11.975Z",
+  "updatedAt": "2026-10-25T05:55:01.868Z",
   "summary": {
     "players": 5676,
-    "totalPulls": 3009482,
-    "topRarityPulls": 90956,
+    "totalPulls": 3009588,
+    "topRarityPulls": 90958,
     "estimated": {
       "players": 5676,
-      "totalPulls": 5701579,
-      "topRarityPulls": 176606,
+      "totalPulls": 5701687,
+      "topRarityPulls": 176607,
       "coverage": 0.528
     }
   },
   "banners": {
     "special": {
       "players": 5638,
-      "totalPulls": 1496397,
+      "totalPulls": 1496473,
       "rarities": {
         "5": {
-          "count": 198659,
+          "count": 198662,
           "rate": 13.28,
           "avgPity": 6.9,
           "pityDistribution": [
@@ -29,13 +29,13 @@
             11884,
             10722,
             9728,
-            8549,
+            8548,
             7707,
-            83288
+            83289
           ]
         },
         "6": {
-          "count": 29996,
+          "count": 29997,
           "rate": 2,
           "avgPity": 47.6,
           "pityDistribution": [
@@ -66,7 +66,7 @@
             211,
             256,
             226,
-            249,
+            250,
             226,
             253,
             243,
@@ -94,7 +94,7 @@
             250,
             248,
             235,
-            189,
+            188,
             201,
             190,
             188,
@@ -104,13 +104,13 @@
             183,
             168,
             171,
-            687,
+            688,
             1204,
             1564,
             1728,
             1657,
-            1422,
-            1206,
+            1421,
+            1205,
             857,
             591,
             388,
@@ -191,7 +191,7 @@
           "name": "Snowshine",
           "category": "c",
           "quality": 5,
-          "count": 22152,
+          "count": 22153,
           "share": 11.15
         },
         {
@@ -205,7 +205,7 @@
           "name": "Arclight",
           "category": "c",
           "quality": 5,
-          "count": 22106,
+          "count": 22107,
           "share": 11.13
         },
         {
@@ -225,7 +225,7 @@
       ],
       "estimated": {
         "players": 5638,
-        "totalPulls": 2894665,
+        "totalPulls": 2894756,
         "topItems": [
           {
             "name": "Zhuang Fangyi",
@@ -266,7 +266,7 @@
             "name": "Ardelia",
             "category": "c",
             "quality": 6,
-            "count": 3628,
+            "count": 3627,
             "share": 6.16
           },
           {
@@ -287,7 +287,7 @@
             "name": "Snowshine",
             "category": "c",
             "quality": 5,
-            "count": 43146,
+            "count": 43147,
             "share": 11.25
           },
           {
@@ -322,7 +322,7 @@
             "name": "Alesh",
             "category": "c",
             "quality": 5,
-            "count": 42557,
+            "count": 42556,
             "share": 11.1
           }
         ],
@@ -331,27 +331,27 @@
     },
     "arsenal": {
       "players": 5594,
-      "totalPulls": 1006841,
+      "totalPulls": 1006861,
       "rarities": {
         "5": {
-          "count": 172782,
+          "count": 172785,
           "rate": 17.16,
           "avgPity": 4.7,
           "pityDistribution": [
-            34015,
+            34016,
             26785,
             21410,
             17099,
             13853,
             11013,
             8794,
-            7027,
+            7028,
             5476,
-            24513
+            24514
           ]
         },
         "6": {
-          "count": 52225,
+          "count": 52226,
           "rate": 5.19,
           "avgPity": 18.6,
           "pityDistribution": [
@@ -382,7 +382,7 @@
             771,
             760,
             715,
-            664,
+            665,
             700,
             686,
             625,
@@ -488,20 +488,20 @@
           "name": "Aspirant",
           "category": "w",
           "quality": 5,
-          "count": 8293,
+          "count": 8294,
           "share": 4.8
         },
         {
           "name": "Wild Wanderer",
           "category": "w",
           "quality": 5,
-          "count": 8291,
+          "count": 8292,
           "share": 4.8
         }
       ],
       "estimated": {
         "players": 5594,
-        "totalPulls": 1964638,
+        "totalPulls": 1964643,
         "topItems": [
           {
             "name": "Wedge",
@@ -514,7 +514,7 @@
             "name": "JET",
             "category": "w",
             "quality": 6,
-            "count": 6331,
+            "count": 6330,
             "share": 6.16
           },
           {
@@ -542,7 +542,7 @@
             "name": "Oblivion",
             "category": "w",
             "quality": 6,
-            "count": 4937,
+            "count": 4938,
             "share": 4.81
           },
           {
@@ -563,7 +563,7 @@
             "name": "Wild Wanderer",
             "category": "w",
             "quality": 5,
-            "count": 16421,
+            "count": 16422,
             "share": 4.88
           },
           {
@@ -591,7 +591,7 @@
             "name": "Stanza of Memorials",
             "category": "w",
             "quality": 5,
-            "count": 16250,
+            "count": 16249,
             "share": 4.83
           },
           {
@@ -607,10 +607,10 @@
     },
     "standard": {
       "players": 5614,
-      "totalPulls": 506244,
+      "totalPulls": 506254,
       "rarities": {
         "5": {
-          "count": 69766,
+          "count": 69767,
           "rate": 13.78,
           "avgPity": 6.7,
           "pityDistribution": [
@@ -623,7 +623,7 @@
             3394,
             3092,
             2753,
-            29238
+            29239
           ]
         },
         "6": {
@@ -776,7 +776,7 @@
           "name": "Alesh",
           "category": "c",
           "quality": 5,
-          "count": 7772,
+          "count": 7773,
           "share": 11.14
         },
         {
@@ -796,7 +796,7 @@
       ],
       "estimated": {
         "players": 5614,
-        "totalPulls": 842276,
+        "totalPulls": 842288,
         "topItems": [
           {
             "name": "Pogranichnik",
@@ -844,7 +844,7 @@
             "name": "Alesh",
             "category": "c",
             "quality": 5,
-            "count": 12991,
+            "count": 12992,
             "share": 11.24
           },
           {
@@ -881,7 +881,7 @@
     }
   },
   "methodology": {
-    "stalePlayers": 5218,
+    "stalePlayers": 5217,
     "medianDaysSinceImport": 210,
     "halfLifeWeeks": 52
   }
