@@ -1,120 +1,120 @@
 {
   "game": "wuwa",
-  "updatedAt": "2026-10-23T05:59:05.766Z",
+  "updatedAt": "2026-10-25T05:21:03.779Z",
   "summary": {
-    "players": 8159,
-    "totalPulls": 5102220,
-    "topRarityPulls": 95240,
+    "players": 8205,
+    "totalPulls": 5130299,
+    "topRarityPulls": 95776,
     "estimated": {
-      "players": 8159,
-      "totalPulls": 8014201,
-      "topRarityPulls": 150060,
-      "coverage": 0.637
+      "players": 8205,
+      "totalPulls": 8073973,
+      "topRarityPulls": 151241,
+      "coverage": 0.635
     }
   },
   "banners": {
     "featured_resonator": {
-      "players": 8020,
-      "totalPulls": 3214233,
+      "players": 8066,
+      "totalPulls": 3231828,
       "rarities": {
         "4": {
-          "count": 393426,
+          "count": 395546,
           "rate": 12.24,
           "avgPity": 7.4,
           "pityDistribution": [
-            27668,
-            25531,
-            23355,
-            21811,
-            20021,
-            18237,
-            16753,
-            15719,
-            14112,
-            209729
+            27804,
+            25647,
+            23483,
+            21947,
+            20122,
+            18342,
+            16828,
+            15822,
+            14198,
+            210862
           ]
         },
         "5": {
-          "count": 60429,
+          "count": 60763,
           "rate": 1.88,
           "avgPity": 51,
           "pityDistribution": [
-            604,
-            570,
-            541,
-            574,
-            587,
-            602,
-            569,
-            515,
-            625,
-            538,
+            606,
+            573,
+            544,
+            578,
+            590,
+            603,
+            571,
+            517,
+            632,
+            542,
+            523,
+            564,
+            521,
             514,
-            558,
-            518,
-            513,
             526,
-            524,
-            540,
-            527,
-            515,
-            508,
-            446,
-            476,
-            444,
-            490,
-            468,
-            482,
-            467,
-            448,
-            460,
-            408,
-            419,
+            525,
+            544,
+            531,
+            518,
+            514,
             447,
-            468,
-            398,
-            440,
+            478,
+            446,
+            492,
+            470,
+            483,
+            470,
+            449,
+            462,
+            410,
+            419,
+            449,
+            472,
+            401,
+            441,
             399,
-            399,
-            391,
-            427,
-            426,
-            383,
-            373,
-            359,
-            422,
-            349,
-            368,
-            389,
-            372,
-            374,
+            403,
             392,
-            382,
-            353,
-            365,
-            349,
-            377,
-            357,
-            351,
-            398,
+            427,
+            428,
+            384,
+            376,
+            361,
+            424,
             350,
-            332,
-            388,
+            370,
+            391,
+            376,
+            376,
+            392,
+            385,
+            356,
+            366,
+            354,
+            380,
+            361,
+            355,
+            399,
+            350,
+            334,
+            391,
             341,
-            378,
-            387,
-            375,
-            1623,
-            2798,
-            3569,
-            3923,
-            4097,
-            4563,
-            3879,
-            3110,
-            2028,
-            1080,
-            516,
+            381,
+            390,
+            377,
+            1633,
+            2817,
+            3593,
+            3946,
+            4112,
+            4586,
+            3895,
+            3135,
+            2038,
+            1088,
+            518,
             144,
             46,
             2,
@@ -123,8 +123,8 @@
         }
       },
       "fiftyFifty": {
-        "won": 22368,
-        "lost": 19910,
+        "won": 22494,
+        "lost": 20016,
         "winRate": 52.91
       },
       "topItems": [
@@ -132,311 +132,311 @@
           "name": "Aemeath",
           "category": "r",
           "quality": 5,
-          "count": 4386,
-          "share": 7.26
+          "count": 4388,
+          "share": 7.22
         },
         {
           "name": "Hiyuki",
           "category": "r",
           "quality": 5,
-          "count": 4246,
-          "share": 7.03
+          "count": 4286,
+          "share": 7.05
         },
         {
           "name": "Calcharo",
           "category": "r",
           "quality": 5,
-          "count": 4046,
-          "share": 6.7
+          "count": 4066,
+          "share": 6.69
         },
         {
           "name": "Encore",
           "category": "r",
           "quality": 5,
-          "count": 3992,
-          "share": 6.61
+          "count": 4011,
+          "share": 6.6
         },
         {
           "name": "Jianxin",
           "category": "r",
           "quality": 5,
-          "count": 3978,
+          "count": 3999,
           "share": 6.58
         },
         {
           "name": "Verina",
           "category": "r",
           "quality": 5,
-          "count": 3957,
+          "count": 3977,
           "share": 6.55
         },
         {
           "name": "Lingyang",
           "category": "r",
           "quality": 5,
-          "count": 3946,
-          "share": 6.53
+          "count": 3972,
+          "share": 6.54
         },
         {
           "name": "Lynae",
           "category": "r",
           "quality": 5,
-          "count": 3609,
-          "share": 5.97
+          "count": 3617,
+          "share": 5.95
         },
         {
           "name": "Aalto",
           "category": "r",
           "quality": 4,
-          "count": 39372,
-          "share": 10.01
+          "count": 39557,
+          "share": 10
         },
         {
           "name": "Taoqi",
           "category": "r",
           "quality": 4,
-          "count": 34608,
-          "share": 8.8
+          "count": 34763,
+          "share": 8.79
         },
         {
           "name": "Baizhi",
           "category": "r",
           "quality": 4,
-          "count": 33190,
+          "count": 33365,
           "share": 8.44
         },
         {
           "name": "Yuanwu",
           "category": "r",
           "quality": 4,
-          "count": 31847,
-          "share": 8.09
+          "count": 31978,
+          "share": 8.08
         },
         {
           "name": "Chixia",
           "category": "r",
           "quality": 4,
-          "count": 27848,
-          "share": 7.08
+          "count": 28033,
+          "share": 7.09
         },
         {
           "name": "Yangyang",
           "category": "r",
           "quality": 4,
-          "count": 27813,
-          "share": 7.07
+          "count": 27944,
+          "share": 7.06
         }
       ],
       "estimated": {
-        "players": 8020,
-        "totalPulls": 4967007,
+        "players": 8066,
+        "totalPulls": 5004870,
         "topItems": [
-          {
-            "name": "Aemeath",
-            "category": "r",
-            "quality": 5,
-            "count": 6245,
-            "share": 6.66
-          },
           {
             "name": "Encore",
             "category": "r",
             "quality": 5,
-            "count": 6242,
+            "count": 6284,
             "share": 6.65
           },
           {
             "name": "Calcharo",
             "category": "r",
             "quality": 5,
-            "count": 6238,
-            "share": 6.65
+            "count": 6282,
+            "share": 6.64
           },
           {
             "name": "Hiyuki",
             "category": "r",
             "quality": 5,
-            "count": 6216,
-            "share": 6.63
+            "count": 6257,
+            "share": 6.62
+          },
+          {
+            "name": "Aemeath",
+            "category": "r",
+            "quality": 5,
+            "count": 6244,
+            "share": 6.6
           },
           {
             "name": "Jianxin",
             "category": "r",
             "quality": 5,
-            "count": 6126,
-            "share": 6.53
+            "count": 6165,
+            "share": 6.52
           },
           {
             "name": "Verina",
             "category": "r",
             "quality": 5,
-            "count": 6118,
-            "share": 6.52
+            "count": 6157,
+            "share": 6.51
           },
           {
             "name": "Lingyang",
             "category": "r",
             "quality": 5,
-            "count": 6082,
-            "share": 6.48
+            "count": 6135,
+            "share": 6.49
           },
           {
             "name": "Lynae",
             "category": "r",
             "quality": 5,
-            "count": 5070,
-            "share": 5.4
+            "count": 5095,
+            "share": 5.39
           },
           {
             "name": "Aalto",
             "category": "r",
             "quality": 4,
-            "count": 56963,
-            "share": 9.38
+            "count": 57215,
+            "share": 9.35
           },
           {
             "name": "Taoqi",
             "category": "r",
             "quality": 4,
-            "count": 50898,
+            "count": 51290,
             "share": 8.38
           },
           {
             "name": "Baizhi",
             "category": "r",
             "quality": 4,
-            "count": 49983,
-            "share": 8.23
+            "count": 50250,
+            "share": 8.21
           },
           {
             "name": "Yuanwu",
             "category": "r",
             "quality": 4,
-            "count": 46643,
-            "share": 7.68
+            "count": 46786,
+            "share": 7.64
           },
           {
             "name": "Yangyang",
             "category": "r",
             "quality": 4,
-            "count": 43240,
-            "share": 7.12
+            "count": 43475,
+            "share": 7.1
           },
           {
             "name": "Mortefi",
             "category": "r",
             "quality": 4,
-            "count": 41042,
-            "share": 6.76
+            "count": 41207,
+            "share": 6.73
           }
         ],
-        "coverage": 0.647
+        "coverage": 0.646
       }
     },
     "featured_weapon": {
-      "players": 7509,
-      "totalPulls": 1077496,
+      "players": 7551,
+      "totalPulls": 1083456,
       "rarities": {
         "4": {
-          "count": 133446,
+          "count": 134169,
           "rate": 12.38,
           "avgPity": 7.3,
           "pityDistribution": [
-            9527,
-            9097,
-            8201,
-            7643,
-            7050,
-            6197,
-            5763,
-            5438,
-            5051,
-            69047
+            9580,
+            9141,
+            8246,
+            7682,
+            7092,
+            6233,
+            5791,
+            5459,
+            5078,
+            69434
           ]
         },
         "5": {
-          "count": 20131,
+          "count": 20252,
           "rate": 1.87,
           "avgPity": 48.8,
           "pityDistribution": [
-            230,
-            240,
-            235,
-            221,
+            234,
+            243,
+            237,
+            222,
             219,
             194,
             213,
-            227,
-            200,
+            229,
+            203,
             179,
-            208,
-            221,
-            184,
-            189,
+            209,
+            223,
+            185,
+            194,
             201,
-            173,
-            184,
-            183,
-            179,
-            169,
+            174,
+            185,
+            185,
+            181,
+            171,
             188,
-            163,
+            164,
             183,
             155,
-            166,
+            167,
             154,
-            153,
-            169,
-            164,
-            149,
-            145,
+            155,
+            171,
+            165,
+            150,
+            146,
             182,
             171,
-            140,
-            190,
-            140,
-            167,
             141,
+            191,
+            140,
+            170,
+            142,
             141,
-            134,
-            144,
+            135,
+            145,
             155,
             145,
             142,
             149,
             131,
-            161,
-            134,
+            162,
+            136,
             144,
             144,
             113,
             133,
-            112,
-            130,
-            127,
+            114,
+            133,
+            128,
             148,
             149,
-            146,
+            149,
             167,
-            157,
+            158,
             152,
-            183,
+            184,
             161,
             173,
-            199,
-            567,
-            801,
-            1086,
-            1172,
-            1226,
-            1201,
-            1177,
-            847,
-            565,
+            200,
+            570,
+            806,
+            1092,
+            1182,
+            1230,
+            1212,
+            1182,
+            852,
+            571,
             324,
-            142,
+            143,
             52,
-            9,
+            10,
             0,
             1
           ]
@@ -448,230 +448,230 @@
           "name": "Frostburn",
           "category": "w",
           "quality": 5,
-          "count": 2452,
-          "share": 12.18
+          "count": 2479,
+          "share": 12.24
         },
         {
           "name": "Everbright Polestar",
           "category": "w",
           "quality": 5,
           "count": 2385,
-          "share": 11.85
+          "share": 11.78
         },
         {
           "name": "Kumokiri",
           "category": "w",
           "quality": 5,
-          "count": 1854,
-          "share": 9.21
+          "count": 1859,
+          "share": 9.18
         },
         {
           "name": "Spectrum Blaster",
           "category": "w",
           "quality": 5,
-          "count": 1398,
-          "share": 6.94
+          "count": 1401,
+          "share": 6.92
         },
         {
           "name": "Moongazer's Sigil",
           "category": "w",
           "quality": 5,
-          "count": 1112,
-          "share": 5.52
+          "count": 1115,
+          "share": 5.51
         },
         {
           "name": "Lethean Elegy",
           "category": "w",
           "quality": 5,
-          "count": 1038,
-          "share": 5.16
+          "count": 1041,
+          "share": 5.14
         },
         {
           "name": "Defier's Thorn",
           "category": "w",
           "quality": 5,
           "count": 915,
-          "share": 4.55
+          "share": 4.52
         },
         {
           "name": "Thunderflare Dominion",
           "category": "w",
           "quality": 5,
           "count": 902,
-          "share": 4.48
+          "share": 4.45
         },
         {
           "name": "Commando of Conviction",
           "category": "w",
           "quality": 4,
-          "count": 12756,
-          "share": 9.56
+          "count": 12861,
+          "share": 9.59
         },
         {
           "name": "Fusion Accretion",
           "category": "w",
           "quality": 4,
-          "count": 9597,
-          "share": 7.19
+          "count": 9684,
+          "share": 7.22
         },
         {
           "name": "Waning Redshift",
           "category": "w",
           "quality": 4,
-          "count": 9326,
-          "share": 6.99
+          "count": 9362,
+          "share": 6.98
         },
         {
           "name": "Undying Flame",
           "category": "w",
           "quality": 4,
-          "count": 8863,
+          "count": 8910,
           "share": 6.64
         },
         {
           "name": "Discord",
           "category": "w",
           "quality": 4,
-          "count": 7965,
-          "share": 5.97
+          "count": 8020,
+          "share": 5.98
         },
         {
           "name": "Relativistic Jet",
           "category": "w",
           "quality": 4,
-          "count": 7585,
+          "count": 7626,
           "share": 5.68
         }
       ],
       "estimated": {
-        "players": 7509,
-        "totalPulls": 1648780,
+        "players": 7551,
+        "totalPulls": 1661080,
         "topItems": [
           {
             "name": "Frostburn",
             "category": "w",
             "quality": 5,
-            "count": 3649,
-            "share": 11.76
+            "count": 3679,
+            "share": 11.75
           },
           {
             "name": "Everbright Polestar",
             "category": "w",
             "quality": 5,
-            "count": 3473,
-            "share": 11.19
+            "count": 3470,
+            "share": 11.09
           },
           {
             "name": "Kumokiri",
             "category": "w",
             "quality": 5,
-            "count": 2354,
-            "share": 7.59
+            "count": 2365,
+            "share": 7.55
           },
           {
             "name": "Spectrum Blaster",
             "category": "w",
             "quality": 5,
-            "count": 1866,
-            "share": 6.02
+            "count": 1877,
+            "share": 6
           },
           {
             "name": "Azure Oath",
             "category": "w",
             "quality": 5,
-            "count": 1559,
-            "share": 5.03
-          },
-          {
-            "name": "Forged Dwarf Star",
-            "category": "w",
-            "quality": 5,
-            "count": 1413,
-            "share": 4.55
-          },
-          {
-            "name": "Moongazer's Sigil",
-            "category": "w",
-            "quality": 5,
-            "count": 1371,
-            "share": 4.42
+            "count": 1566,
+            "share": 5
           },
           {
             "name": "Blooming Jadehaven",
             "category": "w",
             "quality": 5,
-            "count": 1361,
-            "share": 4.39
+            "count": 1475,
+            "share": 4.71
+          },
+          {
+            "name": "Forged Dwarf Star",
+            "category": "w",
+            "quality": 5,
+            "count": 1414,
+            "share": 4.52
+          },
+          {
+            "name": "Moongazer's Sigil",
+            "category": "w",
+            "quality": 5,
+            "count": 1384,
+            "share": 4.42
           },
           {
             "name": "Commando of Conviction",
             "category": "w",
             "quality": 4,
-            "count": 20501,
-            "share": 10.05
+            "count": 20746,
+            "share": 10.1
           },
           {
             "name": "Fusion Accretion",
             "category": "w",
             "quality": 4,
-            "count": 15789,
-            "share": 7.74
+            "count": 15991,
+            "share": 7.78
           },
           {
             "name": "Waning Redshift",
             "category": "w",
             "quality": 4,
-            "count": 13155,
-            "share": 6.45
+            "count": 13209,
+            "share": 6.43
           },
           {
             "name": "Discord",
             "category": "w",
             "quality": 4,
-            "count": 13003,
-            "share": 6.37
+            "count": 13060,
+            "share": 6.36
           },
           {
             "name": "Relativistic Jet",
             "category": "w",
             "quality": 4,
-            "count": 11540,
+            "count": 11636,
             "share": 5.66
           },
           {
             "name": "Undying Flame",
             "category": "w",
             "quality": 4,
-            "count": 11081,
-            "share": 5.43
+            "count": 11133,
+            "share": 5.42
           }
         ],
-        "coverage": 0.654
+        "coverage": 0.652
       }
     },
     "standard_resonator": {
-      "players": 4414,
-      "totalPulls": 148127,
+      "players": 4438,
+      "totalPulls": 148719,
       "rarities": {
         "4": {
-          "count": 20664,
+          "count": 20752,
           "rate": 13.95,
           "avgPity": 6.6,
           "pityDistribution": [
-            3071,
-            1482,
-            1390,
-            1233,
-            1135,
-            1023,
+            3087,
+            1489,
+            1393,
+            1241,
+            1138,
+            1028,
             906,
-            835,
-            742,
-            8405
+            836,
+            748,
+            8441
           ]
         },
         "5": {
-          "count": 2637,
+          "count": 2644,
           "rate": 1.78,
           "avgPity": 33.9,
           "pityDistribution": [
@@ -687,7 +687,7 @@
             43,
             63,
             46,
-            55,
+            56,
             45,
             41,
             47,
@@ -696,7 +696,7 @@
             38,
             44,
             36,
-            27,
+            28,
             46,
             32,
             25,
@@ -710,7 +710,7 @@
             30,
             27,
             18,
-            24,
+            25,
             27,
             22,
             22,
@@ -718,16 +718,16 @@
             23,
             23,
             25,
-            23,
+            24,
             17,
             20,
             27,
-            19,
+            20,
             16,
             23,
             19,
             16,
-            18,
+            19,
             13,
             13,
             19,
@@ -738,7 +738,7 @@
             12,
             13,
             17,
-            12,
+            13,
             14,
             41,
             64,
@@ -765,35 +765,35 @@
           "category": "r",
           "quality": 5,
           "count": 531,
-          "share": 20.14
+          "share": 20.08
+        },
+        {
+          "name": "Calcharo",
+          "category": "r",
+          "quality": 5,
+          "count": 529,
+          "share": 20.01
         },
         {
           "name": "Encore",
           "category": "r",
           "quality": 5,
           "count": 528,
-          "share": 20.02
-        },
-        {
-          "name": "Calcharo",
-          "category": "r",
-          "quality": 5,
-          "count": 527,
-          "share": 19.98
+          "share": 19.97
         },
         {
           "name": "Verina",
           "category": "r",
           "quality": 5,
-          "count": 523,
-          "share": 19.83
+          "count": 527,
+          "share": 19.93
         },
         {
           "name": "Lingyang",
           "category": "r",
           "quality": 5,
-          "count": 522,
-          "share": 19.8
+          "count": 523,
+          "share": 19.78
         },
         {
           "name": "Daybreaker's Spine",
@@ -820,83 +820,83 @@
           "name": "Baizhi",
           "category": "r",
           "quality": 4,
-          "count": 2276,
-          "share": 11.01
+          "count": 2288,
+          "share": 11.03
         },
         {
           "name": "Sanhua",
           "category": "r",
           "quality": 4,
-          "count": 883,
-          "share": 4.27
+          "count": 885,
+          "share": 4.26
         },
         {
           "name": "Taoqi",
           "category": "r",
           "quality": 4,
           "count": 864,
-          "share": 4.18
+          "share": 4.16
         },
         {
           "name": "Yangyang",
           "category": "r",
           "quality": 4,
-          "count": 854,
+          "count": 858,
           "share": 4.13
         },
         {
           "name": "Aalto",
           "category": "r",
           "quality": 4,
-          "count": 831,
-          "share": 4.02
+          "count": 833,
+          "share": 4.01
         },
         {
           "name": "Danjin",
           "category": "r",
           "quality": 4,
-          "count": 818,
+          "count": 821,
           "share": 3.96
         }
       ],
       "estimated": {
-        "players": 4414,
-        "totalPulls": 242717,
+        "players": 4438,
+        "totalPulls": 243778,
         "topItems": [
           {
             "name": "Jianxin",
             "category": "r",
             "quality": 5,
-            "count": 877,
-            "share": 20.71
-          },
-          {
-            "name": "Encore",
-            "category": "r",
-            "quality": 5,
-            "count": 863,
-            "share": 20.38
+            "count": 874,
+            "share": 20.61
           },
           {
             "name": "Calcharo",
             "category": "r",
             "quality": 5,
+            "count": 862,
+            "share": 20.32
+          },
+          {
+            "name": "Encore",
+            "category": "r",
+            "quality": 5,
             "count": 860,
-            "share": 20.3
+            "share": 20.29
           },
           {
             "name": "Verina",
             "category": "r",
             "quality": 5,
-            "count": 832,
-            "share": 19.65
+            "count": 842,
+            "share": 19.85
           },
           {
             "name": "Lingyang",
             "category": "r",
             "quality": 5,
             "count": 796,
-            "share": 18.79
+            "share": 18.76
           },
           {
             "name": "Daybreaker's Spine",
@@ -923,148 +923,148 @@
             "name": "Baizhi",
             "category": "r",
             "quality": 4,
-            "count": 4071,
-            "share": 11.99
+            "count": 4108,
+            "share": 12.04
           },
           {
             "name": "Taoqi",
             "category": "r",
             "quality": 4,
-            "count": 1390,
-            "share": 4.09
+            "count": 1386,
+            "share": 4.06
           },
           {
             "name": "Yangyang",
             "category": "r",
             "quality": 4,
-            "count": 1379,
+            "count": 1383,
             "share": 4.06
           },
           {
             "name": "Sanhua",
             "category": "r",
             "quality": 4,
-            "count": 1374,
-            "share": 4.05
+            "count": 1372,
+            "share": 4.02
           },
           {
             "name": "Mortefi",
             "category": "r",
             "quality": 4,
-            "count": 1313,
-            "share": 3.87
+            "count": 1315,
+            "share": 3.85
           },
           {
-            "name": "Aalto",
+            "name": "Yuanwu",
             "category": "r",
             "quality": 4,
-            "count": 1301,
-            "share": 3.83
+            "count": 1308,
+            "share": 3.84
           }
         ],
         "coverage": 0.61
       }
     },
     "standard_weapon": {
-      "players": 7254,
-      "totalPulls": 662364,
+      "players": 7293,
+      "totalPulls": 666296,
       "rarities": {
         "4": {
-          "count": 83355,
+          "count": 83833,
           "rate": 12.58,
           "avgPity": 7.3,
           "pityDistribution": [
-            6311,
-            5729,
-            5336,
-            4922,
-            4340,
-            4044,
-            3920,
-            3466,
-            3174,
-            41666
+            6343,
+            5767,
+            5358,
+            4948,
+            4368,
+            4055,
+            3937,
+            3490,
+            3190,
+            41928
           ]
         },
         "5": {
-          "count": 12043,
+          "count": 12117,
           "rate": 1.82,
           "avgPity": 41.6,
           "pityDistribution": [
             183,
+            192,
+            237,
+            160,
             191,
-            235,
+            171,
+            170,
             160,
-            186,
-            169,
-            169,
-            160,
-            162,
-            172,
-            196,
-            169,
-            139,
-            180,
+            163,
+            173,
+            198,
+            170,
+            141,
+            181,
             174,
-            139,
-            139,
-            129,
-            156,
-            152,
+            140,
+            140,
+            132,
+            157,
+            155,
             172,
             153,
-            155,
+            156,
             140,
             129,
             121,
-            160,
-            124,
+            161,
+            125,
             111,
             117,
-            125,
-            113,
-            103,
-            132,
-            147,
+            127,
+            116,
+            104,
+            133,
+            148,
             131,
-            97,
-            110,
+            98,
+            111,
             112,
             113,
-            110,
+            112,
             107,
             96,
             110,
             101,
-            92,
-            79,
+            93,
+            80,
             92,
             89,
             89,
             89,
             90,
-            92,
             93,
-            68,
-            83,
             94,
+            68,
             82,
-            88,
-            66,
+            95,
+            82,
+            89,
+            68,
             76,
             83,
             77,
             97,
-            76,
-            252,
-            374,
-            434,
-            517,
-            511,
+            77,
+            253,
+            377,
+            436,
+            522,
+            514,
+            487,
             483,
-            481,
-            380,
-            233,
+            381,
+            235,
             113,
             74,
             20,
@@ -1077,213 +1077,213 @@
       "fiftyFifty": null,
       "topItems": [
         {
-          "name": "Emerald of Genesis",
-          "category": "w",
-          "quality": 5,
-          "count": 2392,
-          "share": 19.86
-        },
-        {
           "name": "Phasic Homogenizer",
           "category": "w",
           "quality": 5,
-          "count": 2391,
-          "share": 19.85
+          "count": 2411,
+          "share": 19.9
+        },
+        {
+          "name": "Emerald of Genesis",
+          "category": "w",
+          "quality": 5,
+          "count": 2407,
+          "share": 19.86
         },
         {
           "name": "Static Mist",
           "category": "w",
           "quality": 5,
-          "count": 1681,
+          "count": 1692,
           "share": 13.96
         },
         {
           "name": "Pulsation Bracer",
           "category": "w",
           "quality": 5,
-          "count": 1185,
-          "share": 9.84
+          "count": 1194,
+          "share": 9.85
         },
         {
           "name": "Radiance Cleaver",
           "category": "w",
           "quality": 5,
-          "count": 1173,
-          "share": 9.74
+          "count": 1176,
+          "share": 9.71
         },
         {
           "name": "Cosmic Ripples",
           "category": "w",
           "quality": 5,
-          "count": 937,
-          "share": 7.78
+          "count": 942,
+          "share": 7.77
         },
         {
           "name": "Lustrous Razor",
           "category": "w",
           "quality": 5,
-          "count": 713,
+          "count": 717,
           "share": 5.92
         },
         {
           "name": "Laser Shearer",
           "category": "w",
           "quality": 5,
-          "count": 562,
-          "share": 4.67
+          "count": 563,
+          "share": 4.65
         },
         {
           "name": "Chixia",
           "category": "r",
           "quality": 4,
-          "count": 3661,
+          "count": 3679,
           "share": 4.39
         },
         {
           "name": "Sanhua",
           "category": "r",
           "quality": 4,
-          "count": 3596,
+          "count": 3614,
           "share": 4.31
         },
         {
           "name": "Youhu",
           "category": "r",
           "quality": 4,
-          "count": 3566,
-          "share": 4.28
+          "count": 3580,
+          "share": 4.27
         },
         {
           "name": "Yuanwu",
           "category": "r",
           "quality": 4,
-          "count": 3560,
+          "count": 3580,
           "share": 4.27
         },
         {
           "name": "Danjin",
           "category": "r",
           "quality": 4,
-          "count": 3547,
-          "share": 4.26
+          "count": 3565,
+          "share": 4.25
         },
         {
           "name": "Baizhi",
           "category": "r",
           "quality": 4,
-          "count": 3545,
+          "count": 3563,
           "share": 4.25
         }
       ],
       "estimated": {
-        "players": 7254,
-        "totalPulls": 1155697,
+        "players": 7293,
+        "totalPulls": 1164245,
         "topItems": [
           {
             "name": "Phasic Homogenizer",
             "category": "w",
             "quality": 5,
-            "count": 4428,
-            "share": 21.1
+            "count": 4469,
+            "share": 21.14
           },
           {
             "name": "Emerald of Genesis",
             "category": "w",
             "quality": 5,
-            "count": 4307,
-            "share": 20.53
+            "count": 4344,
+            "share": 20.55
           },
           {
             "name": "Static Mist",
             "category": "w",
             "quality": 5,
-            "count": 2811,
-            "share": 13.39
+            "count": 2825,
+            "share": 13.36
           },
           {
             "name": "Pulsation Bracer",
             "category": "w",
             "quality": 5,
-            "count": 2131,
-            "share": 10.16
+            "count": 2155,
+            "share": 10.2
           },
           {
             "name": "Radiance Cleaver",
             "category": "w",
             "quality": 5,
-            "count": 1964,
-            "share": 9.36
+            "count": 1967,
+            "share": 9.3
           },
           {
             "name": "Cosmic Ripples",
             "category": "w",
             "quality": 5,
-            "count": 1600,
-            "share": 7.63
+            "count": 1617,
+            "share": 7.65
           },
           {
             "name": "Boson Astrolabe",
             "category": "w",
             "quality": 5,
-            "count": 1108,
-            "share": 5.28
+            "count": 1118,
+            "share": 5.29
           },
           {
-            "name": "Laser Shearer",
+            "name": "Lustrous Razor",
             "category": "w",
             "quality": 5,
-            "count": 1029,
-            "share": 4.9
+            "count": 1038,
+            "share": 4.91
           },
           {
             "name": "Chixia",
             "category": "r",
             "quality": 4,
-            "count": 6261,
+            "count": 6303,
             "share": 4.3
           },
           {
             "name": "Sanhua",
             "category": "r",
             "quality": 4,
-            "count": 6253,
+            "count": 6294,
             "share": 4.3
           },
           {
             "name": "Youhu",
             "category": "r",
             "quality": 4,
-            "count": 6171,
-            "share": 4.24
+            "count": 6201,
+            "share": 4.23
           },
           {
             "name": "Taoqi",
             "category": "r",
             "quality": 4,
-            "count": 6157,
+            "count": 6201,
             "share": 4.23
           },
           {
             "name": "Mortefi",
             "category": "r",
             "quality": 4,
-            "count": 6134,
+            "count": 6181,
             "share": 4.22
           },
           {
             "name": "Yuanwu",
             "category": "r",
             "quality": 4,
-            "count": 6114,
-            "share": 4.2
+            "count": 6174,
+            "share": 4.21
           }
         ],
-        "coverage": 0.573
+        "coverage": 0.572
       }
     }
   },
   "methodology": {
-    "stalePlayers": 7179,
+    "stalePlayers": 7200,
     "medianDaysSinceImport": 146,
     "halfLifeWeeks": 52
   }
