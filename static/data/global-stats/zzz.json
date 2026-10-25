@@ -1,6 +1,6 @@
 {
   "game": "zzz",
-  "updatedAt": "2026-10-25T08:01:29.980Z",
+  "updatedAt": "2026-10-25T09:07:55.865Z",
   "summary": {
     "players": 30,
     "totalPulls": 36847,
@@ -195,6 +195,230 @@
           "share": 3.89
         },
         {
+          "name": "Promeia",
+          "category": "c",
+          "quality": 4,
+          "count": 10,
+          "share": 3.89
+        },
+        {
+          "name": "Ye Shunguang",
+          "category": "c",
+          "quality": 4,
+          "count": 10,
+          "share": 3.89
+        },
+        {
+          "name": "Koleda",
+          "category": "c",
+          "quality": 4,
+          "count": 9,
+          "share": 3.5
+        },
+        {
+          "name": "Claret",
+          "category": "c",
+          "quality": 4,
+          "count": 8,
+          "share": 3.11
+        },
+        {
+          "name": "Lucia",
+          "category": "c",
+          "quality": 4,
+          "count": 7,
+          "share": 2.72
+        },
+        {
+          "name": "Miyabi",
+          "category": "c",
+          "quality": 4,
+          "count": 7,
+          "share": 2.72
+        },
+        {
+          "name": "Nangong Yu",
+          "category": "c",
+          "quality": 4,
+          "count": 7,
+          "share": 2.72
+        },
+        {
+          "name": "Phoenix",
+          "category": "c",
+          "quality": 4,
+          "count": 7,
+          "share": 2.72
+        },
+        {
+          "name": "Zhu Yuan",
+          "category": "c",
+          "quality": 4,
+          "count": 7,
+          "share": 2.72
+        },
+        {
+          "name": "Norma",
+          "category": "c",
+          "quality": 4,
+          "count": 6,
+          "share": 2.33
+        },
+        {
+          "name": "Yanagi",
+          "category": "c",
+          "quality": 4,
+          "count": 6,
+          "share": 2.33
+        },
+        {
+          "name": "Caesar",
+          "category": "c",
+          "quality": 4,
+          "count": 4,
+          "share": 1.56
+        },
+        {
+          "name": "Cissia",
+          "category": "c",
+          "quality": 4,
+          "count": 4,
+          "share": 1.56
+        },
+        {
+          "name": "Roxy",
+          "category": "c",
+          "quality": 4,
+          "count": 4,
+          "share": 1.56
+        },
+        {
+          "name": "Sigrid",
+          "category": "c",
+          "quality": 4,
+          "count": 4,
+          "share": 1.56
+        },
+        {
+          "name": "Sunna",
+          "category": "c",
+          "quality": 4,
+          "count": 4,
+          "share": 1.56
+        },
+        {
+          "name": "Yuzuha",
+          "category": "c",
+          "quality": 4,
+          "count": 4,
+          "share": 1.56
+        },
+        {
+          "name": "Astra Yao",
+          "category": "c",
+          "quality": 4,
+          "count": 3,
+          "share": 1.17
+        },
+        {
+          "name": "Burnice",
+          "category": "c",
+          "quality": 4,
+          "count": 3,
+          "share": 1.17
+        },
+        {
+          "name": "Dialyn",
+          "category": "c",
+          "quality": 4,
+          "count": 3,
+          "share": 1.17
+        },
+        {
+          "name": "Soldier 0 - Anby",
+          "category": "c",
+          "quality": 4,
+          "count": 3,
+          "share": 1.17
+        },
+        {
+          "name": "Trigger",
+          "category": "c",
+          "quality": 4,
+          "count": 3,
+          "share": 1.17
+        },
+        {
+          "name": "Vivian",
+          "category": "c",
+          "quality": 4,
+          "count": 3,
+          "share": 1.17
+        },
+        {
+          "name": "Yixuan",
+          "category": "c",
+          "quality": 4,
+          "count": 3,
+          "share": 1.17
+        },
+        {
+          "name": "Ellen",
+          "category": "c",
+          "quality": 4,
+          "count": 2,
+          "share": 0.78
+        },
+        {
+          "name": "Ju Fufu",
+          "category": "c",
+          "quality": 4,
+          "count": 2,
+          "share": 0.78
+        },
+        {
+          "name": "Orphie & Magus",
+          "category": "c",
+          "quality": 4,
+          "count": 2,
+          "share": 0.78
+        },
+        {
+          "name": "Banyue",
+          "category": "c",
+          "quality": 4,
+          "count": 1,
+          "share": 0.39
+        },
+        {
+          "name": "Evelyn",
+          "category": "c",
+          "quality": 4,
+          "count": 1,
+          "share": 0.39
+        },
+        {
+          "name": "Jane",
+          "category": "c",
+          "quality": 4,
+          "count": 1,
+          "share": 0.39
+        },
+        {
+          "name": "Lighter",
+          "category": "c",
+          "quality": 4,
+          "count": 1,
+          "share": 0.39
+        },
+        {
+          "name": "Qingyi",
+          "category": "c",
+          "quality": 4,
+          "count": 1,
+          "share": 0.39
+        },
+        {
           "name": "Piper",
           "category": "c",
           "quality": 3,
@@ -235,6 +459,223 @@
           "quality": 3,
           "count": 139,
           "share": 6.04
+        },
+        {
+          "name": "Corin",
+          "category": "c",
+          "quality": 3,
+          "count": 132,
+          "share": 5.73
+        },
+        {
+          "name": "Pulchra",
+          "category": "c",
+          "quality": 3,
+          "count": 128,
+          "share": 5.56
+        },
+        {
+          "name": "Billy",
+          "category": "c",
+          "quality": 3,
+          "count": 113,
+          "share": 4.91
+        },
+        {
+          "name": "Ben",
+          "category": "c",
+          "quality": 3,
+          "count": 97,
+          "share": 4.21
+        },
+        {
+          "name": "Anby",
+          "category": "c",
+          "quality": 3,
+          "count": 88,
+          "share": 3.82
+        },
+        {
+          "name": "Pan Yinhu",
+          "category": "c",
+          "quality": 3,
+          "count": 85,
+          "share": 3.69
+        },
+        {
+          "name": "Anton",
+          "category": "c",
+          "quality": 3,
+          "count": 69,
+          "share": 3
+        },
+        {
+          "name": "Slice of Time",
+          "category": "w",
+          "quality": 3,
+          "count": 25,
+          "share": 1.09
+        },
+        {
+          "name": "Weeping Gemini",
+          "category": "w",
+          "quality": 3,
+          "count": 22,
+          "share": 0.96
+        },
+        {
+          "name": "Starlight Engine Replica",
+          "category": "w",
+          "quality": 3,
+          "count": 20,
+          "share": 0.87
+        },
+        {
+          "name": "Bunny Band",
+          "category": "w",
+          "quality": 3,
+          "count": 19,
+          "share": 0.83
+        },
+        {
+          "name": "Housekeeper",
+          "category": "w",
+          "quality": 3,
+          "count": 19,
+          "share": 0.83
+        },
+        {
+          "name": "Peacekeeper - Specialized",
+          "category": "w",
+          "quality": 3,
+          "count": 19,
+          "share": 0.83
+        },
+        {
+          "name": "Puzzle Sphere",
+          "category": "w",
+          "quality": 3,
+          "count": 19,
+          "share": 0.83
+        },
+        {
+          "name": "Original Transmorpher",
+          "category": "w",
+          "quality": 3,
+          "count": 18,
+          "share": 0.78
+        },
+        {
+          "name": "Starlight Engine",
+          "category": "w",
+          "quality": 3,
+          "count": 18,
+          "share": 0.78
+        },
+        {
+          "name": "Big Cylinder",
+          "category": "w",
+          "quality": 3,
+          "count": 17,
+          "share": 0.74
+        },
+        {
+          "name": "Kaboom the Cannon",
+          "category": "w",
+          "quality": 3,
+          "count": 17,
+          "share": 0.74
+        },
+        {
+          "name": "Roaring Ride",
+          "category": "w",
+          "quality": 3,
+          "count": 17,
+          "share": 0.74
+        },
+        {
+          "name": "Steam Oven",
+          "category": "w",
+          "quality": 3,
+          "count": 17,
+          "share": 0.74
+        },
+        {
+          "name": "Demara Battery Mark II",
+          "category": "w",
+          "quality": 3,
+          "count": 16,
+          "share": 0.69
+        },
+        {
+          "name": "Drill Rig - Red Axis",
+          "category": "w",
+          "quality": 3,
+          "count": 16,
+          "share": 0.69
+        },
+        {
+          "name": "Rainforest Gourmet",
+          "category": "w",
+          "quality": 3,
+          "count": 16,
+          "share": 0.69
+        },
+        {
+          "name": "Street Superstar",
+          "category": "w",
+          "quality": 3,
+          "count": 16,
+          "share": 0.69
+        },
+        {
+          "name": "The Vault",
+          "category": "w",
+          "quality": 3,
+          "count": 16,
+          "share": 0.69
+        },
+        {
+          "name": "Box Cutter",
+          "category": "w",
+          "quality": 3,
+          "count": 15,
+          "share": 0.65
+        },
+        {
+          "name": "Tremor Trigram Vessel",
+          "category": "w",
+          "quality": 3,
+          "count": 14,
+          "share": 0.61
+        },
+        {
+          "name": "Precious Fossilized Core",
+          "category": "w",
+          "quality": 3,
+          "count": 13,
+          "share": 0.56
+        },
+        {
+          "name": "Bashful Demon",
+          "category": "w",
+          "quality": 3,
+          "count": 11,
+          "share": 0.48
+        },
+        {
+          "name": "Grill O'Wisp",
+          "category": "w",
+          "quality": 3,
+          "count": 11,
+          "share": 0.48
+        },
+        {
+          "name": "Catty Luck",
+          "category": "w",
+          "quality": 3,
+          "count": 1,
+          "share": 0.04
         }
       ],
       "estimated": {
@@ -298,6 +739,230 @@
             "share": 3.89
           },
           {
+            "name": "Promeia",
+            "category": "c",
+            "quality": 4,
+            "count": 10,
+            "share": 3.89
+          },
+          {
+            "name": "Ye Shunguang",
+            "category": "c",
+            "quality": 4,
+            "count": 10,
+            "share": 3.89
+          },
+          {
+            "name": "Koleda",
+            "category": "c",
+            "quality": 4,
+            "count": 9,
+            "share": 3.5
+          },
+          {
+            "name": "Claret",
+            "category": "c",
+            "quality": 4,
+            "count": 8,
+            "share": 3.11
+          },
+          {
+            "name": "Lucia",
+            "category": "c",
+            "quality": 4,
+            "count": 7,
+            "share": 2.72
+          },
+          {
+            "name": "Miyabi",
+            "category": "c",
+            "quality": 4,
+            "count": 7,
+            "share": 2.72
+          },
+          {
+            "name": "Nangong Yu",
+            "category": "c",
+            "quality": 4,
+            "count": 7,
+            "share": 2.72
+          },
+          {
+            "name": "Phoenix",
+            "category": "c",
+            "quality": 4,
+            "count": 7,
+            "share": 2.72
+          },
+          {
+            "name": "Zhu Yuan",
+            "category": "c",
+            "quality": 4,
+            "count": 7,
+            "share": 2.72
+          },
+          {
+            "name": "Norma",
+            "category": "c",
+            "quality": 4,
+            "count": 6,
+            "share": 2.33
+          },
+          {
+            "name": "Yanagi",
+            "category": "c",
+            "quality": 4,
+            "count": 6,
+            "share": 2.33
+          },
+          {
+            "name": "Caesar",
+            "category": "c",
+            "quality": 4,
+            "count": 4,
+            "share": 1.56
+          },
+          {
+            "name": "Cissia",
+            "category": "c",
+            "quality": 4,
+            "count": 4,
+            "share": 1.56
+          },
+          {
+            "name": "Roxy",
+            "category": "c",
+            "quality": 4,
+            "count": 4,
+            "share": 1.56
+          },
+          {
+            "name": "Sigrid",
+            "category": "c",
+            "quality": 4,
+            "count": 4,
+            "share": 1.56
+          },
+          {
+            "name": "Sunna",
+            "category": "c",
+            "quality": 4,
+            "count": 4,
+            "share": 1.56
+          },
+          {
+            "name": "Yuzuha",
+            "category": "c",
+            "quality": 4,
+            "count": 4,
+            "share": 1.56
+          },
+          {
+            "name": "Astra Yao",
+            "category": "c",
+            "quality": 4,
+            "count": 3,
+            "share": 1.17
+          },
+          {
+            "name": "Burnice",
+            "category": "c",
+            "quality": 4,
+            "count": 3,
+            "share": 1.17
+          },
+          {
+            "name": "Dialyn",
+            "category": "c",
+            "quality": 4,
+            "count": 3,
+            "share": 1.17
+          },
+          {
+            "name": "Soldier 0 - Anby",
+            "category": "c",
+            "quality": 4,
+            "count": 3,
+            "share": 1.17
+          },
+          {
+            "name": "Trigger",
+            "category": "c",
+            "quality": 4,
+            "count": 3,
+            "share": 1.17
+          },
+          {
+            "name": "Vivian",
+            "category": "c",
+            "quality": 4,
+            "count": 3,
+            "share": 1.17
+          },
+          {
+            "name": "Yixuan",
+            "category": "c",
+            "quality": 4,
+            "count": 3,
+            "share": 1.17
+          },
+          {
+            "name": "Ellen",
+            "category": "c",
+            "quality": 4,
+            "count": 2,
+            "share": 0.78
+          },
+          {
+            "name": "Ju Fufu",
+            "category": "c",
+            "quality": 4,
+            "count": 2,
+            "share": 0.78
+          },
+          {
+            "name": "Orphie & Magus",
+            "category": "c",
+            "quality": 4,
+            "count": 2,
+            "share": 0.78
+          },
+          {
+            "name": "Banyue",
+            "category": "c",
+            "quality": 4,
+            "count": 1,
+            "share": 0.39
+          },
+          {
+            "name": "Evelyn",
+            "category": "c",
+            "quality": 4,
+            "count": 1,
+            "share": 0.39
+          },
+          {
+            "name": "Jane",
+            "category": "c",
+            "quality": 4,
+            "count": 1,
+            "share": 0.39
+          },
+          {
+            "name": "Lighter",
+            "category": "c",
+            "quality": 4,
+            "count": 1,
+            "share": 0.39
+          },
+          {
+            "name": "Qingyi",
+            "category": "c",
+            "quality": 4,
+            "count": 1,
+            "share": 0.39
+          },
+          {
             "name": "Piper",
             "category": "c",
             "quality": 3,
@@ -338,6 +1003,223 @@
             "quality": 3,
             "count": 139,
             "share": 6.04
+          },
+          {
+            "name": "Corin",
+            "category": "c",
+            "quality": 3,
+            "count": 132,
+            "share": 5.73
+          },
+          {
+            "name": "Pulchra",
+            "category": "c",
+            "quality": 3,
+            "count": 128,
+            "share": 5.56
+          },
+          {
+            "name": "Billy",
+            "category": "c",
+            "quality": 3,
+            "count": 113,
+            "share": 4.91
+          },
+          {
+            "name": "Ben",
+            "category": "c",
+            "quality": 3,
+            "count": 97,
+            "share": 4.21
+          },
+          {
+            "name": "Anby",
+            "category": "c",
+            "quality": 3,
+            "count": 88,
+            "share": 3.82
+          },
+          {
+            "name": "Pan Yinhu",
+            "category": "c",
+            "quality": 3,
+            "count": 85,
+            "share": 3.69
+          },
+          {
+            "name": "Anton",
+            "category": "c",
+            "quality": 3,
+            "count": 69,
+            "share": 3
+          },
+          {
+            "name": "Slice of Time",
+            "category": "w",
+            "quality": 3,
+            "count": 25,
+            "share": 1.09
+          },
+          {
+            "name": "Weeping Gemini",
+            "category": "w",
+            "quality": 3,
+            "count": 22,
+            "share": 0.96
+          },
+          {
+            "name": "Starlight Engine Replica",
+            "category": "w",
+            "quality": 3,
+            "count": 20,
+            "share": 0.87
+          },
+          {
+            "name": "Bunny Band",
+            "category": "w",
+            "quality": 3,
+            "count": 19,
+            "share": 0.83
+          },
+          {
+            "name": "Housekeeper",
+            "category": "w",
+            "quality": 3,
+            "count": 19,
+            "share": 0.83
+          },
+          {
+            "name": "Peacekeeper - Specialized",
+            "category": "w",
+            "quality": 3,
+            "count": 19,
+            "share": 0.83
+          },
+          {
+            "name": "Puzzle Sphere",
+            "category": "w",
+            "quality": 3,
+            "count": 19,
+            "share": 0.83
+          },
+          {
+            "name": "Original Transmorpher",
+            "category": "w",
+            "quality": 3,
+            "count": 18,
+            "share": 0.78
+          },
+          {
+            "name": "Starlight Engine",
+            "category": "w",
+            "quality": 3,
+            "count": 18,
+            "share": 0.78
+          },
+          {
+            "name": "Big Cylinder",
+            "category": "w",
+            "quality": 3,
+            "count": 17,
+            "share": 0.74
+          },
+          {
+            "name": "Kaboom the Cannon",
+            "category": "w",
+            "quality": 3,
+            "count": 17,
+            "share": 0.74
+          },
+          {
+            "name": "Roaring Ride",
+            "category": "w",
+            "quality": 3,
+            "count": 17,
+            "share": 0.74
+          },
+          {
+            "name": "Steam Oven",
+            "category": "w",
+            "quality": 3,
+            "count": 17,
+            "share": 0.74
+          },
+          {
+            "name": "Demara Battery Mark II",
+            "category": "w",
+            "quality": 3,
+            "count": 16,
+            "share": 0.69
+          },
+          {
+            "name": "Drill Rig - Red Axis",
+            "category": "w",
+            "quality": 3,
+            "count": 16,
+            "share": 0.69
+          },
+          {
+            "name": "Rainforest Gourmet",
+            "category": "w",
+            "quality": 3,
+            "count": 16,
+            "share": 0.69
+          },
+          {
+            "name": "Street Superstar",
+            "category": "w",
+            "quality": 3,
+            "count": 16,
+            "share": 0.69
+          },
+          {
+            "name": "The Vault",
+            "category": "w",
+            "quality": 3,
+            "count": 16,
+            "share": 0.69
+          },
+          {
+            "name": "Box Cutter",
+            "category": "w",
+            "quality": 3,
+            "count": 15,
+            "share": 0.65
+          },
+          {
+            "name": "Tremor Trigram Vessel",
+            "category": "w",
+            "quality": 3,
+            "count": 14,
+            "share": 0.61
+          },
+          {
+            "name": "Precious Fossilized Core",
+            "category": "w",
+            "quality": 3,
+            "count": 13,
+            "share": 0.56
+          },
+          {
+            "name": "Bashful Demon",
+            "category": "w",
+            "quality": 3,
+            "count": 11,
+            "share": 0.48
+          },
+          {
+            "name": "Grill O'Wisp",
+            "category": "w",
+            "quality": 3,
+            "count": 11,
+            "share": 0.48
+          },
+          {
+            "name": "Catty Luck",
+            "category": "w",
+            "quality": 3,
+            "count": 1,
+            "share": 0.04
           }
         ],
         "coverage": 1
@@ -515,6 +1397,181 @@
           "share": 3.26
         },
         {
+          "name": "Qingming Birdcage",
+          "category": "w",
+          "quality": 4,
+          "count": 3,
+          "share": 3.26
+        },
+        {
+          "name": "Spectral Gaze",
+          "category": "w",
+          "quality": 4,
+          "count": 3,
+          "share": 3.26
+        },
+        {
+          "name": "The Brimstone",
+          "category": "w",
+          "quality": 4,
+          "count": 3,
+          "share": 3.26
+        },
+        {
+          "name": "Angel in the Shell",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Chief Sidekick",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Cordis Germina",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Frostfall Sickle",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Metanukimorphosis",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Neon Fantasies",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Serpentine Seeker",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Timeweaver",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Tusks of Fury",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Weeping Cradle",
+          "category": "w",
+          "quality": 4,
+          "count": 2,
+          "share": 2.17
+        },
+        {
+          "name": "Crimson Moon Casket",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Deep Sea Visitor",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Dreamlit Hearth",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Elegant Vanity",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Flight of Fancy",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Hellfire Gears",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Knight's Extolment",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Practiced Perfection",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Riot Suppressor Mark VI",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Severed Innocence",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Steel Cushion",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
+          "name": "Yesterday Calls",
+          "category": "w",
+          "quality": 4,
+          "count": 1,
+          "share": 1.09
+        },
+        {
           "name": "Roaring Ride",
           "category": "w",
           "quality": 3,
@@ -555,6 +1612,223 @@
           "quality": 3,
           "count": 48,
           "share": 5.63
+        },
+        {
+          "name": "Box Cutter",
+          "category": "w",
+          "quality": 3,
+          "count": 47,
+          "share": 5.52
+        },
+        {
+          "name": "Grill O'Wisp",
+          "category": "w",
+          "quality": 3,
+          "count": 43,
+          "share": 5.05
+        },
+        {
+          "name": "Housekeeper",
+          "category": "w",
+          "quality": 3,
+          "count": 25,
+          "share": 2.93
+        },
+        {
+          "name": "Tremor Trigram Vessel",
+          "category": "w",
+          "quality": 3,
+          "count": 25,
+          "share": 2.93
+        },
+        {
+          "name": "Big Cylinder",
+          "category": "w",
+          "quality": 3,
+          "count": 21,
+          "share": 2.46
+        },
+        {
+          "name": "Demara Battery Mark II",
+          "category": "w",
+          "quality": 3,
+          "count": 20,
+          "share": 2.35
+        },
+        {
+          "name": "Drill Rig - Red Axis",
+          "category": "w",
+          "quality": 3,
+          "count": 19,
+          "share": 2.23
+        },
+        {
+          "name": "Anton",
+          "category": "c",
+          "quality": 3,
+          "count": 10,
+          "share": 1.17
+        },
+        {
+          "name": "Pan Yinhu",
+          "category": "c",
+          "quality": 3,
+          "count": 10,
+          "share": 1.17
+        },
+        {
+          "name": "Piper",
+          "category": "c",
+          "quality": 3,
+          "count": 10,
+          "share": 1.17
+        },
+        {
+          "name": "Seth",
+          "category": "c",
+          "quality": 3,
+          "count": 9,
+          "share": 1.06
+        },
+        {
+          "name": "Lucy",
+          "category": "c",
+          "quality": 3,
+          "count": 8,
+          "share": 0.94
+        },
+        {
+          "name": "Rainforest Gourmet",
+          "category": "w",
+          "quality": 3,
+          "count": 7,
+          "share": 0.82
+        },
+        {
+          "name": "Anby",
+          "category": "c",
+          "quality": 3,
+          "count": 6,
+          "share": 0.7
+        },
+        {
+          "name": "Billy",
+          "category": "c",
+          "quality": 3,
+          "count": 6,
+          "share": 0.7
+        },
+        {
+          "name": "Nicole",
+          "category": "c",
+          "quality": 3,
+          "count": 6,
+          "share": 0.7
+        },
+        {
+          "name": "Pulchra",
+          "category": "c",
+          "quality": 3,
+          "count": 6,
+          "share": 0.7
+        },
+        {
+          "name": "Soukaku",
+          "category": "c",
+          "quality": 3,
+          "count": 6,
+          "share": 0.7
+        },
+        {
+          "name": "Steam Oven",
+          "category": "w",
+          "quality": 3,
+          "count": 6,
+          "share": 0.7
+        },
+        {
+          "name": "Ben",
+          "category": "c",
+          "quality": 3,
+          "count": 5,
+          "share": 0.59
+        },
+        {
+          "name": "Corin",
+          "category": "c",
+          "quality": 3,
+          "count": 5,
+          "share": 0.59
+        },
+        {
+          "name": "Precious Fossilized Core",
+          "category": "w",
+          "quality": 3,
+          "count": 5,
+          "share": 0.59
+        },
+        {
+          "name": "Puzzle Sphere",
+          "category": "w",
+          "quality": 3,
+          "count": 4,
+          "share": 0.47
+        },
+        {
+          "name": "Starlight Engine",
+          "category": "w",
+          "quality": 3,
+          "count": 4,
+          "share": 0.47
+        },
+        {
+          "name": "Weeping Gemini",
+          "category": "w",
+          "quality": 3,
+          "count": 4,
+          "share": 0.47
+        },
+        {
+          "name": "Bunny Band",
+          "category": "w",
+          "quality": 3,
+          "count": 3,
+          "share": 0.35
+        },
+        {
+          "name": "Slice of Time",
+          "category": "w",
+          "quality": 3,
+          "count": 3,
+          "share": 0.35
+        },
+        {
+          "name": "Street Superstar",
+          "category": "w",
+          "quality": 3,
+          "count": 3,
+          "share": 0.35
+        },
+        {
+          "name": "Catty Luck",
+          "category": "w",
+          "quality": 3,
+          "count": 2,
+          "share": 0.23
+        },
+        {
+          "name": "Manato",
+          "category": "c",
+          "quality": 3,
+          "count": 2,
+          "share": 0.23
+        },
+        {
+          "name": "Original Transmorpher",
+          "category": "w",
+          "quality": 3,
+          "count": 2,
+          "share": 0.23
         }
       ],
       "estimated": {
@@ -618,6 +1892,181 @@
             "share": 3.26
           },
           {
+            "name": "Qingming Birdcage",
+            "category": "w",
+            "quality": 4,
+            "count": 3,
+            "share": 3.26
+          },
+          {
+            "name": "Spectral Gaze",
+            "category": "w",
+            "quality": 4,
+            "count": 3,
+            "share": 3.26
+          },
+          {
+            "name": "The Brimstone",
+            "category": "w",
+            "quality": 4,
+            "count": 3,
+            "share": 3.26
+          },
+          {
+            "name": "Angel in the Shell",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Chief Sidekick",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Cordis Germina",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Frostfall Sickle",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Metanukimorphosis",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Neon Fantasies",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Serpentine Seeker",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Timeweaver",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Tusks of Fury",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Weeping Cradle",
+            "category": "w",
+            "quality": 4,
+            "count": 2,
+            "share": 2.17
+          },
+          {
+            "name": "Crimson Moon Casket",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Deep Sea Visitor",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Dreamlit Hearth",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Elegant Vanity",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Flight of Fancy",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Hellfire Gears",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Knight's Extolment",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Practiced Perfection",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Riot Suppressor Mark VI",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Severed Innocence",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Steel Cushion",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
+            "name": "Yesterday Calls",
+            "category": "w",
+            "quality": 4,
+            "count": 1,
+            "share": 1.09
+          },
+          {
             "name": "Roaring Ride",
             "category": "w",
             "quality": 3,
@@ -658,6 +2107,223 @@
             "quality": 3,
             "count": 48,
             "share": 5.63
+          },
+          {
+            "name": "Box Cutter",
+            "category": "w",
+            "quality": 3,
+            "count": 47,
+            "share": 5.52
+          },
+          {
+            "name": "Grill O'Wisp",
+            "category": "w",
+            "quality": 3,
+            "count": 43,
+            "share": 5.05
+          },
+          {
+            "name": "Housekeeper",
+            "category": "w",
+            "quality": 3,
+            "count": 25,
+            "share": 2.93
+          },
+          {
+            "name": "Tremor Trigram Vessel",
+            "category": "w",
+            "quality": 3,
+            "count": 25,
+            "share": 2.93
+          },
+          {
+            "name": "Big Cylinder",
+            "category": "w",
+            "quality": 3,
+            "count": 21,
+            "share": 2.46
+          },
+          {
+            "name": "Demara Battery Mark II",
+            "category": "w",
+            "quality": 3,
+            "count": 20,
+            "share": 2.35
+          },
+          {
+            "name": "Drill Rig - Red Axis",
+            "category": "w",
+            "quality": 3,
+            "count": 19,
+            "share": 2.23
+          },
+          {
+            "name": "Anton",
+            "category": "c",
+            "quality": 3,
+            "count": 10,
+            "share": 1.17
+          },
+          {
+            "name": "Pan Yinhu",
+            "category": "c",
+            "quality": 3,
+            "count": 10,
+            "share": 1.17
+          },
+          {
+            "name": "Piper",
+            "category": "c",
+            "quality": 3,
+            "count": 10,
+            "share": 1.17
+          },
+          {
+            "name": "Seth",
+            "category": "c",
+            "quality": 3,
+            "count": 9,
+            "share": 1.06
+          },
+          {
+            "name": "Lucy",
+            "category": "c",
+            "quality": 3,
+            "count": 8,
+            "share": 0.94
+          },
+          {
+            "name": "Rainforest Gourmet",
+            "category": "w",
+            "quality": 3,
+            "count": 7,
+            "share": 0.82
+          },
+          {
+            "name": "Anby",
+            "category": "c",
+            "quality": 3,
+            "count": 6,
+            "share": 0.7
+          },
+          {
+            "name": "Billy",
+            "category": "c",
+            "quality": 3,
+            "count": 6,
+            "share": 0.7
+          },
+          {
+            "name": "Nicole",
+            "category": "c",
+            "quality": 3,
+            "count": 6,
+            "share": 0.7
+          },
+          {
+            "name": "Pulchra",
+            "category": "c",
+            "quality": 3,
+            "count": 6,
+            "share": 0.7
+          },
+          {
+            "name": "Soukaku",
+            "category": "c",
+            "quality": 3,
+            "count": 6,
+            "share": 0.7
+          },
+          {
+            "name": "Steam Oven",
+            "category": "w",
+            "quality": 3,
+            "count": 6,
+            "share": 0.7
+          },
+          {
+            "name": "Ben",
+            "category": "c",
+            "quality": 3,
+            "count": 5,
+            "share": 0.59
+          },
+          {
+            "name": "Corin",
+            "category": "c",
+            "quality": 3,
+            "count": 5,
+            "share": 0.59
+          },
+          {
+            "name": "Precious Fossilized Core",
+            "category": "w",
+            "quality": 3,
+            "count": 5,
+            "share": 0.59
+          },
+          {
+            "name": "Puzzle Sphere",
+            "category": "w",
+            "quality": 3,
+            "count": 4,
+            "share": 0.47
+          },
+          {
+            "name": "Starlight Engine",
+            "category": "w",
+            "quality": 3,
+            "count": 4,
+            "share": 0.47
+          },
+          {
+            "name": "Weeping Gemini",
+            "category": "w",
+            "quality": 3,
+            "count": 4,
+            "share": 0.47
+          },
+          {
+            "name": "Bunny Band",
+            "category": "w",
+            "quality": 3,
+            "count": 3,
+            "share": 0.35
+          },
+          {
+            "name": "Slice of Time",
+            "category": "w",
+            "quality": 3,
+            "count": 3,
+            "share": 0.35
+          },
+          {
+            "name": "Street Superstar",
+            "category": "w",
+            "quality": 3,
+            "count": 3,
+            "share": 0.35
+          },
+          {
+            "name": "Catty Luck",
+            "category": "w",
+            "quality": 3,
+            "count": 2,
+            "share": 0.23
+          },
+          {
+            "name": "Manato",
+            "category": "c",
+            "quality": 3,
+            "count": 2,
+            "share": 0.23
+          },
+          {
+            "name": "Original Transmorpher",
+            "category": "w",
+            "quality": 3,
+            "count": 2,
+            "share": 0.23
           }
         ],
         "coverage": 1
@@ -841,6 +2507,34 @@
           "share": 7.14
         },
         {
+          "name": "Soldier 11",
+          "category": "c",
+          "quality": 4,
+          "count": 5,
+          "share": 5.95
+        },
+        {
+          "name": "Hellfire Gears",
+          "category": "w",
+          "quality": 4,
+          "count": 4,
+          "share": 4.76
+        },
+        {
+          "name": "Lycaon",
+          "category": "c",
+          "quality": 4,
+          "count": 4,
+          "share": 4.76
+        },
+        {
+          "name": "The Brimstone",
+          "category": "w",
+          "quality": 4,
+          "count": 4,
+          "share": 4.76
+        },
+        {
           "name": "Billy",
           "category": "c",
           "quality": 3,
@@ -881,6 +2575,223 @@
           "quality": 3,
           "count": 30,
           "share": 4.06
+        },
+        {
+          "name": "Lucy",
+          "category": "c",
+          "quality": 3,
+          "count": 29,
+          "share": 3.92
+        },
+        {
+          "name": "Ben",
+          "category": "c",
+          "quality": 3,
+          "count": 28,
+          "share": 3.79
+        },
+        {
+          "name": "Original Transmorpher",
+          "category": "w",
+          "quality": 3,
+          "count": 26,
+          "share": 3.52
+        },
+        {
+          "name": "Nicole",
+          "category": "c",
+          "quality": 3,
+          "count": 25,
+          "share": 3.38
+        },
+        {
+          "name": "Pulchra",
+          "category": "c",
+          "quality": 3,
+          "count": 24,
+          "share": 3.25
+        },
+        {
+          "name": "Manato",
+          "category": "c",
+          "quality": 3,
+          "count": 23,
+          "share": 3.11
+        },
+        {
+          "name": "Piper",
+          "category": "c",
+          "quality": 3,
+          "count": 23,
+          "share": 3.11
+        },
+        {
+          "name": "Demara Battery Mark II",
+          "category": "w",
+          "quality": 3,
+          "count": 22,
+          "share": 2.98
+        },
+        {
+          "name": "Slice of Time",
+          "category": "w",
+          "quality": 3,
+          "count": 22,
+          "share": 2.98
+        },
+        {
+          "name": "Bashful Demon",
+          "category": "w",
+          "quality": 3,
+          "count": 21,
+          "share": 2.84
+        },
+        {
+          "name": "Precious Fossilized Core",
+          "category": "w",
+          "quality": 3,
+          "count": 21,
+          "share": 2.84
+        },
+        {
+          "name": "The Vault",
+          "category": "w",
+          "quality": 3,
+          "count": 21,
+          "share": 2.84
+        },
+        {
+          "name": "Bunny Band",
+          "category": "w",
+          "quality": 3,
+          "count": 20,
+          "share": 2.71
+        },
+        {
+          "name": "Big Cylinder",
+          "category": "w",
+          "quality": 3,
+          "count": 18,
+          "share": 2.44
+        },
+        {
+          "name": "Roaring Ride",
+          "category": "w",
+          "quality": 3,
+          "count": 18,
+          "share": 2.44
+        },
+        {
+          "name": "Starlight Engine",
+          "category": "w",
+          "quality": 3,
+          "count": 18,
+          "share": 2.44
+        },
+        {
+          "name": "Street Superstar",
+          "category": "w",
+          "quality": 3,
+          "count": 18,
+          "share": 2.44
+        },
+        {
+          "name": "Tremor Trigram Vessel",
+          "category": "w",
+          "quality": 3,
+          "count": 18,
+          "share": 2.44
+        },
+        {
+          "name": "Pan Yinhu",
+          "category": "c",
+          "quality": 3,
+          "count": 17,
+          "share": 2.3
+        },
+        {
+          "name": "Peacekeeper - Specialized",
+          "category": "w",
+          "quality": 3,
+          "count": 16,
+          "share": 2.17
+        },
+        {
+          "name": "Steam Oven",
+          "category": "w",
+          "quality": 3,
+          "count": 16,
+          "share": 2.17
+        },
+        {
+          "name": "Starlight Engine Replica",
+          "category": "w",
+          "quality": 3,
+          "count": 15,
+          "share": 2.03
+        },
+        {
+          "name": "Weeping Gemini",
+          "category": "w",
+          "quality": 3,
+          "count": 15,
+          "share": 2.03
+        },
+        {
+          "name": "Drill Rig - Red Axis",
+          "category": "w",
+          "quality": 3,
+          "count": 13,
+          "share": 1.76
+        },
+        {
+          "name": "Rainforest Gourmet",
+          "category": "w",
+          "quality": 3,
+          "count": 12,
+          "share": 1.62
+        },
+        {
+          "name": "Housekeeper",
+          "category": "w",
+          "quality": 3,
+          "count": 11,
+          "share": 1.49
+        },
+        {
+          "name": "Kaboom the Cannon",
+          "category": "w",
+          "quality": 3,
+          "count": 11,
+          "share": 1.49
+        },
+        {
+          "name": "Grill O'Wisp",
+          "category": "w",
+          "quality": 3,
+          "count": 10,
+          "share": 1.35
+        },
+        {
+          "name": "Puzzle Sphere",
+          "category": "w",
+          "quality": 3,
+          "count": 9,
+          "share": 1.22
+        },
+        {
+          "name": "Box Cutter",
+          "category": "w",
+          "quality": 3,
+          "count": 6,
+          "share": 0.81
+        },
+        {
+          "name": "Catty Luck",
+          "category": "w",
+          "quality": 3,
+          "count": 2,
+          "share": 0.27
         }
       ],
       "estimated": {
@@ -944,6 +2855,34 @@
             "share": 7.14
           },
           {
+            "name": "Soldier 11",
+            "category": "c",
+            "quality": 4,
+            "count": 5,
+            "share": 5.95
+          },
+          {
+            "name": "Hellfire Gears",
+            "category": "w",
+            "quality": 4,
+            "count": 4,
+            "share": 4.76
+          },
+          {
+            "name": "Lycaon",
+            "category": "c",
+            "quality": 4,
+            "count": 4,
+            "share": 4.76
+          },
+          {
+            "name": "The Brimstone",
+            "category": "w",
+            "quality": 4,
+            "count": 4,
+            "share": 4.76
+          },
+          {
             "name": "Billy",
             "category": "c",
             "quality": 3,
@@ -984,6 +2923,223 @@
             "quality": 3,
             "count": 30,
             "share": 4.06
+          },
+          {
+            "name": "Lucy",
+            "category": "c",
+            "quality": 3,
+            "count": 29,
+            "share": 3.92
+          },
+          {
+            "name": "Ben",
+            "category": "c",
+            "quality": 3,
+            "count": 28,
+            "share": 3.79
+          },
+          {
+            "name": "Original Transmorpher",
+            "category": "w",
+            "quality": 3,
+            "count": 26,
+            "share": 3.52
+          },
+          {
+            "name": "Nicole",
+            "category": "c",
+            "quality": 3,
+            "count": 25,
+            "share": 3.38
+          },
+          {
+            "name": "Pulchra",
+            "category": "c",
+            "quality": 3,
+            "count": 24,
+            "share": 3.25
+          },
+          {
+            "name": "Manato",
+            "category": "c",
+            "quality": 3,
+            "count": 23,
+            "share": 3.11
+          },
+          {
+            "name": "Piper",
+            "category": "c",
+            "quality": 3,
+            "count": 23,
+            "share": 3.11
+          },
+          {
+            "name": "Demara Battery Mark II",
+            "category": "w",
+            "quality": 3,
+            "count": 22,
+            "share": 2.98
+          },
+          {
+            "name": "Slice of Time",
+            "category": "w",
+            "quality": 3,
+            "count": 22,
+            "share": 2.98
+          },
+          {
+            "name": "Bashful Demon",
+            "category": "w",
+            "quality": 3,
+            "count": 21,
+            "share": 2.84
+          },
+          {
+            "name": "Precious Fossilized Core",
+            "category": "w",
+            "quality": 3,
+            "count": 21,
+            "share": 2.84
+          },
+          {
+            "name": "The Vault",
+            "category": "w",
+            "quality": 3,
+            "count": 21,
+            "share": 2.84
+          },
+          {
+            "name": "Bunny Band",
+            "category": "w",
+            "quality": 3,
+            "count": 20,
+            "share": 2.71
+          },
+          {
+            "name": "Big Cylinder",
+            "category": "w",
+            "quality": 3,
+            "count": 18,
+            "share": 2.44
+          },
+          {
+            "name": "Roaring Ride",
+            "category": "w",
+            "quality": 3,
+            "count": 18,
+            "share": 2.44
+          },
+          {
+            "name": "Starlight Engine",
+            "category": "w",
+            "quality": 3,
+            "count": 18,
+            "share": 2.44
+          },
+          {
+            "name": "Street Superstar",
+            "category": "w",
+            "quality": 3,
+            "count": 18,
+            "share": 2.44
+          },
+          {
+            "name": "Tremor Trigram Vessel",
+            "category": "w",
+            "quality": 3,
+            "count": 18,
+            "share": 2.44
+          },
+          {
+            "name": "Pan Yinhu",
+            "category": "c",
+            "quality": 3,
+            "count": 17,
+            "share": 2.3
+          },
+          {
+            "name": "Peacekeeper - Specialized",
+            "category": "w",
+            "quality": 3,
+            "count": 16,
+            "share": 2.17
+          },
+          {
+            "name": "Steam Oven",
+            "category": "w",
+            "quality": 3,
+            "count": 16,
+            "share": 2.17
+          },
+          {
+            "name": "Starlight Engine Replica",
+            "category": "w",
+            "quality": 3,
+            "count": 15,
+            "share": 2.03
+          },
+          {
+            "name": "Weeping Gemini",
+            "category": "w",
+            "quality": 3,
+            "count": 15,
+            "share": 2.03
+          },
+          {
+            "name": "Drill Rig - Red Axis",
+            "category": "w",
+            "quality": 3,
+            "count": 13,
+            "share": 1.76
+          },
+          {
+            "name": "Rainforest Gourmet",
+            "category": "w",
+            "quality": 3,
+            "count": 12,
+            "share": 1.62
+          },
+          {
+            "name": "Housekeeper",
+            "category": "w",
+            "quality": 3,
+            "count": 11,
+            "share": 1.49
+          },
+          {
+            "name": "Kaboom the Cannon",
+            "category": "w",
+            "quality": 3,
+            "count": 11,
+            "share": 1.49
+          },
+          {
+            "name": "Grill O'Wisp",
+            "category": "w",
+            "quality": 3,
+            "count": 10,
+            "share": 1.35
+          },
+          {
+            "name": "Puzzle Sphere",
+            "category": "w",
+            "quality": 3,
+            "count": 9,
+            "share": 1.22
+          },
+          {
+            "name": "Box Cutter",
+            "category": "w",
+            "quality": 3,
+            "count": 6,
+            "share": 0.81
+          },
+          {
+            "name": "Catty Luck",
+            "category": "w",
+            "quality": 3,
+            "count": 2,
+            "share": 0.27
           }
         ],
         "coverage": 1
@@ -1157,6 +3313,97 @@
           "share": 4.17
         },
         {
+          "name": "Miss Esme",
+          "category": "b",
+          "quality": 4,
+          "count": 8,
+          "share": 3.7
+        },
+        {
+          "name": "Birkblick",
+          "category": "b",
+          "quality": 4,
+          "count": 7,
+          "share": 3.24
+        },
+        {
+          "name": "Plugboo",
+          "category": "b",
+          "quality": 4,
+          "count": 7,
+          "share": 3.24
+        },
+        {
+          "name": "Agent Gulliver",
+          "category": "b",
+          "quality": 4,
+          "count": 6,
+          "share": 2.78
+        },
+        {
+          "name": "Bangvolver",
+          "category": "b",
+          "quality": 4,
+          "count": 6,
+          "share": 2.78
+        },
+        {
+          "name": "Belion",
+          "category": "b",
+          "quality": 4,
+          "count": 6,
+          "share": 2.78
+        },
+        {
+          "name": "Red Moccus",
+          "category": "b",
+          "quality": 4,
+          "count": 6,
+          "share": 2.78
+        },
+        {
+          "name": "Resonaboo",
+          "category": "b",
+          "quality": 4,
+          "count": 6,
+          "share": 2.78
+        },
+        {
+          "name": "Mercury",
+          "category": "b",
+          "quality": 4,
+          "count": 5,
+          "share": 2.31
+        },
+        {
+          "name": "Rocketboo",
+          "category": "b",
+          "quality": 4,
+          "count": 5,
+          "share": 2.31
+        },
+        {
+          "name": "Amillion",
+          "category": "b",
+          "quality": 4,
+          "count": 4,
+          "share": 1.85
+        },
+        {
+          "name": "Officer Cui",
+          "category": "b",
+          "quality": 4,
+          "count": 4,
+          "share": 1.85
+        },
+        {
+          "name": "Safety",
+          "category": "b",
+          "quality": 4,
+          "count": 4,
+          "share": 1.85
+        },
+        {
           "name": "Magnetiboo",
           "category": "b",
           "quality": 3,
@@ -1197,6 +3444,48 @@
           "quality": 3,
           "count": 171,
           "share": 8.44
+        },
+        {
+          "name": "Sumoboo",
+          "category": "b",
+          "quality": 3,
+          "count": 170,
+          "share": 8.39
+        },
+        {
+          "name": "Exploreboo",
+          "category": "b",
+          "quality": 3,
+          "count": 169,
+          "share": 8.34
+        },
+        {
+          "name": "Cryboo",
+          "category": "b",
+          "quality": 3,
+          "count": 161,
+          "share": 7.94
+        },
+        {
+          "name": "Bagboo",
+          "category": "b",
+          "quality": 3,
+          "count": 160,
+          "share": 7.89
+        },
+        {
+          "name": "Electroboo",
+          "category": "b",
+          "quality": 3,
+          "count": 159,
+          "share": 7.84
+        },
+        {
+          "name": "Baddieboo",
+          "category": "b",
+          "quality": 3,
+          "count": 153,
+          "share": 7.55
         }
       ],
       "estimated": {
@@ -1260,6 +3549,97 @@
             "share": 4.17
           },
           {
+            "name": "Miss Esme",
+            "category": "b",
+            "quality": 4,
+            "count": 8,
+            "share": 3.7
+          },
+          {
+            "name": "Birkblick",
+            "category": "b",
+            "quality": 4,
+            "count": 7,
+            "share": 3.24
+          },
+          {
+            "name": "Plugboo",
+            "category": "b",
+            "quality": 4,
+            "count": 7,
+            "share": 3.24
+          },
+          {
+            "name": "Agent Gulliver",
+            "category": "b",
+            "quality": 4,
+            "count": 6,
+            "share": 2.78
+          },
+          {
+            "name": "Bangvolver",
+            "category": "b",
+            "quality": 4,
+            "count": 6,
+            "share": 2.78
+          },
+          {
+            "name": "Belion",
+            "category": "b",
+            "quality": 4,
+            "count": 6,
+            "share": 2.78
+          },
+          {
+            "name": "Red Moccus",
+            "category": "b",
+            "quality": 4,
+            "count": 6,
+            "share": 2.78
+          },
+          {
+            "name": "Resonaboo",
+            "category": "b",
+            "quality": 4,
+            "count": 6,
+            "share": 2.78
+          },
+          {
+            "name": "Mercury",
+            "category": "b",
+            "quality": 4,
+            "count": 5,
+            "share": 2.31
+          },
+          {
+            "name": "Rocketboo",
+            "category": "b",
+            "quality": 4,
+            "count": 5,
+            "share": 2.31
+          },
+          {
+            "name": "Amillion",
+            "category": "b",
+            "quality": 4,
+            "count": 4,
+            "share": 1.85
+          },
+          {
+            "name": "Officer Cui",
+            "category": "b",
+            "quality": 4,
+            "count": 4,
+            "share": 1.85
+          },
+          {
+            "name": "Safety",
+            "category": "b",
+            "quality": 4,
+            "count": 4,
+            "share": 1.85
+          },
+          {
             "name": "Magnetiboo",
             "category": "b",
             "quality": 3,
@@ -1300,6 +3680,48 @@
             "quality": 3,
             "count": 171,
             "share": 8.44
+          },
+          {
+            "name": "Sumoboo",
+            "category": "b",
+            "quality": 3,
+            "count": 170,
+            "share": 8.39
+          },
+          {
+            "name": "Exploreboo",
+            "category": "b",
+            "quality": 3,
+            "count": 169,
+            "share": 8.34
+          },
+          {
+            "name": "Cryboo",
+            "category": "b",
+            "quality": 3,
+            "count": 161,
+            "share": 7.94
+          },
+          {
+            "name": "Bagboo",
+            "category": "b",
+            "quality": 3,
+            "count": 160,
+            "share": 7.89
+          },
+          {
+            "name": "Electroboo",
+            "category": "b",
+            "quality": 3,
+            "count": 159,
+            "share": 7.84
+          },
+          {
+            "name": "Baddieboo",
+            "category": "b",
+            "quality": 3,
+            "count": 153,
+            "share": 7.55
           }
         ],
         "coverage": 1
