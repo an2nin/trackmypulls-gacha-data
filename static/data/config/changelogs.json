@@ -1,5 +1,17 @@
 [
   {
+    "date": "Oct 25, 2026",
+    "changes": [
+      "Added Global Stats Phase wise"
+    ]
+  },
+  {
+    "date": "Oct 23, 2026",
+    "changes": [
+      "Added support for importing backup files from wuwatracker"
+    ]
+  },
+  {
     "date": "Oct 9, 2026",
     "changes": [
       "Added Global Stats for Wuthering Waves and Arknights: Endfield",
