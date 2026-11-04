@@ -1,0 +1,5331 @@
+{
+  "game": "endfield",
+  "updatedAt": "2026-11-04T07:01:22.747Z",
+  "summary": {
+    "players": 5716,
+    "totalPulls": 3042597,
+    "topRarityPulls": 91876,
+    "estimated": {
+      "players": 5716,
+      "totalPulls": 5790925,
+      "topRarityPulls": 179227,
+      "coverage": 0.525
+    }
+  },
+  "banners": {
+    "special": {
+      "players": 5677,
+      "totalPulls": 1516424,
+      "rarities": {
+        "5": {
+          "count": 200825,
+          "rate": 13.24,
+          "avgPity": 6.9,
+          "pityDistribution": [
+            18952,
+            16736,
+            15084,
+            13575,
+            12006,
+            10849,
+            9822,
+            8622,
+            7793,
+            83923
+          ]
+        },
+        "6": {
+          "count": 30315,
+          "rate": 2,
+          "avgPity": 47.8,
+          "pityDistribution": [
+            418,
+            377,
+            359,
+            382,
+            312,
+            388,
+            356,
+            344,
+            380,
+            352,
+            332,
+            345,
+            302,
+            343,
+            283,
+            312,
+            315,
+            283,
+            306,
+            292,
+            306,
+            263,
+            255,
+            286,
+            214,
+            255,
+            231,
+            251,
+            232,
+            256,
+            246,
+            217,
+            228,
+            223,
+            232,
+            218,
+            207,
+            240,
+            193,
+            220,
+            214,
+            212,
+            220,
+            240,
+            221,
+            234,
+            251,
+            263,
+            270,
+            251,
+            261,
+            251,
+            255,
+            256,
+            236,
+            189,
+            201,
+            195,
+            197,
+            202,
+            194,
+            192,
+            184,
+            173,
+            175,
+            687,
+            1193,
+            1561,
+            1718,
+            1652,
+            1411,
+            1198,
+            850,
+            579,
+            387,
+            268,
+            208,
+            214,
+            220,
+            207
+          ]
+        }
+      },
+      "fiftyFifty": null,
+      "topItems": [
+        {
+          "name": "Laevatain",
+          "category": "c",
+          "quality": 6,
+          "count": 4568,
+          "share": 15.07
+        },
+        {
+          "name": "Gilberta",
+          "category": "c",
+          "quality": 6,
+          "count": 3295,
+          "share": 10.87
+        },
+        {
+          "name": "Yvonne",
+          "category": "c",
+          "quality": 6,
+          "count": 2631,
+          "share": 8.68
+        },
+        {
+          "name": "Zhuang Fangyi",
+          "category": "c",
+          "quality": 6,
+          "count": 2153,
+          "share": 7.1
+        },
+        {
+          "name": "Ardelia",
+          "category": "c",
+          "quality": 6,
+          "count": 1855,
+          "share": 6.12
+        },
+        {
+          "name": "Ember",
+          "category": "c",
+          "quality": 6,
+          "count": 1847,
+          "share": 6.09
+        },
+        {
+          "name": "Lifeng",
+          "category": "c",
+          "quality": 6,
+          "count": 1802,
+          "share": 5.94
+        },
+        {
+          "name": "Last Rite",
+          "category": "c",
+          "quality": 6,
+          "count": 1781,
+          "share": 5.87
+        },
+        {
+          "name": "Wulfgard",
+          "category": "c",
+          "quality": 5,
+          "count": 22446,
+          "share": 11.18
+        },
+        {
+          "name": "Arclight",
+          "category": "c",
+          "quality": 5,
+          "count": 22380,
+          "share": 11.14
+        },
+        {
+          "name": "Snowshine",
+          "category": "c",
+          "quality": 5,
+          "count": 22366,
+          "share": 11.14
+        },
+        {
+          "name": "Xaihi",
+          "category": "c",
+          "quality": 5,
+          "count": 22359,
+          "share": 11.13
+        },
+        {
+          "name": "Da Pan",
+          "category": "c",
+          "quality": 5,
+          "count": 22331,
+          "share": 11.12
+        },
+        {
+          "name": "Avywenna",
+          "category": "c",
+          "quality": 5,
+          "count": 22315,
+          "share": 11.11
+        },
+        {
+          "name": "Alesh",
+          "category": "c",
+          "quality": 5,
+          "count": 22310,
+          "share": 11.11
+        },
+        {
+          "name": "Perlica",
+          "category": "c",
+          "quality": 5,
+          "count": 22208,
+          "share": 11.06
+        }
+      ],
+      "estimated": {
+        "players": 5677,
+        "totalPulls": 2944782,
+        "topItems": [
+          {
+            "name": "Zhuang Fangyi",
+            "category": "c",
+            "quality": 6,
+            "count": 5241,
+            "share": 8.77
+          },
+          {
+            "name": "Laevatain",
+            "category": "c",
+            "quality": 6,
+            "count": 4789,
+            "share": 8.01
+          },
+          {
+            "name": "Yvonne",
+            "category": "c",
+            "quality": 6,
+            "count": 4293,
+            "share": 7.18
+          },
+          {
+            "name": "Rossi",
+            "category": "c",
+            "quality": 6,
+            "count": 4280,
+            "share": 7.16
+          },
+          {
+            "name": "Gilberta",
+            "category": "c",
+            "quality": 6,
+            "count": 4038,
+            "share": 6.76
+          },
+          {
+            "name": "Ardelia",
+            "category": "c",
+            "quality": 6,
+            "count": 3699,
+            "share": 6.19
+          },
+          {
+            "name": "Ember",
+            "category": "c",
+            "quality": 6,
+            "count": 3652,
+            "share": 6.11
+          },
+          {
+            "name": "Last Rite",
+            "category": "c",
+            "quality": 6,
+            "count": 3510,
+            "share": 5.87
+          },
+          {
+            "name": "Snowshine",
+            "category": "c",
+            "quality": 5,
+            "count": 43727,
+            "share": 11.24
+          },
+          {
+            "name": "Arclight",
+            "category": "c",
+            "quality": 5,
+            "count": 43529,
+            "share": 11.19
+          },
+          {
+            "name": "Wulfgard",
+            "category": "c",
+            "quality": 5,
+            "count": 43458,
+            "share": 11.17
+          },
+          {
+            "name": "Xaihi",
+            "category": "c",
+            "quality": 5,
+            "count": 43284,
+            "share": 11.12
+          },
+          {
+            "name": "Perlica",
+            "category": "c",
+            "quality": 5,
+            "count": 43250,
+            "share": 11.12
+          },
+          {
+            "name": "Alesh",
+            "category": "c",
+            "quality": 5,
+            "count": 43157,
+            "share": 11.09
+          },
+          {
+            "name": "Da Pan",
+            "category": "c",
+            "quality": 5,
+            "count": 43051,
+            "share": 11.06
+          },
+          {
+            "name": "Avywenna",
+            "category": "c",
+            "quality": 5,
+            "count": 42999,
+            "share": 11.05
+          }
+        ],
+        "coverage": 0.515
+      },
+      "phases": [
+        {
+          "id": "1.6-1",
+          "version": "1.6",
+          "phase": 1,
+          "start": "2026-10-15",
+          "end": "2026-11-05",
+          "bannerNames": [
+            "Rejuvenation"
+          ],
+          "featured": [
+            {
+              "name": "Si",
+              "quality": 6,
+              "category": "c",
+              "count": 1735
+            }
+          ],
+          "stats": {
+            "players": 431,
+            "totalPulls": 55758,
+            "rarities": {
+              "5": {
+                "count": 6816,
+                "rate": 12.22,
+                "avgPity": 7.4,
+                "pityDistribution": [
+                  597,
+                  564,
+                  499,
+                  438,
+                  438,
+                  344,
+                  294,
+                  247,
+                  253,
+                  2535
+                ]
+              },
+              "6": {
+                "count": 1053,
+                "rate": 1.89,
+                "avgPity": 55.2,
+                "pityDistribution": [
+                  12,
+                  7,
+                  6,
+                  8,
+                  8,
+                  12,
+                  9,
+                  9,
+                  11,
+                  9,
+                  7,
+                  12,
+                  5,
+                  8,
+                  10,
+                  18,
+                  8,
+                  4,
+                  17,
+                  10,
+                  4,
+                  9,
+                  9,
+                  16,
+                  5,
+                  5,
+                  6,
+                  6,
+                  8,
+                  4,
+                  7,
+                  5,
+                  9,
+                  5,
+                  9,
+                  6,
+                  3,
+                  7,
+                  11,
+                  6,
+                  7,
+                  8,
+                  6,
+                  7,
+                  4,
+                  3,
+                  5,
+                  9,
+                  6,
+                  3,
+                  10,
+                  4,
+                  10,
+                  3,
+                  9,
+                  5,
+                  6,
+                  7,
+                  7,
+                  3,
+                  6,
+                  6,
+                  11,
+                  7,
+                  4,
+                  13,
+                  22,
+                  24,
+                  39,
+                  42,
+                  42,
+                  28,
+                  20,
+                  11,
+                  16,
+                  14,
+                  24,
+                  27,
+                  26,
+                  39
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Si",
+                "category": "c",
+                "quality": 6,
+                "count": 620,
+                "share": 58.88
+              },
+              {
+                "name": "Liino",
+                "category": "c",
+                "quality": 6,
+                "count": 79,
+                "share": 7.5
+              },
+              {
+                "name": "Typhoeus",
+                "category": "c",
+                "quality": 6,
+                "count": 68,
+                "share": 6.46
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 60,
+                "share": 5.7
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 60,
+                "share": 5.7
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 58,
+                "share": 5.51
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 57,
+                "share": 5.41
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 51,
+                "share": 4.84
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 788,
+                "share": 11.56
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 782,
+                "share": 11.47
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 766,
+                "share": 11.24
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 755,
+                "share": 11.08
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 751,
+                "share": 11.02
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 751,
+                "share": 11.02
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 746,
+                "share": 10.94
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 746,
+                "share": 10.94
+              }
+            ],
+            "estimated": {
+              "players": 431,
+              "totalPulls": 152119,
+              "topItems": [
+                {
+                  "name": "Si",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 1735,
+                  "share": 59.41
+                },
+                {
+                  "name": "Liino",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 214,
+                  "share": 7.33
+                },
+                {
+                  "name": "Typhoeus",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 185,
+                  "share": 6.32
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 174,
+                  "share": 5.95
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 161,
+                  "share": 5.51
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 156,
+                  "share": 5.35
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 156,
+                  "share": 5.33
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 140,
+                  "share": 4.8
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2136,
+                  "share": 11.5
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2131,
+                  "share": 11.47
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2075,
+                  "share": 11.17
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2068,
+                  "share": 11.13
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2053,
+                  "share": 11.05
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2040,
+                  "share": 10.98
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2032,
+                  "share": 10.94
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2031,
+                  "share": 10.94
+                }
+              ],
+              "coverage": 0.367
+            }
+          }
+        },
+        {
+          "id": "1.5-1",
+          "version": "1.5",
+          "phase": 1,
+          "start": "2026-09-02",
+          "end": "2026-10-14",
+          "bannerNames": [
+            "Winter Hunt"
+          ],
+          "featured": [
+            {
+              "name": "Typhoeus",
+              "quality": 6,
+              "category": "c",
+              "count": 2555
+            }
+          ],
+          "stats": {
+            "players": 676,
+            "totalPulls": 54656,
+            "rarities": {
+              "5": {
+                "count": 6739,
+                "rate": 12.33,
+                "avgPity": 7.4,
+                "pityDistribution": [
+                  605,
+                  535,
+                  491,
+                  463,
+                  375,
+                  358,
+                  304,
+                  274,
+                  243,
+                  2509
+                ]
+              },
+              "6": {
+                "count": 996,
+                "rate": 1.82,
+                "avgPity": 54.3,
+                "pityDistribution": [
+                  6,
+                  7,
+                  11,
+                  6,
+                  8,
+                  11,
+                  7,
+                  10,
+                  10,
+                  5,
+                  4,
+                  11,
+                  3,
+                  11,
+                  7,
+                  8,
+                  4,
+                  9,
+                  10,
+                  6,
+                  9,
+                  13,
+                  12,
+                  12,
+                  10,
+                  9,
+                  10,
+                  7,
+                  5,
+                  12,
+                  10,
+                  9,
+                  7,
+                  4,
+                  12,
+                  1,
+                  4,
+                  5,
+                  4,
+                  5,
+                  6,
+                  4,
+                  6,
+                  11,
+                  8,
+                  9,
+                  7,
+                  8,
+                  12,
+                  6,
+                  5,
+                  8,
+                  8,
+                  10,
+                  7,
+                  7,
+                  7,
+                  9,
+                  9,
+                  4,
+                  9,
+                  2,
+                  9,
+                  10,
+                  3,
+                  6,
+                  23,
+                  38,
+                  31,
+                  32,
+                  28,
+                  27,
+                  23,
+                  24,
+                  13,
+                  8,
+                  14,
+                  27,
+                  29,
+                  33
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Typhoeus",
+                "category": "c",
+                "quality": 6,
+                "count": 576,
+                "share": 57.83
+              },
+              {
+                "name": "Arcane",
+                "category": "c",
+                "quality": 6,
+                "count": 67,
+                "share": 6.73
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 65,
+                "share": 6.53
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 64,
+                "share": 6.43
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 59,
+                "share": 5.92
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 58,
+                "share": 5.82
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 56,
+                "share": 5.62
+              },
+              {
+                "name": "Liino",
+                "category": "c",
+                "quality": 6,
+                "count": 51,
+                "share": 5.12
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 776,
+                "share": 11.52
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 772,
+                "share": 11.46
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 768,
+                "share": 11.4
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 761,
+                "share": 11.29
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 757,
+                "share": 11.23
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 739,
+                "share": 10.97
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 736,
+                "share": 10.92
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 720,
+                "share": 10.68
+              }
+            ],
+            "estimated": {
+              "players": 676,
+              "totalPulls": 238644,
+              "topItems": [
+                {
+                  "name": "Typhoeus",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 2555,
+                  "share": 57.98
+                },
+                {
+                  "name": "Arcane",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 298,
+                  "share": 6.77
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 284,
+                  "share": 6.44
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 282,
+                  "share": 6.4
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 262,
+                  "share": 5.94
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 255,
+                  "share": 5.78
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 253,
+                  "share": 5.75
+                },
+                {
+                  "name": "Liino",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 218,
+                  "share": 4.95
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3398,
+                  "share": 11.54
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3377,
+                  "share": 11.47
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3363,
+                  "share": 11.42
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3300,
+                  "share": 11.2
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3289,
+                  "share": 11.17
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3240,
+                  "share": 11
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3216,
+                  "share": 10.92
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3158,
+                  "share": 10.72
+                }
+              ],
+              "coverage": 0.229
+            }
+          }
+        },
+        {
+          "id": "1.4-2",
+          "version": "1.4",
+          "phase": 2,
+          "start": "2026-08-09",
+          "end": "2026-09-01",
+          "bannerNames": [
+            "Good Morning from Your Dawnstar"
+          ],
+          "featured": [
+            {
+              "name": "Liino",
+              "quality": 6,
+              "category": "c",
+              "count": 2136
+            }
+          ],
+          "stats": {
+            "players": 886,
+            "totalPulls": 62381,
+            "rarities": {
+              "5": {
+                "count": 7921,
+                "rate": 12.7,
+                "avgPity": 7.2,
+                "pityDistribution": [
+                  760,
+                  675,
+                  567,
+                  493,
+                  475,
+                  443,
+                  389,
+                  346,
+                  296,
+                  2870
+                ]
+              },
+              "6": {
+                "count": 1124,
+                "rate": 1.8,
+                "avgPity": 51.4,
+                "pityDistribution": [
+                  10,
+                  11,
+                  13,
+                  15,
+                  12,
+                  11,
+                  12,
+                  10,
+                  18,
+                  15,
+                  12,
+                  9,
+                  13,
+                  12,
+                  10,
+                  7,
+                  11,
+                  11,
+                  6,
+                  11,
+                  13,
+                  8,
+                  7,
+                  10,
+                  3,
+                  8,
+                  9,
+                  8,
+                  9,
+                  5,
+                  8,
+                  2,
+                  7,
+                  2,
+                  8,
+                  6,
+                  10,
+                  6,
+                  9,
+                  10,
+                  7,
+                  6,
+                  9,
+                  8,
+                  6,
+                  6,
+                  17,
+                  10,
+                  13,
+                  11,
+                  11,
+                  8,
+                  15,
+                  18,
+                  9,
+                  3,
+                  4,
+                  12,
+                  6,
+                  13,
+                  8,
+                  10,
+                  5,
+                  8,
+                  13,
+                  14,
+                  23,
+                  42,
+                  35,
+                  35,
+                  44,
+                  36,
+                  24,
+                  21,
+                  23,
+                  18,
+                  9,
+                  25,
+                  24,
+                  24
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Liino",
+                "category": "c",
+                "quality": 6,
+                "count": 662,
+                "share": 58.9
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 72,
+                "share": 6.41
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 70,
+                "share": 6.23
+              },
+              {
+                "name": "Camille",
+                "category": "c",
+                "quality": 6,
+                "count": 70,
+                "share": 6.23
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 70,
+                "share": 6.23
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 65,
+                "share": 5.78
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 65,
+                "share": 5.78
+              },
+              {
+                "name": "Arcane",
+                "category": "c",
+                "quality": 6,
+                "count": 49,
+                "share": 4.36
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 937,
+                "share": 11.83
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 930,
+                "share": 11.74
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 898,
+                "share": 11.34
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 876,
+                "share": 11.06
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 866,
+                "share": 10.93
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 864,
+                "share": 10.91
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 855,
+                "share": 10.79
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 851,
+                "share": 10.74
+              }
+            ],
+            "estimated": {
+              "players": 886,
+              "totalPulls": 197562,
+              "topItems": [
+                {
+                  "name": "Liino",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 2136,
+                  "share": 58.96
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 227,
+                  "share": 6.25
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 223,
+                  "share": 6.16
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 222,
+                  "share": 6.13
+                },
+                {
+                  "name": "Camille",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 220,
+                  "share": 6.07
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 205,
+                  "share": 5.65
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 203,
+                  "share": 5.59
+                },
+                {
+                  "name": "Arcane",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 185,
+                  "share": 5.1
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2973,
+                  "share": 11.86
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2955,
+                  "share": 11.79
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2842,
+                  "share": 11.34
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2770,
+                  "share": 11.05
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2735,
+                  "share": 10.91
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2720,
+                  "share": 10.85
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2707,
+                  "share": 10.8
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2697,
+                  "share": 10.76
+                }
+              ],
+              "coverage": 0.316
+            }
+          }
+        },
+        {
+          "id": "1.4-1",
+          "version": "1.4",
+          "phase": 1,
+          "start": "2026-07-16",
+          "end": "2026-08-09",
+          "bannerNames": [
+            "North Yearns the Rift Vigile"
+          ],
+          "featured": [
+            {
+              "name": "Arcane",
+              "quality": 6,
+              "category": "c",
+              "count": 2716
+            }
+          ],
+          "stats": {
+            "players": 1050,
+            "totalPulls": 81837,
+            "rarities": {
+              "5": {
+                "count": 10636,
+                "rate": 13,
+                "avgPity": 6.9,
+                "pityDistribution": [
+                  1000,
+                  899,
+                  827,
+                  703,
+                  687,
+                  597,
+                  516,
+                  446,
+                  405,
+                  4034
+                ]
+              },
+              "6": {
+                "count": 1734,
+                "rate": 2.12,
+                "avgPity": 49.9,
+                "pityDistribution": [
+                  19,
+                  18,
+                  21,
+                  19,
+                  21,
+                  23,
+                  17,
+                  22,
+                  22,
+                  11,
+                  16,
+                  15,
+                  14,
+                  22,
+                  11,
+                  15,
+                  10,
+                  16,
+                  16,
+                  16,
+                  16,
+                  12,
+                  11,
+                  23,
+                  16,
+                  9,
+                  9,
+                  11,
+                  12,
+                  15,
+                  8,
+                  11,
+                  16,
+                  12,
+                  19,
+                  8,
+                  11,
+                  14,
+                  8,
+                  14,
+                  15,
+                  12,
+                  18,
+                  19,
+                  10,
+                  13,
+                  22,
+                  14,
+                  13,
+                  15,
+                  11,
+                  12,
+                  20,
+                  14,
+                  18,
+                  19,
+                  10,
+                  11,
+                  7,
+                  17,
+                  20,
+                  9,
+                  10,
+                  15,
+                  17,
+                  31,
+                  53,
+                  88,
+                  87,
+                  85,
+                  69,
+                  54,
+                  70,
+                  39,
+                  25,
+                  24,
+                  15,
+                  18,
+                  23,
+                  10
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Arcane",
+                "category": "c",
+                "quality": 6,
+                "count": 1011,
+                "share": 58.3
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 118,
+                "share": 6.81
+              },
+              {
+                "name": "Mi Fu",
+                "category": "c",
+                "quality": 6,
+                "count": 110,
+                "share": 6.34
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 108,
+                "share": 6.23
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 107,
+                "share": 6.17
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 103,
+                "share": 5.94
+              },
+              {
+                "name": "Camille",
+                "category": "c",
+                "quality": 6,
+                "count": 94,
+                "share": 5.42
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 83,
+                "share": 4.79
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 1223,
+                "share": 11.5
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 1213,
+                "share": 11.4
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 1202,
+                "share": 11.3
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 1194,
+                "share": 11.23
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 1188,
+                "share": 11.17
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 1172,
+                "share": 11.02
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 1165,
+                "share": 10.95
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 1148,
+                "share": 10.79
+              }
+            ],
+            "estimated": {
+              "players": 1050,
+              "totalPulls": 212578,
+              "topItems": [
+                {
+                  "name": "Arcane",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 2716,
+                  "share": 59.34
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 318,
+                  "share": 6.95
+                },
+                {
+                  "name": "Mi Fu",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 293,
+                  "share": 6.4
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 286,
+                  "share": 6.25
+                },
+                {
+                  "name": "Camille",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 255,
+                  "share": 5.56
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 250,
+                  "share": 5.47
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 250,
+                  "share": 5.45
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 209,
+                  "share": 4.57
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3252,
+                  "share": 11.75
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3124,
+                  "share": 11.29
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3123,
+                  "share": 11.28
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3092,
+                  "share": 11.17
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3063,
+                  "share": 11.06
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3052,
+                  "share": 11.02
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3048,
+                  "share": 11.01
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2975,
+                  "share": 10.75
+                }
+              ],
+              "coverage": 0.385
+            }
+          }
+        },
+        {
+          "id": "1.3-2",
+          "version": "1.3",
+          "phase": 2,
+          "start": "2026-06-26",
+          "end": "2026-07-15",
+          "bannerNames": [
+            "Expunger of Sin"
+          ],
+          "featured": [
+            {
+              "name": "Camille",
+              "quality": 6,
+              "category": "c",
+              "count": 2366
+            }
+          ],
+          "stats": {
+            "players": 1143,
+            "totalPulls": 78685,
+            "rarities": {
+              "5": {
+                "count": 10364,
+                "rate": 13.17,
+                "avgPity": 6.9,
+                "pityDistribution": [
+                  974,
+                  828,
+                  788,
+                  695,
+                  599,
+                  584,
+                  493,
+                  443,
+                  410,
+                  4400
+                ]
+              },
+              "6": {
+                "count": 1519,
+                "rate": 1.93,
+                "avgPity": 48.7,
+                "pityDistribution": [
+                  26,
+                  16,
+                  12,
+                  16,
+                  18,
+                  10,
+                  18,
+                  17,
+                  14,
+                  11,
+                  19,
+                  11,
+                  20,
+                  18,
+                  8,
+                  14,
+                  14,
+                  15,
+                  10,
+                  18,
+                  14,
+                  7,
+                  16,
+                  14,
+                  21,
+                  16,
+                  9,
+                  6,
+                  13,
+                  18,
+                  8,
+                  16,
+                  13,
+                  16,
+                  14,
+                  10,
+                  12,
+                  12,
+                  10,
+                  12,
+                  12,
+                  12,
+                  12,
+                  12,
+                  10,
+                  18,
+                  8,
+                  11,
+                  10,
+                  14,
+                  11,
+                  13,
+                  14,
+                  8,
+                  10,
+                  9,
+                  8,
+                  14,
+                  6,
+                  10,
+                  9,
+                  7,
+                  12,
+                  9,
+                  13,
+                  46,
+                  72,
+                  77,
+                  89,
+                  92,
+                  66,
+                  57,
+                  47,
+                  29,
+                  17,
+                  11,
+                  6,
+                  6,
+                  13,
+                  7
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Camille",
+                "category": "c",
+                "quality": 6,
+                "count": 858,
+                "share": 56.48
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 109,
+                "share": 7.18
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 105,
+                "share": 6.91
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 103,
+                "share": 6.78
+              },
+              {
+                "name": "Zhuang Fangyi",
+                "category": "c",
+                "quality": 6,
+                "count": 103,
+                "share": 6.78
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 95,
+                "share": 6.25
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 93,
+                "share": 6.12
+              },
+              {
+                "name": "Mi Fu",
+                "category": "c",
+                "quality": 6,
+                "count": 53,
+                "share": 3.49
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 1198,
+                "share": 11.56
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 1178,
+                "share": 11.37
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 1176,
+                "share": 11.35
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 1147,
+                "share": 11.07
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 1142,
+                "share": 11.02
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 1139,
+                "share": 10.99
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 1139,
+                "share": 10.99
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 1131,
+                "share": 10.91
+              }
+            ],
+            "estimated": {
+              "players": 1143,
+              "totalPulls": 215397,
+              "topItems": [
+                {
+                  "name": "Camille",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 2366,
+                  "share": 56.73
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 295,
+                  "share": 7.06
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 290,
+                  "share": 6.96
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 271,
+                  "share": 6.5
+                },
+                {
+                  "name": "Zhuang Fangyi",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 271,
+                  "share": 6.5
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 259,
+                  "share": 6.2
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 247,
+                  "share": 5.93
+                },
+                {
+                  "name": "Mi Fu",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 171,
+                  "share": 4.11
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3308,
+                  "share": 11.65
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3232,
+                  "share": 11.38
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3211,
+                  "share": 11.31
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3182,
+                  "share": 11.21
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3152,
+                  "share": 11.1
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3105,
+                  "share": 10.94
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3077,
+                  "share": 10.84
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3066,
+                  "share": 10.8
+                }
+              ],
+              "coverage": 0.365
+            }
+          }
+        },
+        {
+          "id": "1.3-1",
+          "version": "1.3",
+          "phase": 1,
+          "start": "2026-06-05",
+          "end": "2026-06-26",
+          "bannerNames": [
+            "Fists of No Regrets"
+          ],
+          "featured": [
+            {
+              "name": "Mi Fu",
+              "quality": 6,
+              "category": "c",
+              "count": 2416
+            }
+          ],
+          "stats": {
+            "players": 1311,
+            "totalPulls": 75272,
+            "rarities": {
+              "5": {
+                "count": 9998,
+                "rate": 13.28,
+                "avgPity": 6.8,
+                "pityDistribution": [
+                  958,
+                  877,
+                  790,
+                  653,
+                  643,
+                  526,
+                  480,
+                  428,
+                  381,
+                  4130
+                ]
+              },
+              "6": {
+                "count": 1562,
+                "rate": 2.08,
+                "avgPity": 45.7,
+                "pityDistribution": [
+                  37,
+                  16,
+                  23,
+                  23,
+                  17,
+                  16,
+                  21,
+                  19,
+                  17,
+                  20,
+                  12,
+                  26,
+                  15,
+                  20,
+                  11,
+                  17,
+                  17,
+                  14,
+                  17,
+                  18,
+                  21,
+                  18,
+                  17,
+                  14,
+                  12,
+                  19,
+                  16,
+                  14,
+                  10,
+                  17,
+                  18,
+                  18,
+                  6,
+                  16,
+                  11,
+                  11,
+                  17,
+                  15,
+                  4,
+                  7,
+                  12,
+                  8,
+                  12,
+                  16,
+                  6,
+                  8,
+                  15,
+                  16,
+                  17,
+                  9,
+                  16,
+                  13,
+                  13,
+                  16,
+                  8,
+                  9,
+                  13,
+                  12,
+                  11,
+                  10,
+                  15,
+                  6,
+                  7,
+                  10,
+                  9,
+                  28,
+                  50,
+                  78,
+                  84,
+                  79,
+                  66,
+                  65,
+                  37,
+                  20,
+                  10,
+                  11,
+                  13,
+                  10,
+                  15,
+                  13
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Mi Fu",
+                "category": "c",
+                "quality": 6,
+                "count": 918,
+                "share": 58.77
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 103,
+                "share": 6.59
+              },
+              {
+                "name": "Rossi",
+                "category": "c",
+                "quality": 6,
+                "count": 100,
+                "share": 6.4
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 93,
+                "share": 5.95
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 92,
+                "share": 5.89
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 91,
+                "share": 5.83
+              },
+              {
+                "name": "Zhuang Fangyi",
+                "category": "c",
+                "quality": 6,
+                "count": 84,
+                "share": 5.38
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 81,
+                "share": 5.19
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 1180,
+                "share": 11.8
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 1131,
+                "share": 11.31
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 1127,
+                "share": 11.27
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 1123,
+                "share": 11.23
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 1117,
+                "share": 11.17
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 1112,
+                "share": 11.12
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 1104,
+                "share": 11.04
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 1057,
+                "share": 10.57
+              }
+            ],
+            "estimated": {
+              "players": 1311,
+              "totalPulls": 195832,
+              "topItems": [
+                {
+                  "name": "Mi Fu",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 2416,
+                  "share": 59.13
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 278,
+                  "share": 6.81
+                },
+                {
+                  "name": "Rossi",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 255,
+                  "share": 6.24
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 247,
+                  "share": 6.05
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 242,
+                  "share": 5.92
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 226,
+                  "share": 5.54
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 214,
+                  "share": 5.24
+                },
+                {
+                  "name": "Zhuang Fangyi",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 207,
+                  "share": 5.08
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3076,
+                  "share": 11.79
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2955,
+                  "share": 11.33
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2948,
+                  "share": 11.3
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2923,
+                  "share": 11.2
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2906,
+                  "share": 11.14
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2896,
+                  "share": 11.1
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2882,
+                  "share": 11.05
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2760,
+                  "share": 10.58
+                }
+              ],
+              "coverage": 0.384
+            }
+          }
+        },
+        {
+          "id": "1.2-1",
+          "version": "1.2",
+          "phase": 1,
+          "start": "2026-04-17",
+          "end": "2026-06-04",
+          "bannerNames": [
+            "Thunder of Renewal",
+            "Fest of Brilliance"
+          ],
+          "featured": [
+            {
+              "name": "Zhuang Fangyi",
+              "quality": 6,
+              "category": "c",
+              "count": 4762
+            },
+            {
+              "name": "Ardelia",
+              "quality": 6,
+              "category": "c",
+              "count": 532
+            },
+            {
+              "name": "Pogranichnik",
+              "quality": 6,
+              "category": "c",
+              "count": 502
+            }
+          ],
+          "stats": {
+            "players": 1837,
+            "totalPulls": 172623,
+            "rarities": {
+              "5": {
+                "count": 22723,
+                "rate": 13.16,
+                "avgPity": 6.9,
+                "pityDistribution": [
+                  2114,
+                  1889,
+                  1638,
+                  1486,
+                  1350,
+                  1215,
+                  1155,
+                  973,
+                  888,
+                  9848
+                ]
+              },
+              "6": {
+                "count": 3543,
+                "rate": 2.05,
+                "avgPity": 49.1,
+                "pityDistribution": [
+                  49,
+                  38,
+                  38,
+                  39,
+                  25,
+                  37,
+                  38,
+                  38,
+                  37,
+                  37,
+                  38,
+                  37,
+                  25,
+                  33,
+                  44,
+                  39,
+                  36,
+                  31,
+                  30,
+                  30,
+                  37,
+                  30,
+                  25,
+                  33,
+                  19,
+                  20,
+                  32,
+                  29,
+                  26,
+                  31,
+                  21,
+                  26,
+                  26,
+                  33,
+                  28,
+                  27,
+                  23,
+                  29,
+                  28,
+                  27,
+                  24,
+                  28,
+                  26,
+                  26,
+                  21,
+                  26,
+                  29,
+                  28,
+                  24,
+                  29,
+                  21,
+                  23,
+                  20,
+                  37,
+                  26,
+                  21,
+                  36,
+                  17,
+                  29,
+                  28,
+                  22,
+                  32,
+                  25,
+                  27,
+                  20,
+                  92,
+                  183,
+                  186,
+                  223,
+                  221,
+                  161,
+                  162,
+                  104,
+                  87,
+                  53,
+                  32,
+                  26,
+                  14,
+                  15,
+                  12
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Zhuang Fangyi",
+                "category": "c",
+                "quality": 6,
+                "count": 1966,
+                "share": 55.49
+              },
+              {
+                "name": "Rossi",
+                "category": "c",
+                "quality": 6,
+                "count": 259,
+                "share": 7.31
+              },
+              {
+                "name": "Tangtang",
+                "category": "c",
+                "quality": 6,
+                "count": 238,
+                "share": 6.72
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 224,
+                "share": 6.32
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 222,
+                "share": 6.27
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 221,
+                "share": 6.24
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 214,
+                "share": 6.04
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 199,
+                "share": 5.62
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 2602,
+                "share": 11.45
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 2582,
+                "share": 11.36
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 2560,
+                "share": 11.27
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 2559,
+                "share": 11.26
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 2540,
+                "share": 11.18
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 2500,
+                "share": 11
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 2473,
+                "share": 10.88
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 2461,
+                "share": 10.83
+              }
+            ],
+            "estimated": {
+              "players": 1837,
+              "totalPulls": 409769,
+              "topItems": [
+                {
+                  "name": "Zhuang Fangyi",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 4762,
+                  "share": 55.15
+                },
+                {
+                  "name": "Rossi",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 651,
+                  "share": 7.54
+                },
+                {
+                  "name": "Tangtang",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 597,
+                  "share": 6.92
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 552,
+                  "share": 6.4
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 532,
+                  "share": 6.16
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 521,
+                  "share": 6.03
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 517,
+                  "share": 5.99
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 502,
+                  "share": 5.81
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 6129,
+                  "share": 11.39
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 6125,
+                  "share": 11.38
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 6112,
+                  "share": 11.36
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 6055,
+                  "share": 11.25
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 6019,
+                  "share": 11.18
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 6015,
+                  "share": 11.18
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5850,
+                  "share": 10.87
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5791,
+                  "share": 10.76
+                }
+              ],
+              "coverage": 0.421
+            }
+          }
+        },
+        {
+          "id": "1.1-2",
+          "version": "1.1",
+          "phase": 2,
+          "start": "2026-03-29",
+          "end": "2026-04-16",
+          "bannerNames": [
+            "Wolf Pearl"
+          ],
+          "featured": [
+            {
+              "name": "Rossi",
+              "quality": 6,
+              "category": "c",
+              "count": 3374
+            }
+          ],
+          "stats": {
+            "players": 1717,
+            "totalPulls": 120635,
+            "rarities": {
+              "5": {
+                "count": 15969,
+                "rate": 13.24,
+                "avgPity": 6.9,
+                "pityDistribution": [
+                  1479,
+                  1317,
+                  1184,
+                  1081,
+                  903,
+                  871,
+                  789,
+                  687,
+                  582,
+                  6967
+                ]
+              },
+              "6": {
+                "count": 2324,
+                "rate": 1.93,
+                "avgPity": 48.8,
+                "pityDistribution": [
+                  29,
+                  31,
+                  25,
+                  17,
+                  21,
+                  30,
+                  24,
+                  26,
+                  31,
+                  27,
+                  23,
+                  22,
+                  25,
+                  31,
+                  19,
+                  19,
+                  33,
+                  19,
+                  18,
+                  17,
+                  20,
+                  10,
+                  17,
+                  24,
+                  12,
+                  16,
+                  22,
+                  19,
+                  17,
+                  18,
+                  27,
+                  16,
+                  8,
+                  11,
+                  18,
+                  22,
+                  24,
+                  18,
+                  16,
+                  16,
+                  14,
+                  16,
+                  15,
+                  25,
+                  20,
+                  18,
+                  15,
+                  26,
+                  19,
+                  13,
+                  12,
+                  12,
+                  24,
+                  14,
+                  19,
+                  15,
+                  22,
+                  12,
+                  19,
+                  19,
+                  12,
+                  19,
+                  12,
+                  15,
+                  14,
+                  57,
+                  105,
+                  131,
+                  164,
+                  145,
+                  121,
+                  93,
+                  57,
+                  42,
+                  35,
+                  24,
+                  19,
+                  11,
+                  18,
+                  9
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Rossi",
+                "category": "c",
+                "quality": 6,
+                "count": 1356,
+                "share": 58.35
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 165,
+                "share": 7.1
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 158,
+                "share": 6.8
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 148,
+                "share": 6.37
+              },
+              {
+                "name": "Yvonne",
+                "category": "c",
+                "quality": 6,
+                "count": 147,
+                "share": 6.33
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 138,
+                "share": 5.94
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 138,
+                "share": 5.94
+              },
+              {
+                "name": "Tangtang",
+                "category": "c",
+                "quality": 6,
+                "count": 74,
+                "share": 3.18
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 1813,
+                "share": 11.35
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 1812,
+                "share": 11.35
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 1803,
+                "share": 11.29
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 1796,
+                "share": 11.25
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 1789,
+                "share": 11.2
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 1785,
+                "share": 11.18
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 1738,
+                "share": 10.88
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 1728,
+                "share": 10.82
+              }
+            ],
+            "estimated": {
+              "players": 1717,
+              "totalPulls": 290250,
+              "topItems": [
+                {
+                  "name": "Rossi",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 3374,
+                  "share": 58.7
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 410,
+                  "share": 7.13
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 388,
+                  "share": 6.75
+                },
+                {
+                  "name": "Yvonne",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 365,
+                  "share": 6.35
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 364,
+                  "share": 6.33
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 320,
+                  "share": 5.58
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 301,
+                  "share": 5.23
+                },
+                {
+                  "name": "Tangtang",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 226,
+                  "share": 3.93
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4370,
+                  "share": 11.43
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4358,
+                  "share": 11.39
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4350,
+                  "share": 11.37
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4316,
+                  "share": 11.28
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4302,
+                  "share": 11.25
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4264,
+                  "share": 11.15
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4110,
+                  "share": 10.74
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4094,
+                  "share": 10.7
+                }
+              ],
+              "coverage": 0.416
+            }
+          }
+        },
+        {
+          "id": "1.1-1",
+          "version": "1.1",
+          "phase": 1,
+          "start": "2026-03-12",
+          "end": "2026-03-29",
+          "bannerNames": [
+            "River's Daughter"
+          ],
+          "featured": [
+            {
+              "name": "Tangtang",
+              "quality": 6,
+              "category": "c",
+              "count": 2562
+            }
+          ],
+          "stats": {
+            "players": 1663,
+            "totalPulls": 100897,
+            "rarities": {
+              "5": {
+                "count": 13291,
+                "rate": 13.17,
+                "avgPity": 6.8,
+                "pityDistribution": [
+                  1284,
+                  1068,
+                  1006,
+                  878,
+                  799,
+                  721,
+                  662,
+                  582,
+                  529,
+                  5648
+                ]
+              },
+              "6": {
+                "count": 2140,
+                "rate": 2.12,
+                "avgPity": 49.5,
+                "pityDistribution": [
+                  19,
+                  19,
+                  23,
+                  27,
+                  20,
+                  23,
+                  25,
+                  17,
+                  24,
+                  22,
+                  22,
+                  23,
+                  17,
+                  21,
+                  16,
+                  10,
+                  24,
+                  14,
+                  18,
+                  30,
+                  17,
+                  20,
+                  12,
+                  16,
+                  15,
+                  18,
+                  16,
+                  22,
+                  17,
+                  17,
+                  19,
+                  13,
+                  16,
+                  7,
+                  12,
+                  24,
+                  19,
+                  14,
+                  13,
+                  18,
+                  23,
+                  18,
+                  10,
+                  16,
+                  18,
+                  15,
+                  16,
+                  11,
+                  19,
+                  12,
+                  17,
+                  21,
+                  13,
+                  27,
+                  29,
+                  18,
+                  11,
+                  15,
+                  14,
+                  19,
+                  21,
+                  14,
+                  19,
+                  13,
+                  14,
+                  60,
+                  88,
+                  141,
+                  138,
+                  128,
+                  115,
+                  86,
+                  67,
+                  38,
+                  26,
+                  18,
+                  9,
+                  10,
+                  11,
+                  11
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Tangtang",
+                "category": "c",
+                "quality": 6,
+                "count": 1300,
+                "share": 60.75
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 135,
+                "share": 6.31
+              },
+              {
+                "name": "Gilberta",
+                "category": "c",
+                "quality": 6,
+                "count": 134,
+                "share": 6.26
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 119,
+                "share": 5.56
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 116,
+                "share": 5.42
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 116,
+                "share": 5.42
+              },
+              {
+                "name": "Yvonne",
+                "category": "c",
+                "quality": 6,
+                "count": 113,
+                "share": 5.28
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 107,
+                "share": 5
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 1557,
+                "share": 11.71
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 1500,
+                "share": 11.29
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 1484,
+                "share": 11.17
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 1483,
+                "share": 11.16
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 1478,
+                "share": 11.12
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 1466,
+                "share": 11.03
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 1464,
+                "share": 11.01
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 1438,
+                "share": 10.82
+              }
+            ],
+            "estimated": {
+              "players": 1663,
+              "totalPulls": 199113,
+              "topItems": [
+                {
+                  "name": "Tangtang",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 2562,
+                  "share": 60.86
+                },
+                {
+                  "name": "Gilberta",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 274,
+                  "share": 6.51
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 263,
+                  "share": 6.24
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 234,
+                  "share": 5.55
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 226,
+                  "share": 5.36
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 224,
+                  "share": 5.32
+                },
+                {
+                  "name": "Yvonne",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 215,
+                  "share": 5.12
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 212,
+                  "share": 5.03
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3046,
+                  "share": 11.62
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2965,
+                  "share": 11.31
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2964,
+                  "share": 11.31
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2937,
+                  "share": 11.2
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2928,
+                  "share": 11.17
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2897,
+                  "share": 11.05
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2846,
+                  "share": 10.86
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 2842,
+                  "share": 10.84
+                }
+              ],
+              "coverage": 0.507
+            }
+          }
+        },
+        {
+          "id": "1.0-3",
+          "version": "1.0",
+          "phase": 3,
+          "start": "2026-02-24",
+          "end": "2026-03-11",
+          "bannerNames": [
+            "Hues of Passion"
+          ],
+          "featured": [
+            {
+              "name": "Yvonne",
+              "quality": 6,
+              "category": "c",
+              "count": 2871
+            }
+          ],
+          "stats": {
+            "players": 2296,
+            "totalPulls": 143795,
+            "rarities": {
+              "5": {
+                "count": 19268,
+                "rate": 13.4,
+                "avgPity": 6.8,
+                "pityDistribution": [
+                  1887,
+                  1530,
+                  1460,
+                  1276,
+                  1143,
+                  1029,
+                  935,
+                  855,
+                  786,
+                  8283
+                ]
+              },
+              "6": {
+                "count": 2751,
+                "rate": 1.91,
+                "avgPity": 47.4,
+                "pityDistribution": [
+                  32,
+                  31,
+                  34,
+                  30,
+                  32,
+                  39,
+                  36,
+                  26,
+                  31,
+                  30,
+                  34,
+                  31,
+                  38,
+                  33,
+                  28,
+                  35,
+                  30,
+                  27,
+                  16,
+                  26,
+                  27,
+                  26,
+                  30,
+                  20,
+                  20,
+                  17,
+                  17,
+                  22,
+                  27,
+                  24,
+                  17,
+                  14,
+                  20,
+                  29,
+                  14,
+                  21,
+                  19,
+                  23,
+                  22,
+                  29,
+                  20,
+                  16,
+                  23,
+                  21,
+                  26,
+                  16,
+                  16,
+                  18,
+                  12,
+                  25,
+                  22,
+                  20,
+                  15,
+                  23,
+                  32,
+                  29,
+                  21,
+                  20,
+                  21,
+                  14,
+                  9,
+                  16,
+                  17,
+                  18,
+                  16,
+                  73,
+                  114,
+                  159,
+                  187,
+                  158,
+                  134,
+                  112,
+                  89,
+                  55,
+                  48,
+                  22,
+                  13,
+                  12,
+                  3,
+                  7
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Yvonne",
+                "category": "c",
+                "quality": 6,
+                "count": 1575,
+                "share": 57.25
+              },
+              {
+                "name": "Laevatain",
+                "category": "c",
+                "quality": 6,
+                "count": 197,
+                "share": 7.16
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 187,
+                "share": 6.8
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 176,
+                "share": 6.4
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 175,
+                "share": 6.36
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 171,
+                "share": 6.22
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 160,
+                "share": 5.82
+              },
+              {
+                "name": "Gilberta",
+                "category": "c",
+                "quality": 6,
+                "count": 110,
+                "share": 4
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 2269,
+                "share": 11.78
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 2196,
+                "share": 11.4
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 2186,
+                "share": 11.35
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 2176,
+                "share": 11.29
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 2143,
+                "share": 11.12
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 2093,
+                "share": 10.86
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 2075,
+                "share": 10.77
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 2074,
+                "share": 10.76
+              }
+            ],
+            "estimated": {
+              "players": 2296,
+              "totalPulls": 254815,
+              "topItems": [
+                {
+                  "name": "Yvonne",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 2871,
+                  "share": 56.57
+                },
+                {
+                  "name": "Laevatain",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 361,
+                  "share": 7.12
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 338,
+                  "share": 6.67
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 326,
+                  "share": 6.43
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 315,
+                  "share": 6.2
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 308,
+                  "share": 6.07
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 280,
+                  "share": 5.52
+                },
+                {
+                  "name": "Gilberta",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 275,
+                  "share": 5.43
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 4001,
+                  "share": 11.74
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3923,
+                  "share": 11.51
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3894,
+                  "share": 11.43
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3833,
+                  "share": 11.25
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3824,
+                  "share": 11.22
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3680,
+                  "share": 10.8
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3673,
+                  "share": 10.78
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3634,
+                  "share": 10.67
+                }
+              ],
+              "coverage": 0.564
+            }
+          }
+        },
+        {
+          "id": "1.0-2",
+          "version": "1.0",
+          "phase": 2,
+          "start": "2026-02-07",
+          "end": "2026-02-24",
+          "bannerNames": [
+            "The Floaty Messenger"
+          ],
+          "featured": [
+            {
+              "name": "Gilberta",
+              "quality": 6,
+              "category": "c",
+              "count": 3040
+            }
+          ],
+          "stats": {
+            "players": 3083,
+            "totalPulls": 220733,
+            "rarities": {
+              "5": {
+                "count": 29345,
+                "rate": 13.29,
+                "avgPity": 6.8,
+                "pityDistribution": [
+                  2661,
+                  2401,
+                  2230,
+                  2044,
+                  1689,
+                  1595,
+                  1435,
+                  1282,
+                  1168,
+                  12742
+                ]
+              },
+              "6": {
+                "count": 4418,
+                "rate": 2,
+                "avgPity": 47.4,
+                "pityDistribution": [
+                  53,
+                  50,
+                  42,
+                  52,
+                  42,
+                  65,
+                  43,
+                  47,
+                  58,
+                  49,
+                  50,
+                  57,
+                  42,
+                  38,
+                  50,
+                  52,
+                  48,
+                  43,
+                  53,
+                  51,
+                  35,
+                  49,
+                  38,
+                  43,
+                  34,
+                  37,
+                  26,
+                  39,
+                  36,
+                  26,
+                  42,
+                  34,
+                  43,
+                  30,
+                  31,
+                  25,
+                  24,
+                  39,
+                  29,
+                  28,
+                  31,
+                  32,
+                  37,
+                  30,
+                  40,
+                  36,
+                  33,
+                  33,
+                  38,
+                  34,
+                  37,
+                  46,
+                  30,
+                  27,
+                  28,
+                  28,
+                  29,
+                  30,
+                  30,
+                  35,
+                  33,
+                  32,
+                  32,
+                  24,
+                  25,
+                  117,
+                  200,
+                  272,
+                  256,
+                  286,
+                  245,
+                  191,
+                  132,
+                  76,
+                  53,
+                  32,
+                  17,
+                  13,
+                  11,
+                  4
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Gilberta",
+                "category": "c",
+                "quality": 6,
+                "count": 2604,
+                "share": 58.94
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 291,
+                "share": 6.59
+              },
+              {
+                "name": "Yvonne",
+                "category": "c",
+                "quality": 6,
+                "count": 289,
+                "share": 6.54
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 278,
+                "share": 6.29
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 277,
+                "share": 6.27
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 268,
+                "share": 6.07
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 264,
+                "share": 5.98
+              },
+              {
+                "name": "Laevatain",
+                "category": "c",
+                "quality": 6,
+                "count": 147,
+                "share": 3.33
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 3333,
+                "share": 11.36
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 3292,
+                "share": 11.22
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 3276,
+                "share": 11.16
+              },
+              {
+                "name": "Arclight",
+                "category": "c",
+                "quality": 5,
+                "count": 3274,
+                "share": 11.16
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 3268,
+                "share": 11.14
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 3259,
+                "share": 11.11
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 3255,
+                "share": 11.09
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 3209,
+                "share": 10.94
+              }
+            ],
+            "estimated": {
+              "players": 3083,
+              "totalPulls": 253265,
+              "topItems": [
+                {
+                  "name": "Gilberta",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 3040,
+                  "share": 59.18
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 335,
+                  "share": 6.52
+                },
+                {
+                  "name": "Yvonne",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 334,
+                  "share": 6.5
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 320,
+                  "share": 6.23
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 315,
+                  "share": 6.13
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 310,
+                  "share": 6.03
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 302,
+                  "share": 5.89
+                },
+                {
+                  "name": "Laevatain",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 181,
+                  "share": 3.52
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3824,
+                  "share": 11.37
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3780,
+                  "share": 11.24
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3761,
+                  "share": 11.18
+                },
+                {
+                  "name": "Arclight",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3747,
+                  "share": 11.14
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3737,
+                  "share": 11.11
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3733,
+                  "share": 11.1
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3729,
+                  "share": 11.09
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 3684,
+                  "share": 10.95
+                }
+              ],
+              "coverage": 0.872
+            }
+          }
+        },
+        {
+          "id": "1.0-1",
+          "version": "1.0",
+          "phase": 1,
+          "start": "2026-01-22",
+          "end": "2026-02-07",
+          "bannerNames": [
+            "Scars of the Forge"
+          ],
+          "featured": [
+            {
+              "name": "Laevatain",
+              "quality": 6,
+              "category": "c",
+              "count": 4247
+            }
+          ],
+          "stats": {
+            "players": 3703,
+            "totalPulls": 353788,
+            "rarities": {
+              "5": {
+                "count": 47755,
+                "rate": 13.5,
+                "avgPity": 6.7,
+                "pityDistribution": [
+                  4633,
+                  4153,
+                  3604,
+                  3365,
+                  2905,
+                  2566,
+                  2370,
+                  2059,
+                  1852,
+                  19957
+                ]
+              },
+              "6": {
+                "count": 7151,
+                "rate": 2.02,
+                "avgPity": 43.9,
+                "pityDistribution": [
+                  126,
+                  133,
+                  111,
+                  130,
+                  88,
+                  111,
+                  106,
+                  103,
+                  107,
+                  116,
+                  95,
+                  91,
+                  85,
+                  96,
+                  69,
+                  78,
+                  80,
+                  80,
+                  95,
+                  59,
+                  93,
+                  61,
+                  61,
+                  61,
+                  47,
+                  81,
+                  59,
+                  68,
+                  52,
+                  69,
+                  61,
+                  53,
+                  57,
+                  58,
+                  56,
+                  57,
+                  41,
+                  58,
+                  39,
+                  48,
+                  43,
+                  52,
+                  46,
+                  49,
+                  52,
+                  66,
+                  68,
+                  79,
+                  87,
+                  80,
+                  88,
+                  71,
+                  73,
+                  59,
+                  41,
+                  26,
+                  34,
+                  36,
+                  38,
+                  30,
+                  30,
+                  39,
+                  25,
+                  17,
+                  27,
+                  150,
+                  260,
+                  325,
+                  385,
+                  349,
+                  320,
+                  287,
+                  180,
+                  137,
+                  68,
+                  54,
+                  43,
+                  41,
+                  32,
+                  38
+                ]
+              }
+            },
+            "fiftyFifty": null,
+            "topItems": [
+              {
+                "name": "Laevatain",
+                "category": "c",
+                "quality": 6,
+                "count": 4224,
+                "share": 59.07
+              },
+              {
+                "name": "Yvonne",
+                "category": "c",
+                "quality": 6,
+                "count": 507,
+                "share": 7.09
+              },
+              {
+                "name": "Gilberta",
+                "category": "c",
+                "quality": 6,
+                "count": 447,
+                "share": 6.25
+              },
+              {
+                "name": "Lifeng",
+                "category": "c",
+                "quality": 6,
+                "count": 425,
+                "share": 5.94
+              },
+              {
+                "name": "Pogranichnik",
+                "category": "c",
+                "quality": 6,
+                "count": 406,
+                "share": 5.68
+              },
+              {
+                "name": "Ember",
+                "category": "c",
+                "quality": 6,
+                "count": 400,
+                "share": 5.59
+              },
+              {
+                "name": "Last Rite",
+                "category": "c",
+                "quality": 6,
+                "count": 375,
+                "share": 5.24
+              },
+              {
+                "name": "Ardelia",
+                "category": "c",
+                "quality": 6,
+                "count": 367,
+                "share": 5.13
+              },
+              {
+                "name": "Da Pan",
+                "category": "c",
+                "quality": 5,
+                "count": 5441,
+                "share": 11.39
+              },
+              {
+                "name": "Alesh",
+                "category": "c",
+                "quality": 5,
+                "count": 5369,
+                "share": 11.24
+              },
+              {
+                "name": "Chen Qianyu",
+                "category": "c",
+                "quality": 5,
+                "count": 5352,
+                "share": 11.21
+              },
+              {
+                "name": "Avywenna",
+                "category": "c",
+                "quality": 5,
+                "count": 5313,
+                "share": 11.13
+              },
+              {
+                "name": "Snowshine",
+                "category": "c",
+                "quality": 5,
+                "count": 5298,
+                "share": 11.09
+              },
+              {
+                "name": "Perlica",
+                "category": "c",
+                "quality": 5,
+                "count": 5258,
+                "share": 11.01
+              },
+              {
+                "name": "Wulfgard",
+                "category": "c",
+                "quality": 5,
+                "count": 5252,
+                "share": 11
+              },
+              {
+                "name": "Xaihi",
+                "category": "c",
+                "quality": 5,
+                "count": 5252,
+                "share": 11
+              }
+            ],
+            "estimated": {
+              "players": 3703,
+              "totalPulls": 354696,
+              "topItems": [
+                {
+                  "name": "Laevatain",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 4247,
+                  "share": 59.14
+                },
+                {
+                  "name": "Yvonne",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 508,
+                  "share": 7.07
+                },
+                {
+                  "name": "Gilberta",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 448,
+                  "share": 6.25
+                },
+                {
+                  "name": "Lifeng",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 426,
+                  "share": 5.94
+                },
+                {
+                  "name": "Pogranichnik",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 407,
+                  "share": 5.67
+                },
+                {
+                  "name": "Ember",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 401,
+                  "share": 5.58
+                },
+                {
+                  "name": "Last Rite",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 376,
+                  "share": 5.23
+                },
+                {
+                  "name": "Ardelia",
+                  "category": "c",
+                  "quality": 6,
+                  "count": 368,
+                  "share": 5.12
+                },
+                {
+                  "name": "Da Pan",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5454,
+                  "share": 11.39
+                },
+                {
+                  "name": "Alesh",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5381,
+                  "share": 11.24
+                },
+                {
+                  "name": "Chen Qianyu",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5365,
+                  "share": 11.21
+                },
+                {
+                  "name": "Avywenna",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5325,
+                  "share": 11.12
+                },
+                {
+                  "name": "Snowshine",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5311,
+                  "share": 11.09
+                },
+                {
+                  "name": "Perlica",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5271,
+                  "share": 11.01
+                },
+                {
+                  "name": "Wulfgard",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5265,
+                  "share": 11
+                },
+                {
+                  "name": "Xaihi",
+                  "category": "c",
+                  "quality": 5,
+                  "count": 5263,
+                  "share": 11
+                }
+              ],
+              "coverage": 0.997
+            }
+          }
+        }
+      ]
+    },
+    "arsenal": {
+      "players": 5634,
+      "totalPulls": 1017262,
+      "rarities": {
+        "5": {
+          "count": 174584,
+          "rate": 17.16,
+          "avgPity": 4.7,
+          "pityDistribution": [
+            34372,
+            27047,
+            21598,
+            17302,
+            14021,
+            11156,
+            8879,
+            7106,
+            5540,
+            24744
+          ]
+        },
+        "6": {
+          "count": 52772,
+          "rate": 5.19,
+          "avgPity": 18.6,
+          "pityDistribution": [
+            2534,
+            2377,
+            2258,
+            2117,
+            2103,
+            1966,
+            1859,
+            1741,
+            1625,
+            1737,
+            1545,
+            1456,
+            1379,
+            1307,
+            1207,
+            1166,
+            1158,
+            1102,
+            1041,
+            894,
+            980,
+            872,
+            796,
+            831,
+            777,
+            767,
+            721,
+            668,
+            707,
+            695,
+            627,
+            597,
+            521,
+            516,
+            512,
+            447,
+            466,
+            425,
+            436,
+            4811
+          ]
+        }
+      },
+      "fiftyFifty": null,
+      "topItems": [
+        {
+          "name": "Wedge",
+          "category": "w",
+          "quality": 6,
+          "count": 4817,
+          "share": 9.13
+        },
+        {
+          "name": "Forgeborn Scathe",
+          "category": "w",
+          "quality": 6,
+          "count": 3838,
+          "share": 7.27
+        },
+        {
+          "name": "Chivalric Virtues",
+          "category": "w",
+          "quality": 6,
+          "count": 3525,
+          "share": 6.68
+        },
+        {
+          "name": "Valiant",
+          "category": "w",
+          "quality": 6,
+          "count": 2980,
+          "share": 5.65
+        },
+        {
+          "name": "Clannibal",
+          "category": "w",
+          "quality": 6,
+          "count": 2908,
+          "share": 5.51
+        },
+        {
+          "name": "JET",
+          "category": "w",
+          "quality": 6,
+          "count": 2884,
+          "share": 5.47
+        },
+        {
+          "name": "White Night Nova",
+          "category": "w",
+          "quality": 6,
+          "count": 2767,
+          "share": 5.24
+        },
+        {
+          "name": "Former Finery",
+          "category": "w",
+          "quality": 6,
+          "count": 2739,
+          "share": 5.19
+        },
+        {
+          "name": "Stanza of Memorials",
+          "category": "w",
+          "quality": 5,
+          "count": 8473,
+          "share": 4.85
+        },
+        {
+          "name": "Monaihe",
+          "category": "w",
+          "quality": 5,
+          "count": 8434,
+          "share": 4.83
+        },
+        {
+          "name": "Twelve Questions",
+          "category": "w",
+          "quality": 5,
+          "count": 8398,
+          "share": 4.81
+        },
+        {
+          "name": "Opus: The Living",
+          "category": "w",
+          "quality": 5,
+          "count": 8396,
+          "share": 4.81
+        },
+        {
+          "name": "Wild Wanderer",
+          "category": "w",
+          "quality": 5,
+          "count": 8391,
+          "share": 4.81
+        },
+        {
+          "name": "Aspirant",
+          "category": "w",
+          "quality": 5,
+          "count": 8364,
+          "share": 4.79
+        },
+        {
+          "name": "OBJ Edge of Lightness",
+          "category": "w",
+          "quality": 5,
+          "count": 8347,
+          "share": 4.78
+        },
+        {
+          "name": "OBJ Razorhorn",
+          "category": "w",
+          "quality": 5,
+          "count": 8336,
+          "share": 4.77
+        }
+      ],
+      "estimated": {
+        "players": 5634,
+        "totalPulls": 1992076,
+        "topItems": [
+          {
+            "name": "Wedge",
+            "category": "w",
+            "quality": 6,
+            "count": 8526,
+            "share": 8.18
+          },
+          {
+            "name": "JET",
+            "category": "w",
+            "quality": 6,
+            "count": 6432,
+            "share": 6.17
+          },
+          {
+            "name": "Chivalric Virtues",
+            "category": "w",
+            "quality": 6,
+            "count": 5837,
+            "share": 5.6
+          },
+          {
+            "name": "Valiant",
+            "category": "w",
+            "quality": 6,
+            "count": 5774,
+            "share": 5.54
+          },
+          {
+            "name": "Clannibal",
+            "category": "w",
+            "quality": 6,
+            "count": 5385,
+            "share": 5.17
+          },
+          {
+            "name": "Oblivion",
+            "category": "w",
+            "quality": 6,
+            "count": 4980,
+            "share": 4.78
+          },
+          {
+            "name": "Detonation Unit",
+            "category": "w",
+            "quality": 6,
+            "count": 4812,
+            "share": 4.62
+          },
+          {
+            "name": "Former Finery",
+            "category": "w",
+            "quality": 6,
+            "count": 4804,
+            "share": 4.61
+          },
+          {
+            "name": "Wild Wanderer",
+            "category": "w",
+            "quality": 5,
+            "count": 16664,
+            "share": 4.89
+          },
+          {
+            "name": "Monaihe",
+            "category": "w",
+            "quality": 5,
+            "count": 16567,
+            "share": 4.86
+          },
+          {
+            "name": "Stanza of Memorials",
+            "category": "w",
+            "quality": 5,
+            "count": 16540,
+            "share": 4.85
+          },
+          {
+            "name": "Opus: The Living",
+            "category": "w",
+            "quality": 5,
+            "count": 16523,
+            "share": 4.85
+          },
+          {
+            "name": "Twelve Questions",
+            "category": "w",
+            "quality": 5,
+            "count": 16510,
+            "share": 4.84
+          },
+          {
+            "name": "Sundering Steel",
+            "category": "w",
+            "quality": 5,
+            "count": 16355,
+            "share": 4.8
+          },
+          {
+            "name": "OBJ Edge of Lightness",
+            "category": "w",
+            "quality": 5,
+            "count": 16318,
+            "share": 4.78
+          },
+          {
+            "name": "OBJ Heavy Burden",
+            "category": "w",
+            "quality": 5,
+            "count": 16272,
+            "share": 4.77
+          }
+        ],
+        "coverage": 0.511
+      }
+    },
+    "standard": {
+      "players": 5652,
+      "totalPulls": 508911,
+      "rarities": {
+        "5": {
+          "count": 70135,
+          "rate": 13.78,
+          "avgPity": 6.7,
+          "pityDistribution": [
+            6793,
+            6013,
+            5399,
+            4841,
+            4471,
+            3884,
+            3417,
+            3113,
+            2770,
+            29363
+          ]
+        },
+        "6": {
+          "count": 8789,
+          "rate": 1.73,
+          "avgPity": 42.6,
+          "pityDistribution": [
+            168,
+            132,
+            135,
+            129,
+            138,
+            148,
+            158,
+            133,
+            127,
+            111,
+            119,
+            120,
+            105,
+            116,
+            107,
+            125,
+            122,
+            106,
+            119,
+            114,
+            99,
+            87,
+            107,
+            82,
+            94,
+            91,
+            98,
+            78,
+            85,
+            97,
+            75,
+            91,
+            90,
+            71,
+            71,
+            70,
+            64,
+            71,
+            77,
+            68,
+            52,
+            61,
+            47,
+            58,
+            54,
+            50,
+            64,
+            62,
+            53,
+            49,
+            53,
+            57,
+            50,
+            59,
+            48,
+            50,
+            50,
+            45,
+            33,
+            37,
+            45,
+            46,
+            24,
+            42,
+            42,
+            204,
+            334,
+            456,
+            498,
+            470,
+            447,
+            347,
+            268,
+            129,
+            113,
+            46,
+            25,
+            14,
+            5,
+            0
+          ]
+        }
+      },
+      "fiftyFifty": null,
+      "topItems": [
+        {
+          "name": "Pogranichnik",
+          "category": "c",
+          "quality": 6,
+          "count": 1812,
+          "share": 20.62
+        },
+        {
+          "name": "Ardelia",
+          "category": "c",
+          "quality": 6,
+          "count": 1784,
+          "share": 20.3
+        },
+        {
+          "name": "Last Rite",
+          "category": "c",
+          "quality": 6,
+          "count": 1782,
+          "share": 20.28
+        },
+        {
+          "name": "Ember",
+          "category": "c",
+          "quality": 6,
+          "count": 1708,
+          "share": 19.43
+        },
+        {
+          "name": "Lifeng",
+          "category": "c",
+          "quality": 6,
+          "count": 1703,
+          "share": 19.38
+        },
+        {
+          "name": "Snowshine",
+          "category": "c",
+          "quality": 5,
+          "count": 7924,
+          "share": 11.3
+        },
+        {
+          "name": "Chen Qianyu",
+          "category": "c",
+          "quality": 5,
+          "count": 7874,
+          "share": 11.23
+        },
+        {
+          "name": "Perlica",
+          "category": "c",
+          "quality": 5,
+          "count": 7846,
+          "share": 11.19
+        },
+        {
+          "name": "Alesh",
+          "category": "c",
+          "quality": 5,
+          "count": 7819,
+          "share": 11.15
+        },
+        {
+          "name": "Xaihi",
+          "category": "c",
+          "quality": 5,
+          "count": 7793,
+          "share": 11.11
+        },
+        {
+          "name": "Avywenna",
+          "category": "c",
+          "quality": 5,
+          "count": 7773,
+          "share": 11.08
+        },
+        {
+          "name": "Arclight",
+          "category": "c",
+          "quality": 5,
+          "count": 7761,
+          "share": 11.07
+        },
+        {
+          "name": "Wulfgard",
+          "category": "c",
+          "quality": 5,
+          "count": 7760,
+          "share": 11.06
+        }
+      ],
+      "estimated": {
+        "players": 5652,
+        "totalPulls": 854067,
+        "topItems": [
+          {
+            "name": "Pogranichnik",
+            "category": "c",
+            "quality": 6,
+            "count": 3202,
+            "share": 20.98
+          },
+          {
+            "name": "Ardelia",
+            "category": "c",
+            "quality": 6,
+            "count": 3114,
+            "share": 20.41
+          },
+          {
+            "name": "Last Rite",
+            "category": "c",
+            "quality": 6,
+            "count": 3064,
+            "share": 20.08
+          },
+          {
+            "name": "Lifeng",
+            "category": "c",
+            "quality": 6,
+            "count": 2946,
+            "share": 19.31
+          },
+          {
+            "name": "Ember",
+            "category": "c",
+            "quality": 6,
+            "count": 2934,
+            "share": 19.23
+          },
+          {
+            "name": "Snowshine",
+            "category": "c",
+            "quality": 5,
+            "count": 13317,
+            "share": 11.36
+          },
+          {
+            "name": "Alesh",
+            "category": "c",
+            "quality": 5,
+            "count": 13212,
+            "share": 11.27
+          },
+          {
+            "name": "Avywenna",
+            "category": "c",
+            "quality": 5,
+            "count": 13137,
+            "share": 11.21
+          },
+          {
+            "name": "Chen Qianyu",
+            "category": "c",
+            "quality": 5,
+            "count": 13114,
+            "share": 11.19
+          },
+          {
+            "name": "Wulfgard",
+            "category": "c",
+            "quality": 5,
+            "count": 13094,
+            "share": 11.17
+          },
+          {
+            "name": "Arclight",
+            "category": "c",
+            "quality": 5,
+            "count": 12907,
+            "share": 11.01
+          },
+          {
+            "name": "Xaihi",
+            "category": "c",
+            "quality": 5,
+            "count": 12903,
+            "share": 11.01
+          },
+          {
+            "name": "Perlica",
+            "category": "c",
+            "quality": 5,
+            "count": 12901,
+            "share": 11.01
+          }
+        ],
+        "coverage": 0.596
+      }
+    }
+  },
+  "methodology": {
+    "stalePlayers": 5226,
+    "medianDaysSinceImport": 219,
+    "halfLifeWeeks": 52
+  }
+}
