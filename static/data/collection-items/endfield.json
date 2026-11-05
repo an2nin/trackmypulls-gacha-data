@@ -19,6 +19,15 @@
       }
     },
     {
+      "name": "Argent Flow",
+      "quality": "6",
+      "attributes": {
+        "elements": "electric",
+        "weapons": "sword",
+        "classes": "guard"
+      }
+    },
+    {
       "name": "Camille",
       "quality": "6",
       "attributes": {
@@ -449,6 +458,13 @@
         "weapons": "greatsword"
       },
       "isNonGacha": true
+    },
+    {
+      "name": "Lunar Calling",
+      "quality": "6",
+      "attributes": {
+        "weapons": "sword"
+      }
     },
     {
       "name": "Lupine Scarlet",
