@@ -169,6 +169,14 @@
       }
     },
     {
+      "name": "Lily",
+      "quality": "5",
+      "attributes": {
+        "elements": "spectro",
+        "weapons": "pistols"
+      }
+    },
+    {
       "name": "Lingyang",
       "quality": "5",
       "attributes": {
@@ -603,6 +611,13 @@
       "quality": "5",
       "attributes": {
         "weapons": "rectifier"
+      }
+    },
+    {
+      "name": "Lullaby",
+      "quality": "5",
+      "attributes": {
+        "weapons": "pistols"
       }
     },
     {
