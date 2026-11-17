@@ -720,6 +720,14 @@
       }
     },
     {
+      "id": 14163,
+      "name": "Incarcerating Grip",
+      "quality": "4",
+      "attributes": {
+        "specialties": "attack"
+      }
+    },
+    {
       "id": 14156,
       "name": "Joyau Dore",
       "quality": "4",
@@ -837,14 +845,6 @@
       "quality": "4",
       "attributes": {
         "specialties": "anomaly"
-      }
-    },
-    {
-      "id": 14163,
-      "name": "Sin-Ban Cage",
-      "quality": "4",
-      "attributes": {
-        "specialties": "attack"
       }
     },
     {
