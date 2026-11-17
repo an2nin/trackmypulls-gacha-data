@@ -302,7 +302,8 @@
       "name": "Severian",
       "quality": "4",
       "attributes": {
-        "specialties": "attack"
+        "specialties": "attack",
+        "elements": "wind"
       }
     },
     {
