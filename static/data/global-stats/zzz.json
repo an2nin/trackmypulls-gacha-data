@@ -1,0 +1,1426 @@
+{
+  "game": "zzz",
+  "updatedAt": "2026-11-21T13:27:22.192Z",
+  "summary": {
+    "players": 68,
+    "totalPulls": 76849,
+    "topRarityPulls": 1366,
+    "estimated": {
+      "players": 68,
+      "totalPulls": 77068,
+      "topRarityPulls": 1370,
+      "coverage": 0.997
+    }
+  },
+  "banners": {
+    "exclusive": {
+      "players": 68,
+      "totalPulls": 34773,
+      "rarities": {
+        "3": {
+          "count": 4982,
+          "rate": 14.33,
+          "avgPity": 6.5,
+          "pityDistribution": [
+            534,
+            451,
+            430,
+            330,
+            314,
+            302,
+            237,
+            256,
+            202,
+            1921
+          ]
+        },
+        "4": {
+          "count": 559,
+          "rate": 1.61,
+          "avgPity": 60,
+          "pityDistribution": [
+            0,
+            5,
+            3,
+            4,
+            3,
+            3,
+            8,
+            1,
+            6,
+            4,
+            2,
+            5,
+            6,
+            2,
+            5,
+            3,
+            4,
+            1,
+            2,
+            6,
+            1,
+            2,
+            5,
+            2,
+            2,
+            2,
+            5,
+            4,
+            4,
+            4,
+            3,
+            5,
+            5,
+            1,
+            2,
+            1,
+            2,
+            1,
+            4,
+            4,
+            5,
+            4,
+            3,
+            4,
+            3,
+            2,
+            4,
+            4,
+            2,
+            1,
+            3,
+            5,
+            6,
+            1,
+            4,
+            3,
+            3,
+            2,
+            1,
+            5,
+            1,
+            4,
+            3,
+            3,
+            4,
+            7,
+            3,
+            2,
+            0,
+            6,
+            1,
+            2,
+            3,
+            25,
+            33,
+            52,
+            58,
+            45,
+            44,
+            29,
+            12,
+            18,
+            4,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "fiftyFifty": {
+        "won": 204,
+        "lost": 185,
+        "winRate": 52.44
+      },
+      "topItems": [
+        {
+          "name": "Remielle",
+          "category": "c",
+          "quality": 4,
+          "count": 67,
+          "share": 11.99
+        },
+        {
+          "name": "Velina",
+          "category": "c",
+          "quality": 4,
+          "count": 48,
+          "share": 8.59
+        },
+        {
+          "name": "Lycaon",
+          "category": "c",
+          "quality": 4,
+          "count": 34,
+          "share": 6.08
+        },
+        {
+          "name": "Grace",
+          "category": "c",
+          "quality": 4,
+          "count": 27,
+          "share": 4.83
+        },
+        {
+          "name": "Soldier 11",
+          "category": "c",
+          "quality": 4,
+          "count": 26,
+          "share": 4.65
+        },
+        {
+          "name": "Rina",
+          "category": "c",
+          "quality": 4,
+          "count": 23,
+          "share": 4.11
+        },
+        {
+          "name": "Nekomata",
+          "category": "c",
+          "quality": 4,
+          "count": 21,
+          "share": 3.76
+        },
+        {
+          "name": "Phoenix",
+          "category": "c",
+          "quality": 4,
+          "count": 19,
+          "share": 3.4
+        },
+        {
+          "name": "Piper",
+          "category": "c",
+          "quality": 3,
+          "count": 640,
+          "share": 12.85
+        },
+        {
+          "name": "Nicole",
+          "category": "c",
+          "quality": 3,
+          "count": 460,
+          "share": 9.23
+        },
+        {
+          "name": "Lucy",
+          "category": "c",
+          "quality": 3,
+          "count": 423,
+          "share": 8.49
+        },
+        {
+          "name": "Seth",
+          "category": "c",
+          "quality": 3,
+          "count": 387,
+          "share": 7.77
+        },
+        {
+          "name": "Manato",
+          "category": "c",
+          "quality": 3,
+          "count": 361,
+          "share": 7.25
+        },
+        {
+          "name": "Soukaku",
+          "category": "c",
+          "quality": 3,
+          "count": 313,
+          "share": 6.28
+        },
+        {
+          "name": "Pulchra",
+          "category": "c",
+          "quality": 3,
+          "count": 289,
+          "share": 5.8
+        },
+        {
+          "name": "Corin",
+          "category": "c",
+          "quality": 3,
+          "count": 272,
+          "share": 5.46
+        }
+      ],
+      "estimated": {
+        "players": 68,
+        "totalPulls": 34903,
+        "topItems": [
+          {
+            "name": "Remielle",
+            "category": "c",
+            "quality": 4,
+            "count": 67,
+            "share": 11.94
+          },
+          {
+            "name": "Velina",
+            "category": "c",
+            "quality": 4,
+            "count": 49,
+            "share": 8.66
+          },
+          {
+            "name": "Lycaon",
+            "category": "c",
+            "quality": 4,
+            "count": 34,
+            "share": 6.07
+          },
+          {
+            "name": "Grace",
+            "category": "c",
+            "quality": 4,
+            "count": 27,
+            "share": 4.81
+          },
+          {
+            "name": "Soldier 11",
+            "category": "c",
+            "quality": 4,
+            "count": 26,
+            "share": 4.63
+          },
+          {
+            "name": "Rina",
+            "category": "c",
+            "quality": 4,
+            "count": 23,
+            "share": 4.12
+          },
+          {
+            "name": "Nekomata",
+            "category": "c",
+            "quality": 4,
+            "count": 21,
+            "share": 3.77
+          },
+          {
+            "name": "Phoenix",
+            "category": "c",
+            "quality": 4,
+            "count": 20,
+            "share": 3.54
+          },
+          {
+            "name": "Piper",
+            "category": "c",
+            "quality": 3,
+            "count": 641,
+            "share": 12.82
+          },
+          {
+            "name": "Nicole",
+            "category": "c",
+            "quality": 3,
+            "count": 462,
+            "share": 9.23
+          },
+          {
+            "name": "Lucy",
+            "category": "c",
+            "quality": 3,
+            "count": 425,
+            "share": 8.5
+          },
+          {
+            "name": "Seth",
+            "category": "c",
+            "quality": 3,
+            "count": 389,
+            "share": 7.78
+          },
+          {
+            "name": "Manato",
+            "category": "c",
+            "quality": 3,
+            "count": 363,
+            "share": 7.26
+          },
+          {
+            "name": "Soukaku",
+            "category": "c",
+            "quality": 3,
+            "count": 313,
+            "share": 6.27
+          },
+          {
+            "name": "Pulchra",
+            "category": "c",
+            "quality": 3,
+            "count": 290,
+            "share": 5.8
+          },
+          {
+            "name": "Corin",
+            "category": "c",
+            "quality": 3,
+            "count": 272,
+            "share": 5.45
+          }
+        ],
+        "coverage": 0.996
+      }
+    },
+    "wengine": {
+      "players": 55,
+      "totalPulls": 9477,
+      "rarities": {
+        "3": {
+          "count": 1698,
+          "rate": 17.92,
+          "avgPity": 5.1,
+          "pityDistribution": [
+            271,
+            218,
+            202,
+            182,
+            141,
+            118,
+            87,
+            69,
+            64,
+            344
+          ]
+        },
+        "4": {
+          "count": 192,
+          "rate": 2.03,
+          "avgPity": 48.2,
+          "pityDistribution": [
+            1,
+            0,
+            1,
+            2,
+            1,
+            4,
+            2,
+            2,
+            3,
+            2,
+            3,
+            1,
+            0,
+            5,
+            1,
+            0,
+            2,
+            2,
+            1,
+            5,
+            1,
+            4,
+            0,
+            2,
+            3,
+            1,
+            2,
+            2,
+            2,
+            0,
+            0,
+            2,
+            1,
+            1,
+            2,
+            5,
+            1,
+            4,
+            0,
+            3,
+            0,
+            0,
+            1,
+            4,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            2,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            5,
+            2,
+            4,
+            4,
+            3,
+            5,
+            13,
+            13,
+            12,
+            11,
+            14,
+            4,
+            8,
+            2,
+            2,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "fiftyFifty": {
+        "won": 124,
+        "lost": 35,
+        "winRate": 77.99
+      },
+      "topItems": [
+        {
+          "name": "Ode of Resurrected Wings",
+          "category": "w",
+          "quality": 4,
+          "count": 42,
+          "share": 21.88
+        },
+        {
+          "name": "Joyau Dore",
+          "category": "w",
+          "quality": 4,
+          "count": 18,
+          "share": 9.38
+        },
+        {
+          "name": "Plume of Rebirth",
+          "category": "w",
+          "quality": 4,
+          "count": 10,
+          "share": 5.21
+        },
+        {
+          "name": "Cloudcleave Radiance",
+          "category": "w",
+          "quality": 4,
+          "count": 8,
+          "share": 4.17
+        },
+        {
+          "name": "Crimson Thirst",
+          "category": "w",
+          "quality": 4,
+          "count": 7,
+          "share": 3.65
+        },
+        {
+          "name": "Fusion Compiler",
+          "category": "w",
+          "quality": 4,
+          "count": 7,
+          "share": 3.65
+        },
+        {
+          "name": "The Brimstone",
+          "category": "w",
+          "quality": 4,
+          "count": 7,
+          "share": 3.65
+        },
+        {
+          "name": "Chief Sidekick",
+          "category": "w",
+          "quality": 4,
+          "count": 6,
+          "share": 3.13
+        },
+        {
+          "name": "Roaring Ride",
+          "category": "w",
+          "quality": 3,
+          "count": 291,
+          "share": 17.14
+        },
+        {
+          "name": "The Vault",
+          "category": "w",
+          "quality": 3,
+          "count": 202,
+          "share": 11.9
+        },
+        {
+          "name": "Kaboom the Cannon",
+          "category": "w",
+          "quality": 3,
+          "count": 193,
+          "share": 11.37
+        },
+        {
+          "name": "Peacekeeper - Specialized",
+          "category": "w",
+          "quality": 3,
+          "count": 152,
+          "share": 8.95
+        },
+        {
+          "name": "Bashful Demon",
+          "category": "w",
+          "quality": 3,
+          "count": 105,
+          "share": 6.18
+        },
+        {
+          "name": "Grill O'Wisp",
+          "category": "w",
+          "quality": 3,
+          "count": 100,
+          "share": 5.89
+        },
+        {
+          "name": "Box Cutter",
+          "category": "w",
+          "quality": 3,
+          "count": 94,
+          "share": 5.54
+        },
+        {
+          "name": "Starlight Engine Replica",
+          "category": "w",
+          "quality": 3,
+          "count": 75,
+          "share": 4.42
+        }
+      ],
+      "estimated": {
+        "players": 55,
+        "totalPulls": 9525,
+        "topItems": [
+          {
+            "name": "Ode of Resurrected Wings",
+            "category": "w",
+            "quality": 4,
+            "count": 42,
+            "share": 21.75
+          },
+          {
+            "name": "Joyau Dore",
+            "category": "w",
+            "quality": 4,
+            "count": 18,
+            "share": 9.51
+          },
+          {
+            "name": "Plume of Rebirth",
+            "category": "w",
+            "quality": 4,
+            "count": 11,
+            "share": 5.45
+          },
+          {
+            "name": "Cloudcleave Radiance",
+            "category": "w",
+            "quality": 4,
+            "count": 8,
+            "share": 4.14
+          },
+          {
+            "name": "Fusion Compiler",
+            "category": "w",
+            "quality": 4,
+            "count": 7,
+            "share": 3.66
+          },
+          {
+            "name": "The Brimstone",
+            "category": "w",
+            "quality": 4,
+            "count": 7,
+            "share": 3.66
+          },
+          {
+            "name": "Crimson Thirst",
+            "category": "w",
+            "quality": 4,
+            "count": 7,
+            "share": 3.62
+          },
+          {
+            "name": "Timeweaver",
+            "category": "w",
+            "quality": 4,
+            "count": 6,
+            "share": 3.15
+          },
+          {
+            "name": "Roaring Ride",
+            "category": "w",
+            "quality": 3,
+            "count": 292,
+            "share": 17.09
+          },
+          {
+            "name": "The Vault",
+            "category": "w",
+            "quality": 3,
+            "count": 203,
+            "share": 11.87
+          },
+          {
+            "name": "Kaboom the Cannon",
+            "category": "w",
+            "quality": 3,
+            "count": 196,
+            "share": 11.48
+          },
+          {
+            "name": "Peacekeeper - Specialized",
+            "category": "w",
+            "quality": 3,
+            "count": 153,
+            "share": 8.99
+          },
+          {
+            "name": "Bashful Demon",
+            "category": "w",
+            "quality": 3,
+            "count": 105,
+            "share": 6.16
+          },
+          {
+            "name": "Grill O'Wisp",
+            "category": "w",
+            "quality": 3,
+            "count": 100,
+            "share": 5.89
+          },
+          {
+            "name": "Box Cutter",
+            "category": "w",
+            "quality": 3,
+            "count": 94,
+            "share": 5.51
+          },
+          {
+            "name": "Starlight Engine Replica",
+            "category": "w",
+            "quality": 3,
+            "count": 75,
+            "share": 4.4
+          }
+        ],
+        "coverage": 0.995
+      }
+    },
+    "stable": {
+      "players": 67,
+      "totalPulls": 10369,
+      "rarities": {
+        "3": {
+          "count": 1518,
+          "rate": 14.64,
+          "avgPity": 6.3,
+          "pityDistribution": [
+            171,
+            143,
+            123,
+            135,
+            92,
+            87,
+            69,
+            68,
+            78,
+            550
+          ]
+        },
+        "4": {
+          "count": 177,
+          "rate": 1.71,
+          "avgPity": 47.7,
+          "pityDistribution": [
+            5,
+            1,
+            4,
+            1,
+            6,
+            2,
+            3,
+            1,
+            3,
+            1,
+            2,
+            2,
+            2,
+            4,
+            4,
+            0,
+            1,
+            3,
+            4,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            1,
+            3,
+            1,
+            0,
+            4,
+            0,
+            2,
+            2,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            3,
+            0,
+            2,
+            0,
+            1,
+            0,
+            1,
+            3,
+            16,
+            4,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            3,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            2,
+            0,
+            1,
+            8,
+            6,
+            14,
+            10,
+            4,
+            3,
+            9,
+            2,
+            3,
+            2,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "fiftyFifty": null,
+      "topItems": [
+        {
+          "name": "Nekomata",
+          "category": "c",
+          "quality": 4,
+          "count": 24,
+          "share": 13.56
+        },
+        {
+          "name": "Grace",
+          "category": "c",
+          "quality": 4,
+          "count": 22,
+          "share": 12.43
+        },
+        {
+          "name": "Weeping Cradle",
+          "category": "w",
+          "quality": 4,
+          "count": 18,
+          "share": 10.17
+        },
+        {
+          "name": "Rina",
+          "category": "c",
+          "quality": 4,
+          "count": 17,
+          "share": 9.6
+        },
+        {
+          "name": "Steel Cushion",
+          "category": "w",
+          "quality": 4,
+          "count": 17,
+          "share": 9.6
+        },
+        {
+          "name": "The Restrained",
+          "category": "w",
+          "quality": 4,
+          "count": 15,
+          "share": 8.47
+        },
+        {
+          "name": "Koleda",
+          "category": "c",
+          "quality": 4,
+          "count": 14,
+          "share": 7.91
+        },
+        {
+          "name": "Fusion Compiler",
+          "category": "w",
+          "quality": 4,
+          "count": 13,
+          "share": 7.34
+        },
+        {
+          "name": "Soukaku",
+          "category": "c",
+          "quality": 3,
+          "count": 68,
+          "share": 4.48
+        },
+        {
+          "name": "Anton",
+          "category": "c",
+          "quality": 3,
+          "count": 64,
+          "share": 4.22
+        },
+        {
+          "name": "Billy",
+          "category": "c",
+          "quality": 3,
+          "count": 63,
+          "share": 4.15
+        },
+        {
+          "name": "Corin",
+          "category": "c",
+          "quality": 3,
+          "count": 63,
+          "share": 4.15
+        },
+        {
+          "name": "Piper",
+          "category": "c",
+          "quality": 3,
+          "count": 62,
+          "share": 4.08
+        },
+        {
+          "name": "Nicole",
+          "category": "c",
+          "quality": 3,
+          "count": 60,
+          "share": 3.95
+        },
+        {
+          "name": "Anby",
+          "category": "c",
+          "quality": 3,
+          "count": 58,
+          "share": 3.82
+        },
+        {
+          "name": "Ben",
+          "category": "c",
+          "quality": 3,
+          "count": 56,
+          "share": 3.69
+        }
+      ],
+      "estimated": {
+        "players": 67,
+        "totalPulls": 10384,
+        "topItems": [
+          {
+            "name": "Nekomata",
+            "category": "c",
+            "quality": 4,
+            "count": 24,
+            "share": 13.55
+          },
+          {
+            "name": "Grace",
+            "category": "c",
+            "quality": 4,
+            "count": 22,
+            "share": 12.42
+          },
+          {
+            "name": "Weeping Cradle",
+            "category": "w",
+            "quality": 4,
+            "count": 18,
+            "share": 10.17
+          },
+          {
+            "name": "Rina",
+            "category": "c",
+            "quality": 4,
+            "count": 17,
+            "share": 9.6
+          },
+          {
+            "name": "Steel Cushion",
+            "category": "w",
+            "quality": 4,
+            "count": 17,
+            "share": 9.6
+          },
+          {
+            "name": "The Restrained",
+            "category": "w",
+            "quality": 4,
+            "count": 15,
+            "share": 8.47
+          },
+          {
+            "name": "Koleda",
+            "category": "c",
+            "quality": 4,
+            "count": 14,
+            "share": 7.91
+          },
+          {
+            "name": "Fusion Compiler",
+            "category": "w",
+            "quality": 4,
+            "count": 13,
+            "share": 7.38
+          },
+          {
+            "name": "Soukaku",
+            "category": "c",
+            "quality": 3,
+            "count": 68,
+            "share": 4.49
+          },
+          {
+            "name": "Anton",
+            "category": "c",
+            "quality": 3,
+            "count": 64,
+            "share": 4.21
+          },
+          {
+            "name": "Billy",
+            "category": "c",
+            "quality": 3,
+            "count": 63,
+            "share": 4.15
+          },
+          {
+            "name": "Corin",
+            "category": "c",
+            "quality": 3,
+            "count": 63,
+            "share": 4.14
+          },
+          {
+            "name": "Piper",
+            "category": "c",
+            "quality": 3,
+            "count": 62,
+            "share": 4.08
+          },
+          {
+            "name": "Nicole",
+            "category": "c",
+            "quality": 3,
+            "count": 60,
+            "share": 3.96
+          },
+          {
+            "name": "Anby",
+            "category": "c",
+            "quality": 3,
+            "count": 58,
+            "share": 3.81
+          },
+          {
+            "name": "Ben",
+            "category": "c",
+            "quality": 3,
+            "count": 56,
+            "share": 3.7
+          }
+        ],
+        "coverage": 0.999
+      }
+    },
+    "bangboo": {
+      "players": 66,
+      "totalPulls": 22230,
+      "rarities": {
+        "3": {
+          "count": 4028,
+          "rate": 18.12,
+          "avgPity": 5.1,
+          "pityDistribution": [
+            693,
+            538,
+            431,
+            388,
+            320,
+            269,
+            211,
+            193,
+            150,
+            834
+          ]
+        },
+        "4": {
+          "count": 438,
+          "rate": 1.97,
+          "avgPity": 47.4,
+          "pityDistribution": [
+            9,
+            4,
+            1,
+            3,
+            4,
+            7,
+            2,
+            3,
+            8,
+            2,
+            7,
+            2,
+            4,
+            7,
+            4,
+            5,
+            4,
+            3,
+            4,
+            1,
+            2,
+            8,
+            7,
+            2,
+            2,
+            5,
+            0,
+            2,
+            5,
+            4,
+            6,
+            9,
+            5,
+            4,
+            1,
+            3,
+            4,
+            5,
+            4,
+            4,
+            3,
+            6,
+            6,
+            3,
+            5,
+            4,
+            2,
+            1,
+            3,
+            1,
+            2,
+            2,
+            7,
+            3,
+            2,
+            1,
+            2,
+            6,
+            3,
+            3,
+            4,
+            1,
+            1,
+            4,
+            14,
+            31,
+            22,
+            31,
+            34,
+            24,
+            17,
+            10,
+            6,
+            6,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "fiftyFifty": null,
+      "topItems": [
+        {
+          "name": "Ariel",
+          "category": "b",
+          "quality": 4,
+          "count": 96,
+          "share": 21.92
+        },
+        {
+          "name": "Ultra Jake",
+          "category": "b",
+          "quality": 4,
+          "count": 63,
+          "share": 14.38
+        },
+        {
+          "name": "Sprout",
+          "category": "b",
+          "quality": 4,
+          "count": 35,
+          "share": 7.99
+        },
+        {
+          "name": "Biggest Fan",
+          "category": "b",
+          "quality": 4,
+          "count": 23,
+          "share": 5.25
+        },
+        {
+          "name": "Snap",
+          "category": "b",
+          "quality": 4,
+          "count": 23,
+          "share": 5.25
+        },
+        {
+          "name": "Butler",
+          "category": "b",
+          "quality": 4,
+          "count": 22,
+          "share": 5.02
+        },
+        {
+          "name": "Sharkboo",
+          "category": "b",
+          "quality": 4,
+          "count": 20,
+          "share": 4.57
+        },
+        {
+          "name": "Birkblick",
+          "category": "b",
+          "quality": 4,
+          "count": 17,
+          "share": 3.88
+        },
+        {
+          "name": "Devilboo",
+          "category": "b",
+          "quality": 3,
+          "count": 357,
+          "share": 8.86
+        },
+        {
+          "name": "Bagboo",
+          "category": "b",
+          "quality": 3,
+          "count": 350,
+          "share": 8.69
+        },
+        {
+          "name": "Cryboo",
+          "category": "b",
+          "quality": 3,
+          "count": 350,
+          "share": 8.69
+        },
+        {
+          "name": "Magnetiboo",
+          "category": "b",
+          "quality": 3,
+          "count": 347,
+          "share": 8.61
+        },
+        {
+          "name": "Boollseye",
+          "category": "b",
+          "quality": 3,
+          "count": 341,
+          "share": 8.47
+        },
+        {
+          "name": "Exploreboo",
+          "category": "b",
+          "quality": 3,
+          "count": 337,
+          "share": 8.37
+        },
+        {
+          "name": "Paperboo",
+          "category": "b",
+          "quality": 3,
+          "count": 336,
+          "share": 8.34
+        },
+        {
+          "name": "Avocaboo",
+          "category": "b",
+          "quality": 3,
+          "count": 334,
+          "share": 8.29
+        }
+      ],
+      "estimated": {
+        "players": 66,
+        "totalPulls": 22256,
+        "topItems": [
+          {
+            "name": "Ariel",
+            "category": "b",
+            "quality": 4,
+            "count": 96,
+            "share": 21.89
+          },
+          {
+            "name": "Ultra Jake",
+            "category": "b",
+            "quality": 4,
+            "count": 63,
+            "share": 14.42
+          },
+          {
+            "name": "Sprout",
+            "category": "b",
+            "quality": 4,
+            "count": 35,
+            "share": 8
+          },
+          {
+            "name": "Snap",
+            "category": "b",
+            "quality": 4,
+            "count": 23,
+            "share": 5.26
+          },
+          {
+            "name": "Biggest Fan",
+            "category": "b",
+            "quality": 4,
+            "count": 23,
+            "share": 5.24
+          },
+          {
+            "name": "Butler",
+            "category": "b",
+            "quality": 4,
+            "count": 22,
+            "share": 5.02
+          },
+          {
+            "name": "Sharkboo",
+            "category": "b",
+            "quality": 4,
+            "count": 20,
+            "share": 4.56
+          },
+          {
+            "name": "Birkblick",
+            "category": "b",
+            "quality": 4,
+            "count": 17,
+            "share": 3.88
+          },
+          {
+            "name": "Devilboo",
+            "category": "b",
+            "quality": 3,
+            "count": 357,
+            "share": 8.86
+          },
+          {
+            "name": "Bagboo",
+            "category": "b",
+            "quality": 3,
+            "count": 351,
+            "share": 8.69
+          },
+          {
+            "name": "Cryboo",
+            "category": "b",
+            "quality": 3,
+            "count": 350,
+            "share": 8.69
+          },
+          {
+            "name": "Magnetiboo",
+            "category": "b",
+            "quality": 3,
+            "count": 347,
+            "share": 8.62
+          },
+          {
+            "name": "Boollseye",
+            "category": "b",
+            "quality": 3,
+            "count": 341,
+            "share": 8.46
+          },
+          {
+            "name": "Exploreboo",
+            "category": "b",
+            "quality": 3,
+            "count": 337,
+            "share": 8.37
+          },
+          {
+            "name": "Paperboo",
+            "category": "b",
+            "quality": 3,
+            "count": 337,
+            "share": 8.35
+          },
+          {
+            "name": "Avocaboo",
+            "category": "b",
+            "quality": 3,
+            "count": 334,
+            "share": 8.29
+          }
+        ],
+        "coverage": 0.999
+      }
+    }
+  },
+  "methodology": {
+    "stalePlayers": 17,
+    "medianDaysSinceImport": 21,
+    "halfLifeWeeks": 52
+  }
+}
