@@ -55,6 +55,15 @@
       }
     },
     {
+      "name": "Kay",
+      "quality": "6",
+      "attributes": {
+        "elements": "nature",
+        "weapons": "polearm",
+        "classes": "vanguard"
+      }
+    },
+    {
       "name": "Laevatain",
       "quality": "6",
       "attributes": {
@@ -205,6 +214,15 @@
         "elements": "physical",
         "weapons": "greatsword",
         "classes": "striker"
+      }
+    },
+    {
+      "name": "Mimino",
+      "quality": "5",
+      "attributes": {
+        "elements": "physical",
+        "weapons": "handcannon",
+        "classes": "supporter"
       }
     },
     {
@@ -519,6 +537,14 @@
       "isNonGacha": true
     },
     {
+      "name": "Raid Comet",
+      "quality": "6",
+      "attributes": {
+        "weapons": "polearm"
+      },
+      "isNonGacha": true
+    },
+    {
       "name": "Rapid Ascent",
       "quality": "6",
       "attributes": {
@@ -538,6 +564,13 @@
       "quality": "6",
       "attributes": {
         "weapons": "greatsword"
+      }
+    },
+    {
+      "name": "Sweet Deal",
+      "quality": "6",
+      "attributes": {
+        "weapons": "polearm"
       }
     },
     {
@@ -729,6 +762,13 @@
       "quality": "5",
       "attributes": {
         "weapons": "arts unit"
+      }
+    },
+    {
+      "name": "Star of Tomorrow",
+      "quality": "5",
+      "attributes": {
+        "weapons": "handcannon"
       }
     },
     {
